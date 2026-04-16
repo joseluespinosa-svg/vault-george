@@ -1,0 +1,4 @@
+*.DS_Store
+inbox/
+.obsidian/workspace*
+.obsidian/cache
