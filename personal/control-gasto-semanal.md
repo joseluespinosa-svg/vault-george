@@ -20,14 +20,21 @@
 ## SEMANA ACTUAL
 
 **Semana del 14 al 20 de abril de 2026**
-- Gastado: 0€ (inicio de seguimiento)
-- Disponible: 200€
+
+| Categoría | Gastado | Límite | Disponible |
+|---|---|---|---|
+| Discrecional | 0€ | 200€ | 200€ |
+| Supermercado | 40,82€ (Lidl 15/04) | 100€ | 59,18€ |
+| Gasolina | 20,00€ (Ibiza-Aeropuerto 16/04) | 37,50€ | 17,50€ |
+
+**Gastos fijos registrados esta semana:**
+- Seguro coche (matrícula 7389MZF): 323,69€ — NO cuenta para límite discrecional
 
 ## HISTORIAL
 
-| Semana | Gastado | Límite | Estado |
-|---|---|---|---|
-| 14-20 abr 2026 | en curso | 200€ | 🟢 |
+| Semana | Discrecional | Super | Gasolina | Estado |
+|---|---|---|---|---|
+| 14-20 abr 2026 | 0€ | 40,82€ | 20,00€ | 🟢 |
 
 ## REGLAS ADICIONALES
 

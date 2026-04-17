@@ -31,11 +31,28 @@
 
 ---
 
+---
+
+### Carburantes Ibiza SL — 16/04/2026 — 20,00€
+**Tienda:** E.S. Carburantes Ibiza SL, Ctra. Ibiza-Aeropuerto km 1,250
+**Pago:** Waylet efectivo | 20:45h
+
+| Producto | Litros | €/L | Total |
+|----------|--------|-----|-------|
+| efitec 95 | 12,46 | 1,605€ | 20,00€ |
+| **TOTAL** | | | **20,00€** |
+
+**Semana:** 14/04 - 20/04/2026
+**Categoría:** Gasolina (límite 37,50€/semana)
+**Ticket:** 261060735110
+
+---
+
 ## Totales por semana
 
 | Semana | Importe | Dentro límite |
 |--------|---------|---------------|
-| 14-20/04/2026 | 40,82€ (Lidl) | ✅ |
+| 14-20/04/2026 | 40,82€ (Lidl) + 20,00€ (Gasolina) = 60,82€ | ✅ |
 
 ## Cómo añadir gasto
 Manda foto del ticket o di "gasté X€ en [tienda]" → lo registro aquí.
