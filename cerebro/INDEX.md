@@ -12,6 +12,35 @@
 
 ---
 
+## EMPRESA — PITICLEAN
+
+- Actividad: limpieza y mantenimiento de aire acondicionado
+- CIF: 41443135X
+- Cuenta: ES79 0081 0622 0700 0654 7464
+- Facturación: a través de primo Miguel
+
+---
+
+## VEHÍCULOS
+
+- Volkswagen Caddy — matrícula 9757MPX (furgoneta trabajo)
+- Mercedes — matrícula pendiente
+- Clio — matrícula pendiente
+- Moto — matrícula pendiente
+- Seguro coche 7389MZF (Allianz, 323,69€, caducidad 01/03/26 — renovado)
+
+---
+
+## TRABAJOS EN CURSO
+
+- **Sacha Formentera** — 18/04/2026
+  - Presupuesto 1203: 1.399,97€ IVA incl.
+  - 50% cobrado (~700€), 50% pendiente al finalizar
+  - Ferry: IBZ→FOR 09:30h, Caddy 9757MPX
+  - Archivo: [[../proyectos/trabajos/formentera-sacha-savines-2026/trabajo]]
+
+---
+
 ## CLIENTES / CONTRATOS
 
 - [[../clientes/laura/ficha-laura]] — Ficha inquilina Laura + Jamie
@@ -19,9 +48,18 @@
 
 ---
 
+## GASTOS FIJOS CONOCIDOS
+
+- Seguro coche 7389MZF: 323,69€ (Allianz Manel Palma)
+- Control gasto semanal personal: límite 200€/semana
+
+---
+
 ## CONVERSACIONES
 
 - [[../conversaciones/2026-04-15]] — Primera sesión completa
+- [[../conversaciones/2026-04-16]] — Preparación trabajo Formentera, facturas
+- [[../conversaciones/2026-04-17]] — Trabajo Sacha, mejoras sistema George
 
 ---
 
@@ -44,8 +82,9 @@
 
 ## PENDIENTES
 
+- [ ] Cobrar 50% restante a Sacha al finalizar trabajo 18/04
 - [ ] Autorizar Google Drive (para crear Sheets económico)
-- [ ] Completar seguros coches (Mercedes + Clio + moto)
+- [ ] Completar matrículas coches (Mercedes + Clio + moto) en seguros
 - [ ] Recibir firma contrato Laura/Jamie
 - [ ] Seguimiento semanal gasto tarjetas
 

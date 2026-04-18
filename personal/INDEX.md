@@ -1,5 +1,5 @@
 # Índice — personal
-_Generado: 2026-04-16 04:00_
+_Generado: 2026-04-17 04:00_
 
 ## Notas
 - [[busqueda-ebike-2026|Búsqueda eBike MTB Full Suspension — Abril 2026]]

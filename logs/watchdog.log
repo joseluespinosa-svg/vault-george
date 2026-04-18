@@ -1,0 +1,295 @@
+[08:18:54] ALERTA: sesión tmux 'george' no encontrada — reiniciando
+[08:18:54] REINICIO: sesión george creada
+[08:20:01] REINICIO: mensaje sin respuesta hace 6 min — reiniciando sesión george
+[08:20:01] REINICIO: sesión george recreada
+[08:25:01] REINICIO: mensaje sin respuesta hace 11 min — reiniciando sesión george
+[08:25:01] REINICIO: sesión george recreada
+[08:30:01] REINICIO: mensaje sin respuesta hace 16 min — reiniciando sesión george
+[08:30:01] REINICIO: sesión george recreada
+[08:35:01] REINICIO: mensaje sin respuesta hace 21 min — reiniciando sesión george
+[08:35:01] REINICIO: sesión george recreada
+[08:40:01] REINICIO: mensaje sin respuesta hace 26 min — reiniciando sesión george
+[08:40:01] REINICIO: sesión george recreada
+[08:45:01] REINICIO: mensaje sin respuesta hace 31 min — reiniciando sesión george
+[08:45:01] REINICIO: sesión george recreada
+[08:50:01] REINICIO: mensaje sin respuesta hace 36 min — reiniciando sesión george
+[08:50:01] REINICIO: sesión george recreada
+[08:55:01] REINICIO: mensaje sin respuesta hace 41 min — reiniciando sesión george
+[08:55:01] REINICIO: sesión george recreada
+[09:00:01] REINICIO: mensaje sin respuesta hace 46 min — reiniciando sesión george
+[09:00:01] REINICIO: sesión george recreada
+[09:05:01] REINICIO: mensaje sin respuesta hace 51 min — reiniciando sesión george
+[09:05:01] REINICIO: sesión george recreada
+[09:10:01] REINICIO: mensaje sin respuesta hace 56 min — reiniciando sesión george
+[09:10:01] REINICIO: sesión george recreada
+[09:15:01] REINICIO: mensaje sin respuesta hace 61 min — reiniciando sesión george
+[09:15:01] REINICIO: sesión george recreada
+[09:20:01] REINICIO: mensaje sin respuesta hace 66 min — reiniciando sesión george
+[09:20:01] REINICIO: sesión george recreada
+[09:25:01] REINICIO: mensaje sin respuesta hace 71 min — reiniciando sesión george
+[09:25:01] REINICIO: sesión george recreada
+[09:30:01] REINICIO: mensaje sin respuesta hace 76 min — reiniciando sesión george
+[09:30:01] REINICIO: sesión george recreada
+[09:35:01] REINICIO: mensaje sin respuesta hace 81 min — reiniciando sesión george
+[09:35:01] REINICIO: sesión george recreada
+[09:40:01] REINICIO: mensaje sin respuesta hace 86 min — reiniciando sesión george
+[09:40:01] REINICIO: sesión george recreada
+[09:45:01] REINICIO: mensaje sin respuesta hace 91 min — reiniciando sesión george
+[09:45:01] REINICIO: sesión george recreada
+[09:50:01] REINICIO: mensaje sin respuesta hace 96 min — reiniciando sesión george
+[09:50:01] REINICIO: sesión george recreada
+[09:55:01] REINICIO: mensaje sin respuesta hace 101 min — reiniciando sesión george
+[09:55:01] REINICIO: sesión george recreada
+[10:00:01] OK (mensaje hace 1 min, dentro del límite)
+[10:05:01] OK (respuesta enviada correctamente)
+[10:10:01] OK (respuesta enviada correctamente)
+[10:15:01] OK (respuesta enviada correctamente)
+[10:20:01] OK (respuesta enviada correctamente)
+[10:25:01] OK (respuesta enviada correctamente)
+[10:30:01] OK (respuesta enviada correctamente)
+[10:35:01] OK (respuesta enviada correctamente)
+[10:40:01] OK (respuesta enviada correctamente)
+[10:45:01] OK (respuesta enviada correctamente)
+[10:50:01] OK (respuesta enviada correctamente)
+[10:55:01] OK (respuesta enviada correctamente)
+[11:00:01] OK (respuesta enviada correctamente)
+[11:05:01] OK (respuesta enviada correctamente)
+[11:10:01] OK (respuesta enviada correctamente)
+[11:15:01] OK (respuesta enviada correctamente)
+[11:20:01] OK (respuesta enviada correctamente)
+[11:25:01] OK (respuesta enviada correctamente)
+[11:30:01] OK (respuesta enviada correctamente)
+[11:35:01] OK (respuesta enviada correctamente)
+[11:40:01] OK (respuesta enviada correctamente)
+[11:45:01] OK (respuesta enviada correctamente)
+[11:50:01] OK (respuesta enviada correctamente)
+[11:55:01] OK (respuesta enviada correctamente)
+[12:00:01] OK (respuesta enviada correctamente)
+[12:05:01] OK (respuesta enviada correctamente)
+[12:10:01] OK (respuesta enviada correctamente)
+[12:15:01] OK (respuesta enviada correctamente)
+[12:20:01] OK (respuesta enviada correctamente)
+[12:25:01] OK (mensaje hace 1 min, dentro del límite)
+[12:30:01] REINICIO: mensaje sin respuesta hace 6 min — reiniciando sesión george
+[12:30:01] REINICIO: sesión george recreada
+[12:35:01] REINICIO: mensaje sin respuesta hace 11 min — reiniciando sesión george
+[12:35:01] REINICIO: sesión george recreada
+[12:40:01] REINICIO: mensaje sin respuesta hace 16 min — reiniciando sesión george
+[12:40:01] REINICIO: sesión george recreada
+[12:45:01] REINICIO: mensaje sin respuesta hace 21 min — reiniciando sesión george
+[12:45:01] REINICIO: sesión george recreada
+[12:50:01] REINICIO: mensaje sin respuesta hace 26 min — reiniciando sesión george
+[12:50:01] REINICIO: sesión george recreada
+[12:55:01] REINICIO: mensaje sin respuesta hace 31 min — reiniciando sesión george
+[12:55:01] REINICIO: sesión george recreada
+[13:00:01] REINICIO: mensaje sin respuesta hace 36 min — reiniciando sesión george
+[13:00:01] REINICIO: sesión george recreada
+[13:05:01] REINICIO: mensaje sin respuesta hace 41 min — reiniciando sesión george
+[13:05:01] REINICIO: sesión george recreada
+[13:10:01] REINICIO: mensaje sin respuesta hace 46 min — reiniciando sesión george
+[13:10:01] REINICIO: sesión george recreada
+[13:15:01] REINICIO: mensaje sin respuesta hace 51 min — reiniciando sesión george
+[13:15:01] REINICIO: sesión george recreada
+[13:20:01] REINICIO: mensaje sin respuesta hace 56 min — reiniciando sesión george
+[13:20:01] REINICIO: sesión george recreada
+[13:25:01] REINICIO: mensaje sin respuesta hace 61 min — reiniciando sesión george
+[13:25:01] REINICIO: sesión george recreada
+[13:30:01] REINICIO: mensaje sin respuesta hace 66 min — reiniciando sesión george
+[13:30:01] REINICIO: sesión george recreada
+[13:35:01] REINICIO: mensaje sin respuesta hace 71 min — reiniciando sesión george
+[13:35:01] REINICIO: sesión george recreada
+[13:40:01] REINICIO: mensaje sin respuesta hace 76 min — reiniciando sesión george
+[13:40:01] REINICIO: sesión george recreada
+[13:45:01] REINICIO: mensaje sin respuesta hace 81 min — reiniciando sesión george
+[13:45:01] REINICIO: sesión george recreada
+[13:50:01] REINICIO: mensaje sin respuesta hace 86 min — reiniciando sesión george
+[13:50:01] REINICIO: sesión george recreada
+[13:55:01] REINICIO: mensaje sin respuesta hace 91 min — reiniciando sesión george
+[13:55:01] REINICIO: sesión george recreada
+[14:00:01] OK (respuesta enviada correctamente)
+[14:05:01] OK (respuesta enviada correctamente)
+[14:10:01] OK (respuesta enviada correctamente)
+[14:15:01] OK (respuesta enviada correctamente)
+[14:20:01] OK (respuesta enviada correctamente)
+[14:25:01] OK (respuesta enviada correctamente)
+[14:30:01] OK (respuesta enviada correctamente)
+[14:35:01] OK (respuesta enviada correctamente)
+[14:40:01] OK (respuesta enviada correctamente)
+[14:45:01] OK (respuesta enviada correctamente)
+[14:50:01] OK (respuesta enviada correctamente)
+[14:55:01] OK (respuesta enviada correctamente)
+[15:00:01] OK (respuesta enviada correctamente)
+[15:05:01] OK (respuesta enviada correctamente)
+[15:10:01] OK (respuesta enviada correctamente)
+[15:15:01] OK (respuesta enviada correctamente)
+[15:20:01] OK (respuesta enviada correctamente)
+[15:25:01] OK (respuesta enviada correctamente)
+[15:30:01] OK (respuesta enviada correctamente)
+[15:35:01] OK (respuesta enviada correctamente)
+[15:40:01] OK (respuesta enviada correctamente)
+[15:45:01] OK (respuesta enviada correctamente)
+[15:50:01] OK (respuesta enviada correctamente)
+[15:55:01] OK (mensaje hace 1 min, dentro del límite)
+[16:00:01] REINICIO: mensaje sin respuesta hace 6 min — reiniciando sesión george
+[16:00:01] REINICIO: sesión george recreada
+[16:05:01] REINICIO: mensaje sin respuesta hace 11 min — reiniciando sesión george
+[16:05:01] REINICIO: sesión george recreada
+[16:10:01] REINICIO: mensaje sin respuesta hace 16 min — reiniciando sesión george
+[16:10:01] REINICIO: sesión george recreada
+[16:15:01] OK (respuesta enviada correctamente)
+[16:20:01] OK (mensaje hace 1 min, dentro del límite)
+[16:25:01] OK (respuesta enviada correctamente)
+[16:30:01] OK (respuesta enviada correctamente)
+[16:35:01] OK (mensaje hace 1 min, dentro del límite)
+[16:40:01] OK (respuesta enviada correctamente)
+[16:45:01] OK (respuesta enviada correctamente)
+[16:50:01] OK (respuesta enviada correctamente)
+[16:55:01] OK (respuesta enviada correctamente)
+[17:00:01] OK (respuesta enviada correctamente)
+[17:05:01] OK (respuesta enviada correctamente)
+[17:10:01] OK (respuesta enviada correctamente)
+[17:15:01] OK (respuesta enviada correctamente)
+[17:20:01] OK (respuesta enviada correctamente)
+[17:25:01] OK (respuesta enviada correctamente)
+[17:30:02] OK (respuesta enviada correctamente)
+[17:35:01] OK (mensaje hace 1 min, dentro del límite)
+[17:40:01] OK (respuesta enviada correctamente)
+[17:45:01] OK (respuesta enviada correctamente)
+[17:50:01] OK (respuesta enviada correctamente)
+[17:55:01] OK (respuesta enviada correctamente)
+[18:00:01] REINICIO: mensaje sin respuesta hace 4 min — reiniciando sesión george
+[18:00:01] REINICIO: sesión george recreada
+[18:05:01] REINICIO: mensaje sin respuesta hace 9 min — reiniciando sesión george
+[18:05:01] REINICIO: sesión george recreada
+[18:10:01] REINICIO: mensaje sin respuesta hace 14 min — reiniciando sesión george
+[18:10:01] REINICIO: sesión george recreada
+[18:15:01] REINICIO: mensaje sin respuesta hace 19 min — reiniciando sesión george
+[18:15:01] REINICIO: sesión george recreada
+[18:20:01] REINICIO: mensaje sin respuesta hace 5 min — reiniciando sesión george
+[18:20:01] REINICIO: sesión george recreada
+[18:25:01] REINICIO: mensaje sin respuesta hace 10 min — reiniciando sesión george
+[18:25:01] REINICIO: sesión george recreada
+[18:30:01] REINICIO: mensaje sin respuesta hace 15 min — reiniciando sesión george
+[18:30:01] REINICIO: sesión george recreada
+[18:35:01] REINICIO: mensaje sin respuesta hace 20 min — reiniciando sesión george
+[18:35:01] REINICIO: sesión george recreada
+[18:40:01] REINICIO: mensaje sin respuesta hace 25 min — reiniciando sesión george
+[18:40:01] REINICIO: sesión george recreada
+[18:45:01] REINICIO: mensaje sin respuesta hace 30 min — reiniciando sesión george
+[18:45:01] REINICIO: sesión george recreada
+[18:50:01] REINICIO: mensaje sin respuesta hace 35 min — reiniciando sesión george
+[18:50:01] REINICIO: sesión george recreada
+[18:55:01] REINICIO: mensaje sin respuesta hace 40 min — reiniciando sesión george
+[18:55:01] REINICIO: sesión george recreada
+[19:00:01] REINICIO: mensaje sin respuesta hace 45 min — reiniciando sesión george
+[19:00:01] REINICIO: sesión george recreada
+[19:05:01] REINICIO: mensaje sin respuesta hace 50 min — reiniciando sesión george
+[19:05:01] REINICIO: sesión george recreada
+[19:10:01] REINICIO: mensaje sin respuesta hace 55 min — reiniciando sesión george
+[19:10:01] REINICIO: sesión george recreada
+[19:15:01] REINICIO: mensaje sin respuesta hace 60 min — reiniciando sesión george
+[19:15:01] REINICIO: sesión george recreada
+[19:20:01] REINICIO: mensaje sin respuesta hace 65 min — reiniciando sesión george
+[19:20:01] REINICIO: sesión george recreada
+[19:25:01] REINICIO: mensaje sin respuesta hace 70 min — reiniciando sesión george
+[19:25:01] REINICIO: sesión george recreada
+[19:30:01] REINICIO: mensaje sin respuesta hace 75 min — reiniciando sesión george
+[19:30:01] REINICIO: sesión george recreada
+[19:35:01] REINICIO: mensaje sin respuesta hace 80 min — reiniciando sesión george
+[19:35:01] REINICIO: sesión george recreada
+[19:40:01] REINICIO: mensaje sin respuesta hace 85 min — reiniciando sesión george
+[19:40:01] REINICIO: sesión george recreada
+[19:45:01] REINICIO: mensaje sin respuesta hace 90 min — reiniciando sesión george
+[19:45:01] REINICIO: sesión george recreada
+[19:50:01] REINICIO: mensaje sin respuesta hace 95 min — reiniciando sesión george
+[19:50:01] REINICIO: sesión george recreada
+[19:55:01] REINICIO: mensaje sin respuesta hace 100 min — reiniciando sesión george
+[19:55:01] REINICIO: sesión george recreada
+[20:00:01] REINICIO: mensaje sin respuesta hace 105 min — reiniciando sesión george
+[20:00:01] REINICIO: sesión george recreada
+[20:05:01] REINICIO: mensaje sin respuesta hace 110 min — reiniciando sesión george
+[20:05:01] REINICIO: sesión george recreada
+[20:10:01] REINICIO: mensaje sin respuesta hace 115 min — reiniciando sesión george
+[20:10:01] REINICIO: sesión george recreada
+[20:15:01] REINICIO: mensaje sin respuesta hace 120 min — reiniciando sesión george
+[20:15:01] REINICIO: sesión george recreada
+[20:20:01] REINICIO: mensaje sin respuesta hace 125 min — reiniciando sesión george
+[20:20:01] REINICIO: sesión george recreada
+[20:25:01] REINICIO: mensaje sin respuesta hace 130 min — reiniciando sesión george
+[20:25:01] REINICIO: sesión george recreada
+[20:30:01] REINICIO: mensaje sin respuesta hace 135 min — reiniciando sesión george
+[20:30:01] REINICIO: sesión george recreada
+[20:35:01] REINICIO: mensaje sin respuesta hace 140 min — reiniciando sesión george
+[20:35:01] REINICIO: sesión george recreada
+[20:40:02] REINICIO: mensaje sin respuesta hace 145 min — reiniciando sesión george
+[20:40:02] REINICIO: sesión george recreada
+[20:45:01] REINICIO: mensaje sin respuesta hace 150 min — reiniciando sesión george
+[20:45:01] REINICIO: sesión george recreada
+[20:50:01] REINICIO: mensaje sin respuesta hace 155 min — reiniciando sesión george
+[20:50:01] REINICIO: sesión george recreada
+[20:55:01] REINICIO: mensaje sin respuesta hace 160 min — reiniciando sesión george
+[20:55:01] REINICIO: sesión george recreada
+[21:00:01] REINICIO: mensaje sin respuesta hace 165 min — reiniciando sesión george
+[21:00:01] REINICIO: sesión george recreada
+[21:05:01] REINICIO: mensaje sin respuesta hace 170 min — reiniciando sesión george
+[21:05:01] REINICIO: sesión george recreada
+[21:10:01] REINICIO: mensaje sin respuesta hace 175 min — reiniciando sesión george
+[21:10:01] REINICIO: sesión george recreada
+[21:15:01] OK (mensaje hace 1 min, dentro del límite)
+[21:20:01] OK (respuesta enviada correctamente)
+[21:25:02] OK (respuesta enviada correctamente)
+[21:30:01] OK (mensaje hace 1 min, dentro del límite)
+[21:35:01] OK (respuesta enviada correctamente)
+[21:40:01] OK (respuesta enviada correctamente)
+[21:45:01] OK (respuesta enviada correctamente)
+[21:50:01] OK (respuesta enviada correctamente)
+[21:55:01] OK (respuesta enviada correctamente)
+[22:00:01] OK (respuesta enviada correctamente)
+[22:05:01] OK (respuesta enviada correctamente)
+[22:10:01] OK (respuesta enviada correctamente)
+[22:15:01] OK (respuesta enviada correctamente)
+[22:20:02] OK (respuesta enviada correctamente)
+[22:25:01] OK (respuesta enviada correctamente)
+[22:30:01] OK (respuesta enviada correctamente)
+[22:35:01] OK (respuesta enviada correctamente)
+[22:40:01] OK (respuesta enviada correctamente)
+[22:45:01] OK (respuesta enviada correctamente)
+[22:50:01] OK (mensaje hace 1 min, dentro del límite)
+[22:55:01] OK (respuesta enviada correctamente)
+[23:00:01] OK (respuesta enviada correctamente)
+[23:05:01] OK (respuesta enviada correctamente)
+[23:10:01] OK (respuesta enviada correctamente)
+[23:15:01] OK (respuesta enviada correctamente)
+[23:20:01] OK (respuesta enviada correctamente)
+[23:25:01] OK (respuesta enviada correctamente)
+[23:30:01] OK (respuesta enviada correctamente)
+[23:35:01] OK (respuesta enviada correctamente)
+[23:40:01] OK (respuesta enviada correctamente)
+[23:45:01] OK (respuesta enviada correctamente)
+[23:50:01] OK (respuesta enviada correctamente)
+[23:55:01] OK (respuesta enviada correctamente)
+[00:00:01] OK (sin log hoy, sin mensajes pendientes)
+[00:05:01] OK (sin log hoy, sin mensajes pendientes)
+[00:10:01] OK (sin log hoy, sin mensajes pendientes)
+[00:15:01] OK (sin log hoy, sin mensajes pendientes)
+[00:20:01] OK (sin log hoy, sin mensajes pendientes)
+[00:25:01] OK (sin log hoy, sin mensajes pendientes)
+[00:30:01] OK (sin log hoy, sin mensajes pendientes)
+[00:35:01] OK (sin log hoy, sin mensajes pendientes)
+[00:40:01] OK (sin log hoy, sin mensajes pendientes)
+[00:45:01] OK (sin log hoy, sin mensajes pendientes)
+[00:50:01] OK (sin log hoy, sin mensajes pendientes)
+[00:55:01] OK (sin log hoy, sin mensajes pendientes)
+[01:00:01] OK (sin log hoy, sin mensajes pendientes)
+[01:05:01] OK (sin log hoy, sin mensajes pendientes)
+[01:10:01] OK (sin log hoy, sin mensajes pendientes)
+[01:15:01] OK (sin log hoy, sin mensajes pendientes)
+[01:20:01] OK (sin log hoy, sin mensajes pendientes)
+[01:25:01] OK (sin log hoy, sin mensajes pendientes)
+[01:30:01] OK (sin log hoy, sin mensajes pendientes)
+[01:35:02] OK (sin log hoy, sin mensajes pendientes)
+[01:40:01] OK (sin log hoy, sin mensajes pendientes)
+[01:45:01] OK (sin log hoy, sin mensajes pendientes)
+[01:50:01] OK (sin log hoy, sin mensajes pendientes)
+[01:55:01] OK (sin log hoy, sin mensajes pendientes)
+[02:00:01] OK (sin log hoy, sin mensajes pendientes)

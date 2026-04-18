@@ -24,7 +24,7 @@
 | Categoría | Gastado | Límite | Disponible |
 |---|---|---|---|
 | Discrecional | 0€ | 200€ | 200€ |
-| Supermercado | 40,82€ (Lidl 15/04) | 100€ | 59,18€ |
+| Supermercado | 55,53€ (Lidl 15/04 + Carnicería 6,51€ + Vecinos 8,20€ · 17/04) | 100€ | 44,47€ |
 | Gasolina | 20,00€ (Ibiza-Aeropuerto 16/04) | 37,50€ | 17,50€ |
 
 **Gastos fijos registrados esta semana:**
