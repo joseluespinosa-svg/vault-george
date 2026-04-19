@@ -1,5 +1,5 @@
 # ACTIVO — Trabajos y estado actual
-_Actualizado: 2026-04-17
+_Actualizado: 2026-04-18
 
 ## TRABAJO EN CURSO: Sacha Formentera
 

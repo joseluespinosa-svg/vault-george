@@ -1,5 +1,5 @@
 # Índice — tareas
-_Generado: 2026-04-17 04:00_
+_Generado: 2026-04-18 04:00_
 
 ## Subcarpetas
 - [[diario/INDEX|diario/]]
