@@ -12,7 +12,11 @@
 - Nº: 1203
 - Total: 1.399,97 € IVA incluido
 - Cobrado (50% reserva): ~700 €
-- Pendiente al finalizar: ~700 €
+- Cobrado al finalizar (18/04): 460 € (sin IVA, petición del cliente)
+- **PENDIENTE: ~240 €** (cliente paga el otro día)
+- Total cobrado: ~1.160 € de 1.399,97 €
+
+⚠️ IVA: el cliente pidió facturar sin IVA. Consultar con gestor antes de cerrar factura.
 
 ## Servicios incluidos
 - Limpieza técnica + desinfección bactericida y fungicida (4 uds. interiores)
