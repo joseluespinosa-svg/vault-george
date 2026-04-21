@@ -11,3 +11,8 @@
 
 ## Conversaciones relacionadas
 - [[../conversaciones/2026-04-15]]
+
+## Ver también
+- [[../personal/perfil-economico|Perfil económico]]
+- [[../temas/finanzas-personales|Finanzas personales]]
+- [[../cerebro/critico|CRÍTICO — ingresos pendientes]]

@@ -15,3 +15,8 @@
 
 ## Conversaciones relacionadas
 - [[../conversaciones/2026-04-15]]
+
+## Ver también
+- [[../personal/busqueda-ebike-2026|Búsqueda e-bike (detalle)]]
+- [[../personal/perfil-economico|Perfil económico — presupuesto]]
+- [[../personal/control-gasto-semanal|Control gasto semanal]]

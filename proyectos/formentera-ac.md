@@ -60,3 +60,8 @@
 - Es isla: no hay vuelta fácil → llevar TODO en la primera visita
 - Sin equivocaciones en material
 - Llevar factura/albarán para firmar en obra
+
+## Ver también
+- [[trabajos/formentera-sacha-savines-2026/trabajo|Trabajo Sacha — detalle y cobro]]
+- [[../cerebro/critico|CRÍTICO — pendientes de cobro]]
+- [[../cerebro/activo|Estado activo]]

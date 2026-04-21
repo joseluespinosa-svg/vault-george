@@ -1,12 +1,15 @@
 # CRÍTICO — Dinero, clientes, decisiones importantes
-_Actualizado: 2026-04-19
+_Actualizado: 2026-04-20
 
 ## DINERO
 
-### Trabajo Sacha Formentera
+### Trabajo Sacha Formentera — COMPLETADO 18/04/2026
 - Presupuesto 1203: 1.399,97€ IVA incl. (base: 1.157€)
-- Cobrado: ~700€ (50% reserva)
-- PENDIENTE COBRAR: ~700€ al finalizar trabajo (18/04/2026)
+- Cobrado reserva: ~700€
+- Cobrado al finalizar (18/04): 460€ (sin IVA, petición del cliente)
+- **PENDIENTE: ~240€** (Sacha paga otro día — sin fecha confirmada)
+- Total cobrado: ~1.160€ de 1.399,97€
+- ⚠️ ALERTA IVA: cliente pidió facturar sin IVA — consultar con gestor antes de cerrar factura
 - Cuenta cobro: ES79 0081 0622 0700 0654 7464
 
 ### Gastos trabajo Formentera
@@ -25,10 +28,12 @@ _Actualizado: 2026-04-19
 - Propiedad: SCI SAVINA 55-56, Almadrava 9, La Savina, Formentera
 - Trabajo: 18/04/2026
 - Estado: confirmado, 50% pagado
+- Ver: [[../proyectos/trabajos/formentera-sacha-savines-2026/trabajo|Trabajo Sacha Formentera]]
 
 ### Laura + Jamie
 - Contrato arrendamiento San Antonio (May 2026 → Mar 2027)
 - Pendiente: firma contrato
+- Ver: [[../clientes/laura/ficha-laura|Ficha Laura]] · [[../temas/laura-contrato|Contrato Laura]]
 
 ## EMPRESA PITICLEAN
 - CIF: 41443135X
@@ -44,4 +49,11 @@ _Actualizado: 2026-04-19
 ## GESTORÍA / FISCAL
 - Gestor: contacto para renta 2025 (Jose Luis + Karina)
 - PENDIENTE: declaración renta año 2025 (ambos)
+
+## Ver también
+- [[activo|Estado activo y pendientes]]
+- [[alertas|Alertas activas]]
+- [[acciones|Acciones pendientes]]
+- [[../personal/perfil-economico|Perfil económico completo]]
+- [[../temas/finanzas-personales|Finanzas personales]]
 

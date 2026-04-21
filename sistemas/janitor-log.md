@@ -277,3 +277,84 @@ _Sin links rotos_
 - `tareas/INDEX.md`
 - `temas/INDEX.md`
 
+
+## 2026-04-20 04:00
+
+### Duplicados (1 grupos)
+- Hash `f938189b`: `tareas/dashboard.md`, `tareas/pendientes-2026-04-15.md`
+
+### Notas huérfanas (34)
+- `sistemas/innovacion-2026-04-18.md`
+- `sistemas/innovacion-2026-04-19.md`
+- `sistemas/analisis-semanal-2026-04-18.md`
+- `sistemas/lint-log.md`
+- `sistemas/analisis-semanal-2026-04-19.md`
+- `sistemas/innovacion-2026-04-16.md`
+- `sistemas/mejoras-diarias.md`
+- `sistemas/ingest-log.md`
+- `sistemas/innovacion-2026-04-17.md`
+- `proyectos/formentera-ac.md`
+- `temas/facturas-empresa.md`
+- `temas/gastos-supermercado.md`
+- `cerebro/archivo.md`
+- `cerebro/activo.md`
+- `cerebro/escenarios.md`
+- `cerebro/perfil-cognitivo.md`
+- `cerebro/ultima-revision.txt`
+- `cerebro/actores.md`
+- `cerebro/alertas.md`
+- `cerebro/checkpoint-ultimo.md`
+- `cerebro/acciones.md`
+- `cerebro/critico.md`
+- `cerebro/causas.md`
+- `cerebro/decisiones.md`
+- `tareas/dashboard.md`
+- `tareas/pendientes-2026-04-15.md`
+- `Obsidian Vault/Untitled.md`
+- `personal/test-obsidian.md`
+- `conversaciones/2026-04-15.md`
+- `conversaciones/2026-04-17.md`
+- `conversaciones/2026-04-19.md`
+- `conversaciones/2026-04-18.md`
+- `conversaciones/2026-04-16.md`
+- `proyectos/trabajos/formentera-sacha-savines-2026/trabajo.md`
+
+### Links rotos (312 en 14 notas)
+- `REGLAS.md`: `[[nombre-archivo]]`
+- `sistemas/janitor-log.md`: `[[../conversaciones/2026-04-15]]`, `[[../conversaciones/2026-04-15]]`, `[[../clientes/contrato-arrendamiento-san-antonio-JAMIE-2026-EN]]`, `[[../clientes/laura/ficha-laura]]`, `[[../conversaciones/2026-04-15]]`, `[[../conversaciones/2026-04-15]]`, `[[../conversaciones/2026-04-15]]`, `[[../temas/finanzas-personales]]`, `[[../temas/finanzas-personales]]`, `[[../temas/gastos-supermercado]]`, `[[../temas/finanzas-personales]]`, `[[../temas/gastos-supermercado]]`, `[[../clientes/laura/ficha-laura]]`, `[[../temas/finanzas-personales]]`, `[[../temas/gastos-supermercado]]`, `[[../temas/oposicion-policia]]`, `[[../temas/ebike-busqueda]]`, `[[../../temas/laura-contrato]]`, `[[../../cerebro/INDEX]]`, `[[nombre-archivo]]`, `[[../conversaciones/2026-04-15]]`, `[[../conversaciones/2026-04-15]]`, `[[../clientes/contrato-arrendamiento-san-antonio-JAMIE-2026-EN]]`, `[[../clientes/laura/ficha-laura]]`, `[[../conversaciones/2026-04-15]]`, `[[../conversaciones/2026-04-15]]`, `[[../conversaciones/2026-04-15]]`, `[[../temas/finanzas-personales]]`, `[[../temas/finanzas-personales]]`, `[[../temas/gastos-supermercado]]`, `[[../temas/finanzas-personales]]`, `[[../temas/gastos-supermercado]]`, `[[../clientes/laura/ficha-laura]]`, `[[../temas/finanzas-personales]]`, `[[../temas/gastos-supermercado]]`, `[[../temas/oposicion-policia]]`, `[[../temas/ebike-busqueda]]`, `[[../../temas/laura-contrato]]`, `[[../../cerebro/INDEX]]`, `[[../conversaciones/2026-04-15]]`, `[[../conversaciones/2026-04-15]]`, `[[../clientes/contrato-arrendamiento-san-antonio-JAMIE-2026-EN]]`, `[[../clientes/laura/ficha-laura]]`, `[[../conversaciones/2026-04-15]]`, `[[../conversaciones/2026-04-15]]`, `[[../conversaciones/2026-04-15]]`, `[[../temas/finanzas-personales]]`, `[[../temas/finanzas-personales]]`, `[[../temas/gastos-supermercado]]`, `[[../temas/finanzas-personales]]`, `[[../temas/gastos-supermercado]]`, `[[../clientes/laura/ficha-laura]]`, `[[../temas/finanzas-personales]]`, `[[../temas/gastos-supermercado]]`, `[[../temas/oposicion-policia]]`, `[[../temas/ebike-busqueda]]`, `[[../../temas/laura-contrato]]`, `[[../../cerebro/INDEX]]`, `[[nombre-archivo]]`, `[[../conversaciones/2026-04-15]]`, `[[../conversaciones/2026-04-15]]`, `[[../clientes/contrato-arrendamiento-san-antonio-JAMIE-2026-EN]]`, `[[../clientes/laura/ficha-laura]]`, `[[../conversaciones/2026-04-15]]`, `[[../conversaciones/2026-04-15]]`, `[[../conversaciones/2026-04-15]]`, `[[../temas/finanzas-personales]]`, `[[../temas/finanzas-personales]]`, `[[../temas/gastos-supermercado]]`, `[[../temas/finanzas-personales]]`, `[[../temas/gastos-supermercado]]`, `[[../clientes/laura/ficha-laura]]`, `[[../temas/finanzas-personales]]`, `[[../temas/gastos-supermercado]]`, `[[../temas/oposicion-policia]]`, `[[../temas/ebike-busqueda]]`, `[[../../temas/laura-contrato]]`, `[[../../cerebro/INDEX]]`, `[[nombre-archivo]]`, `[[../conversaciones/2026-04-15]]`, `[[../conversaciones/2026-04-15]]`, `[[../clientes/contrato-arrendamiento-san-antonio-JAMIE-2026-EN]]`, `[[../clientes/laura/ficha-laura]]`, `[[../conversaciones/2026-04-15]]`, `[[../conversaciones/2026-04-15]]`, `[[../conversaciones/2026-04-15]]`, `[[../temas/finanzas-personales]]`, `[[../temas/finanzas-personales]]`, `[[../temas/gastos-supermercado]]`, `[[../temas/finanzas-personales]]`, `[[../temas/gastos-supermercado]]`, `[[../clientes/laura/ficha-laura]]`, `[[../temas/finanzas-personales]]`, `[[../temas/gastos-supermercado]]`, `[[../temas/oposicion-policia]]`, `[[../temas/ebike-busqueda]]`, `[[../../temas/laura-contrato]]`, `[[../../cerebro/INDEX]]`, `[[../conversaciones/2026-04-15]]`, `[[../conversaciones/2026-04-15]]`, `[[../clientes/contrato-arrendamiento-san-antonio-JAMIE-2026-EN]]`, `[[../clientes/laura/ficha-laura]]`, `[[../conversaciones/2026-04-15]]`, `[[../conversaciones/2026-04-15]]`, `[[../conversaciones/2026-04-15]]`, `[[../temas/finanzas-personales]]`, `[[../temas/finanzas-personales]]`, `[[../temas/gastos-supermercado]]`, `[[../temas/finanzas-personales]]`, `[[../temas/gastos-supermercado]]`, `[[../clientes/laura/ficha-laura]]`, `[[../temas/finanzas-personales]]`, `[[../temas/gastos-supermercado]]`, `[[../temas/oposicion-policia]]`, `[[../temas/ebike-busqueda]]`, `[[../../temas/laura-contrato]]`, `[[../../cerebro/INDEX]]`, `[[../conversaciones/2026-04-15]]`, `[[../conversaciones/2026-04-15]]`, `[[../clientes/contrato-arrendamiento-san-antonio-JAMIE-2026-EN]]`, `[[../clientes/laura/ficha-laura]]`, `[[../conversaciones/2026-04-15]]`, `[[../conversaciones/2026-04-15]]`, `[[../conversaciones/2026-04-15]]`, `[[../temas/finanzas-personales]]`, `[[../temas/finanzas-personales]]`, `[[../temas/gastos-supermercado]]`, `[[../temas/finanzas-personales]]`, `[[../temas/gastos-supermercado]]`, `[[../clientes/laura/ficha-laura]]`, `[[../temas/finanzas-personales]]`, `[[../temas/gastos-supermercado]]`, `[[../temas/oposicion-policia]]`, `[[../temas/ebike-busqueda]]`, `[[../../temas/laura-contrato]]`, `[[../../cerebro/INDEX]]`, `[[nombre-archivo]]`, `[[../conversaciones/2026-04-15]]`, `[[../conversaciones/2026-04-15]]`, `[[../clientes/contrato-arrendamiento-san-antonio-JAMIE-2026-EN]]`, `[[../clientes/laura/ficha-laura]]`, `[[../conversaciones/2026-04-15]]`, `[[../conversaciones/2026-04-15]]`, `[[../conversaciones/2026-04-15]]`, `[[../temas/finanzas-personales]]`, `[[../temas/finanzas-personales]]`, `[[../temas/gastos-supermercado]]`, `[[../temas/finanzas-personales]]`, `[[../temas/gastos-supermercado]]`, `[[../clientes/laura/ficha-laura]]`, `[[../temas/finanzas-personales]]`, `[[../temas/gastos-supermercado]]`, `[[../temas/oposicion-policia]]`, `[[../temas/ebike-busqueda]]`, `[[../../temas/laura-contrato]]`, `[[../../cerebro/INDEX]]`, `[[nombre-archivo]]`, `[[../conversaciones/2026-04-15]]`, `[[../conversaciones/2026-04-15]]`, `[[../clientes/contrato-arrendamiento-san-antonio-JAMIE-2026-EN]]`, `[[../clientes/laura/ficha-laura]]`, `[[../conversaciones/2026-04-15]]`, `[[../conversaciones/2026-04-15]]`, `[[../conversaciones/2026-04-15]]`, `[[../temas/finanzas-personales]]`, `[[../temas/finanzas-personales]]`, `[[../temas/gastos-supermercado]]`, `[[../temas/finanzas-personales]]`, `[[../temas/gastos-supermercado]]`, `[[../clientes/laura/ficha-laura]]`, `[[../temas/finanzas-personales]]`, `[[../temas/gastos-supermercado]]`, `[[../temas/oposicion-policia]]`, `[[../temas/ebike-busqueda]]`, `[[../../temas/laura-contrato]]`, `[[../../cerebro/INDEX]]`, `[[../conversaciones/2026-04-15]]`, `[[../conversaciones/2026-04-15]]`, `[[../clientes/contrato-arrendamiento-san-antonio-JAMIE-2026-EN]]`, `[[../clientes/laura/ficha-laura]]`, `[[../conversaciones/2026-04-15]]`, `[[../conversaciones/2026-04-15]]`, `[[../conversaciones/2026-04-15]]`, `[[../temas/finanzas-personales]]`, `[[../temas/finanzas-personales]]`, `[[../temas/gastos-supermercado]]`, `[[../temas/finanzas-personales]]`, `[[../temas/gastos-supermercado]]`, `[[../clientes/laura/ficha-laura]]`, `[[../temas/finanzas-personales]]`, `[[../temas/gastos-supermercado]]`, `[[../temas/oposicion-policia]]`, `[[../temas/ebike-busqueda]]`, `[[../../temas/laura-contrato]]`, `[[../../cerebro/INDEX]]`, `[[nombre-archivo]]`, `[[../conversaciones/2026-04-15]]`, `[[../conversaciones/2026-04-15]]`, `[[../clientes/contrato-arrendamiento-san-antonio-JAMIE-2026-EN]]`, `[[../clientes/laura/ficha-laura]]`, `[[../conversaciones/2026-04-15]]`, `[[../conversaciones/2026-04-15]]`, `[[../conversaciones/2026-04-15]]`, `[[../temas/finanzas-personales]]`, `[[../temas/finanzas-personales]]`, `[[../temas/gastos-supermercado]]`, `[[../temas/finanzas-personales]]`, `[[../temas/gastos-supermercado]]`, `[[../clientes/laura/ficha-laura]]`, `[[../temas/finanzas-personales]]`, `[[../temas/gastos-supermercado]]`, `[[../temas/oposicion-policia]]`, `[[../temas/ebike-busqueda]]`, `[[../../temas/laura-contrato]]`, `[[../../cerebro/INDEX]]`, `[[nombre-archivo]]`, `[[../conversaciones/2026-04-15]]`, `[[../conversaciones/2026-04-15]]`, `[[../clientes/contrato-arrendamiento-san-antonio-JAMIE-2026-EN]]`, `[[../clientes/laura/ficha-laura]]`, `[[../conversaciones/2026-04-15]]`, `[[../conversaciones/2026-04-15]]`, `[[../conversaciones/2026-04-15]]`, `[[../temas/finanzas-personales]]`, `[[../temas/finanzas-personales]]`, `[[../temas/gastos-supermercado]]`, `[[../temas/finanzas-personales]]`, `[[../temas/gastos-supermercado]]`, `[[../clientes/laura/ficha-laura]]`, `[[../temas/finanzas-personales]]`, `[[../temas/gastos-supermercado]]`, `[[../temas/oposicion-policia]]`, `[[../temas/ebike-busqueda]]`, `[[../../temas/laura-contrato]]`, `[[../../cerebro/INDEX]]`, `[[../conversaciones/2026-04-15]]`, `[[../conversaciones/2026-04-15]]`, `[[../clientes/contrato-arrendamiento-san-antonio-JAMIE-2026-EN]]`, `[[../clientes/laura/ficha-laura]]`, `[[../conversaciones/2026-04-15]]`, `[[../conversaciones/2026-04-15]]`, `[[../conversaciones/2026-04-15]]`, `[[../temas/finanzas-personales]]`, `[[../temas/finanzas-personales]]`, `[[../temas/gastos-supermercado]]`, `[[../temas/finanzas-personales]]`, `[[../temas/gastos-supermercado]]`, `[[../clientes/laura/ficha-laura]]`, `[[../temas/finanzas-personales]]`, `[[../temas/gastos-supermercado]]`, `[[../temas/oposicion-policia]]`, `[[../temas/ebike-busqueda]]`, `[[../../temas/laura-contrato]]`, `[[../../cerebro/INDEX]]`, `[[../conversaciones/2026-04-15]]`, `[[../conversaciones/2026-04-15]]`, `[[../clientes/contrato-arrendamiento-san-antonio-JAMIE-2026-EN]]`, `[[../clientes/laura/ficha-laura]]`, `[[../conversaciones/2026-04-15]]`, `[[../conversaciones/2026-04-15]]`, `[[../conversaciones/2026-04-15]]`, `[[../temas/finanzas-personales]]`, `[[../temas/finanzas-personales]]`, `[[../temas/gastos-supermercado]]`, `[[../temas/finanzas-personales]]`, `[[../temas/gastos-supermercado]]`, `[[../clientes/laura/ficha-laura]]`, `[[../temas/finanzas-personales]]`, `[[../temas/gastos-supermercado]]`, `[[../temas/oposicion-policia]]`, `[[../temas/ebike-busqueda]]`, `[[../../temas/laura-contrato]]`, `[[../../cerebro/INDEX]]`, `[[../conversaciones/2026-04-15]]`, `[[../conversaciones/2026-04-15]]`, `[[../clientes/contrato-arrendamiento-san-antonio-JAMIE-2026-EN]]`, `[[../clientes/laura/ficha-laura]]`, `[[../conversaciones/2026-04-15]]`, `[[../conversaciones/2026-04-15]]`, `[[../conversaciones/2026-04-15]]`, `[[../temas/finanzas-personales]]`, `[[../temas/finanzas-personales]]`, `[[../temas/gastos-supermercado]]`, `[[../temas/finanzas-personales]]`, `[[../temas/gastos-supermercado]]`, `[[../clientes/laura/ficha-laura]]`, `[[../temas/finanzas-personales]]`, `[[../temas/gastos-supermercado]]`, `[[../temas/oposicion-policia]]`, `[[../temas/ebike-busqueda]]`, `[[../../temas/laura-contrato]]`, `[[../../cerebro/INDEX]]`
+- `temas/oposicion-policia.md`: `[[../conversaciones/2026-04-15]]`
+- `temas/finanzas-personales.md`: `[[../conversaciones/2026-04-15]]`
+- `temas/laura-contrato.md`: `[[../clientes/contrato-arrendamiento-san-antonio-JAMIE-2026-EN]]`, `[[../clientes/laura/ficha-laura]]`, `[[../conversaciones/2026-04-15]]`
+- `temas/proyectos-web.md`: `[[../conversaciones/2026-04-15]]`
+- `temas/ebike-busqueda.md`: `[[../conversaciones/2026-04-15]]`
+- `personal/jose-perfil.md`: `[[../temas/finanzas-personales]]`
+- `personal/resumen-financiero.md`: `[[../temas/finanzas-personales]]`, `[[../temas/gastos-supermercado]]`
+- `personal/perfil-economico.md`: `[[../temas/finanzas-personales]]`, `[[../temas/gastos-supermercado]]`, `[[../clientes/laura/ficha-laura]]`
+- `personal/control-gasto-semanal.md`: `[[../temas/finanzas-personales]]`, `[[../temas/gastos-supermercado]]`
+- `personal/plan-oposicion-policia-local.md`: `[[../temas/oposicion-policia]]`
+- `personal/busqueda-ebike-2026.md`: `[[../temas/ebike-busqueda]]`
+- `clientes/laura/ficha-laura.md`: `[[../../temas/laura-contrato]]`, `[[../../cerebro/INDEX]]`
+
+### INDEX.md regenerados (21)
+- `.git/INDEX.md`
+- `.git/logs/INDEX.md`
+- `.git/logs/refs/INDEX.md`
+- `.git/logs/refs/remotes/INDEX.md`
+- `.git/objects/INDEX.md`
+- `.git/refs/INDEX.md`
+- `.git/refs/remotes/INDEX.md`
+- `Obsidian Vault/INDEX.md`
+- `Untitled/INDEX.md`
+- `cerebro/INDEX.md`
+- `clientes/INDEX.md`
+- `clientes/laura/INDEX.md`
+- `conversaciones/INDEX.md`
+- `personal/INDEX.md`
+- `proyectos/INDEX.md`
+- `proyectos/trabajos/INDEX.md`
+- `proyectos/trabajos/formentera-sacha-savines-2026/INDEX.md`
+- `salud/INDEX.md`
+- `sistemas/INDEX.md`
+- `tareas/INDEX.md`
+- `temas/INDEX.md`
+

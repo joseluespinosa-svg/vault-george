@@ -1,33 +1,21 @@
 # ACCIONES — Sistema de ejecución
-_Actualizado: 2026-04-19
+_Actualizado: 2026-04-20
 
 ---
 
-TAREA: Cobrar 50% restante a Sacha al finalizar trabajo
+TAREA: Llamar al gestor — declaración renta 2025 + IVA factura Sacha
 ESTADO: pendiente
 RESPONSABLE: Jose Luis
-FECHA_LIMITE: 2026-04-18 (mañana, al terminar el trabajo)
+FECHA_LIMITE: esta semana (urgente — antes vencimiento renta 2025)
+NOTAS: (1) Declarar ingreso alquiler San Antonio. (2) Consultar si factura Sacha 1203 puede emitirse sin IVA.
 
 ---
 
-TAREA: Estar en puerto antes de 09:00 para ferry IBZ→FOR
+TAREA: Contactar Sacha para cobrar 240€ pendientes
 ESTADO: pendiente
 RESPONSABLE: Jose Luis
-FECHA_LIMITE: 2026-04-18 09:00
-
----
-
-TAREA: Confirmar a Sacha llegada a las 10h (texto ya preparado)
-ESTADO: pendiente
-RESPONSABLE: Jose Luis
-FECHA_LIMITE: 2026-04-17 (hoy, antes de la noche)
-
----
-
-TAREA: Ejecutar limpieza + desinfección 4 uds. Mitsubishi + conductos CLIMAVER
-ESTADO: pendiente
-RESPONSABLE: Jose Luis + George
-FECHA_LIMITE: 2026-04-18
+FECHA_LIMITE: sin fecha — confirmar cuándo
+NOTAS: Sacha +33 6 20 32 10 30. Trabajo completado 18/04/2026.
 
 ---
 
@@ -38,14 +26,26 @@ FECHA_LIMITE: antes de mayo 2026
 
 ---
 
-TAREA: Autocorrección sistema George (revisar memoria, eliminar duplicados)
+TAREA: Publicar reseña Google — Hostal Talamanca
 ESTADO: pendiente
-RESPONSABLE: George
-FECHA_LIMITE: cada 20 mensajes
+RESPONSABLE: Jose Luis
+FECHA_LIMITE: cuando pueda
+NOTAS: Texto ya preparado. Google Maps → buscar "Hostal Talamanca Ibiza" → 1 estrella.
 
 ---
 
-TAREA: Contactar gestor para declaración renta 2025 (Jose Luis + Karina)
+TAREA: Conectar Obsidian móvil vía Remotely Save
 ESTADO: pendiente
-RESPONSABLE: Jose Luis
-FECHA_LIMITE: antes de vencimiento renta 2025
+RESPONSABLE: George + Jose Luis
+FECHA_LIMITE: mañana 2026-04-21
+NOTAS: Bóveda vacía creada en iPhone. Instalar plugin Remotely Save → URL: http://217.65.146.176:8080
+
+---
+
+## Ver también
+- [[critico|CRÍTICO — Dinero y clientes]]
+- [[activo|Estado activo]]
+- [[alertas|Alertas activas]]
+- [[../proyectos/trabajos/formentera-sacha-savines-2026/trabajo|Trabajo Sacha Formentera]]
+- [[../temas/laura-contrato|Contrato Laura/Jamie]]
+- [[../personal/perfil-economico|Perfil económico]]

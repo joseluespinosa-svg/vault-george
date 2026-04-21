@@ -45,3 +45,10 @@
 - Ingresos base imponible: 1.157,00 €
 - Gastos: 175,59 €
 - **Beneficio neto: 981,41 €**
+
+## Ver también
+- [[../../../clientes/sacha/ficha-sacha|Ficha cliente Sacha]]
+- [[../../../cerebro/critico|CRÍTICO — cobros pendientes]]
+- [[../../../cerebro/activo|Estado activo]]
+- [[../../../temas/facturas-empresa|Facturas empresa]]
+- [[../../../proyectos/formentera-ac|Material y logística]]

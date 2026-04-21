@@ -1,19 +1,19 @@
 # ALERTAS — Sistema inteligente
-_Actualizado: 2026-04-19
+_Actualizado: 2026-04-20
 
 ---
 
-ALERTA: Ferry Ibiza → Formentera MAÑANA
+ALERTA: Cobrar 240€ pendientes a Sacha
 TIPO: urgente
-FECHA: 2026-04-18 09:30
-ACCIÓN: Estar en puerto antes de 09:00. Caddy 9757MPX. Reserva 170426F2FR
+FECHA: sin fecha confirmada
+ACCIÓN: Contactar a Sacha (+33 6 20 32 10 30) para confirmar cuándo paga el resto
 
 ---
 
-ALERTA: Cobro pendiente Sacha Formentera
+ALERTA: Llamar al gestor — DOBLE URGENTE
 TIPO: urgente
-FECHA: 2026-04-18 (al finalizar trabajo)
-ACCIÓN: Cobrar ~700€ (50% restante). Transferencia o Bizum.
+FECHA: esta semana (antes vencimiento renta 2025)
+ACCIÓN: (1) Declarar ingreso alquiler San Antonio en renta 2025. (2) Consultar IVA factura Sacha 1203.
 
 ---
 
@@ -27,5 +27,15 @@ ACCIÓN: Hacer seguimiento para recibir firma antes de mayo
 ALERTA: Control gasto semanal
 TIPO: recordatorio
 FECHA: cada semana
-ACCIÓN: Revisar que gasto personal no supere 200€/semana. Esta semana: gasolina 20€ registrada.
+ACCIÓN: Revisar que gasto personal no supere 200€/semana.
+
+---
+
+## Ver también
+- [[critico|CRÍTICO — Dinero y pendientes]]
+- [[activo|Estado activo]]
+- [[acciones|Acciones pendientes]]
+- [[../proyectos/trabajos/formentera-sacha-savines-2026/trabajo|Trabajo Sacha]]
+- [[../temas/laura-contrato|Contrato Laura/Jamie]]
+- [[../personal/control-gasto-semanal|Control gasto semanal]]
 

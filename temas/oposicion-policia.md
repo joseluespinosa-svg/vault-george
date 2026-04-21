@@ -13,3 +13,8 @@
 
 ## Conversaciones relacionadas
 - [[../conversaciones/2026-04-15]]
+
+## Ver también
+- [[../personal/plan-oposicion-policia-local|Plan oposición policía local]]
+- [[../personal/jose-perfil|Perfil Jose Luis]]
+- [[../tareas/dashboard|Dashboard tareas]]

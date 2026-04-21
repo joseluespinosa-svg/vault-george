@@ -15,3 +15,8 @@
 ---
 
 <!-- Las entradas se añaden aquí automáticamente cada día a las 9:00 -->
+
+## Ver también
+- [[../cerebro/INDEX|Cerebro — índice central]]
+- [[../cerebro/activo|Estado activo]]
+- [[../tareas/dashboard|Dashboard tareas]]
