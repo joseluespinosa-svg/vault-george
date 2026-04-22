@@ -1,21 +1,21 @@
 # ACCIONES — Sistema de ejecución
-_Actualizado: 2026-04-20
+_Actualizado: 2026-04-21
 
 ---
 
-TAREA: Llamar al gestor — declaración renta 2025 + IVA factura Sacha
+TAREA: Llamar al gestor — declaración renta 2025
 ESTADO: pendiente
 RESPONSABLE: Jose Luis
 FECHA_LIMITE: esta semana (urgente — antes vencimiento renta 2025)
-NOTAS: (1) Declarar ingreso alquiler San Antonio. (2) Consultar si factura Sacha 1203 puede emitirse sin IVA.
+NOTAS: Declarar ingreso alquiler San Antonio. Factura Sacha 1203 ya resuelta.
 
 ---
 
 TAREA: Contactar Sacha para cobrar 240€ pendientes
-ESTADO: pendiente
+ESTADO: completado
 RESPONSABLE: Jose Luis
-FECHA_LIMITE: sin fecha — confirmar cuándo
-NOTAS: Sacha +33 6 20 32 10 30. Trabajo completado 18/04/2026.
+FECHA_COMPLETADO: 2026-04-21
+NOTAS: Cobro cerrado. Total ~1.400€ cobrado.
 
 ---
 
@@ -31,6 +31,14 @@ ESTADO: pendiente
 RESPONSABLE: Jose Luis
 FECHA_LIMITE: cuando pueda
 NOTAS: Texto ya preparado. Google Maps → buscar "Hostal Talamanca Ibiza" → 1 estrella.
+
+---
+
+TAREA: Crear perfil Google My Business — PitiClean / PitiFred
+ESTADO: pendiente
+RESPONSABLE: Jose Luis + George
+FECHA_LIMITE: esta semana
+NOTAS: business.google.com — añadir nombre, dirección Ibiza, teléfono. Después generar link de reseña para clientes.
 
 ---
 

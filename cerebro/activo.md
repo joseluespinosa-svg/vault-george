@@ -1,5 +1,5 @@
 # ACTIVO — Trabajos y estado actual
-_Actualizado: 2026-04-20
+_Actualizado: 2026-04-21
 
 ## TRABAJO COMPLETADO: Sacha Formentera (18/04/2026)
 
@@ -18,11 +18,11 @@ _Actualizado: 2026-04-20
 **Cobro:**
 - ✅ Reserva cobrada: ~700€
 - ✅ Al finalizar: 460€ (sin IVA, petición del cliente)
-- ⏳ Pendiente: ~240€ (Sacha paga otro día — sin fecha)
-- ⚠️ IVA: cliente pidió sin IVA — consultar gestor antes de facturar
+- ✅ Resto cobrado: ~240€ (21/04/2026)
+- ✅ COBRO COMPLETO — ~1.400€ total
+- ⚠️ IVA: cliente pidió sin IVA — consultar gestor antes de cerrar factura 1203
 
 ## PENDIENTES ACTIVOS
 
-- [ ] Cobrar ~240€ pendientes a Sacha (confirmar fecha)
-- [ ] Consultar gestor sobre IVA antes de cerrar factura 1203
+- [ ] Llamar gestor: declarar alquiler San Antonio en renta 2025 + IVA factura Sacha 1203
 - [ ] Firma contrato Laura/Jamie (antes de mayo 2026)

@@ -1,19 +1,12 @@
 # ALERTAS — Sistema inteligente
-_Actualizado: 2026-04-20
+_Actualizado: 2026-04-21
 
 ---
 
-ALERTA: Cobrar 240€ pendientes a Sacha
-TIPO: urgente
-FECHA: sin fecha confirmada
-ACCIÓN: Contactar a Sacha (+33 6 20 32 10 30) para confirmar cuándo paga el resto
-
----
-
-ALERTA: Llamar al gestor — DOBLE URGENTE
+ALERTA: Llamar al gestor — URGENTE
 TIPO: urgente
 FECHA: esta semana (antes vencimiento renta 2025)
-ACCIÓN: (1) Declarar ingreso alquiler San Antonio en renta 2025. (2) Consultar IVA factura Sacha 1203.
+ACCIÓN: Declarar ingreso alquiler San Antonio en renta 2025 (factura Sacha ya resuelta).
 
 ---
 

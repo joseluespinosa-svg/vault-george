@@ -1,5 +1,5 @@
 # CRÍTICO — Dinero, clientes, decisiones importantes
-_Actualizado: 2026-04-20
+_Actualizado: 2026-04-21
 
 ## DINERO
 
@@ -7,9 +7,9 @@ _Actualizado: 2026-04-20
 - Presupuesto 1203: 1.399,97€ IVA incl. (base: 1.157€)
 - Cobrado reserva: ~700€
 - Cobrado al finalizar (18/04): 460€ (sin IVA, petición del cliente)
-- **PENDIENTE: ~240€** (Sacha paga otro día — sin fecha confirmada)
-- Total cobrado: ~1.160€ de 1.399,97€
-- ⚠️ ALERTA IVA: cliente pidió facturar sin IVA — consultar con gestor antes de cerrar factura
+- Cobrado resto: ~240€ (21/04/2026)
+- **TOTAL COBRADO: ~1.400€ ✅ CERRADO**
+- ⚠️ ALERTA IVA: cliente pidió facturar sin IVA — consultar con gestor antes de cerrar factura 1203
 - Cuenta cobro: ES79 0081 0622 0700 0654 7464
 
 ### Gastos trabajo Formentera
