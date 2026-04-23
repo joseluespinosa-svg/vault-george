@@ -1,5 +1,5 @@
 # CRÍTICO — Dinero, clientes, decisiones importantes
-_Actualizado: 2026-04-21
+_Actualizado: 2026-04-22
 
 ## DINERO
 

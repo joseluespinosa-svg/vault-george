@@ -3,8 +3,8 @@
   "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
-  "showOrphans": true,
+  "hideUnresolved": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -18,7 +18,7 @@
       "query": "path:proyectos",
       "color": {
         "a": 1,
-        "rgb": 255165
+        "rgb": 16753920
       }
     },
     {
@@ -39,7 +39,7 @@
       "query": "path:temas",
       "color": {
         "a": 1,
-        "rgb": 16753920
+        "rgb": 255
       }
     },
     {
@@ -53,20 +53,20 @@
       "query": "path:tareas",
       "color": {
         "a": 1,
-        "rgb": 43520
+        "rgb": 52479
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.5,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": 1,
+  "nodeSizeMultiplier": 3,
+  "lineSizeMultiplier": 1.2,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 30,
+  "centerStrength": 0.3,
+  "repelStrength": 18,
+  "linkStrength": 0.8,
+  "linkDistance": 60,
   "scale": 1,
   "close": false
 }
