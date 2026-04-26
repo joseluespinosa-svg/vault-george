@@ -1,5 +1,8 @@
 # Índice — personal
-_Generado: 2026-04-24 04:00_
+_Generado: 2026-04-25 04:00_
+
+## Subcarpetas
+- [[alquiler-ibiza/INDEX|alquiler-ibiza/]]
 
 ## Notas
 - [[busqueda-ebike-2026|Búsqueda eBike MTB Full Suspension — Abril 2026]]
