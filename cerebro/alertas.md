@@ -1,5 +1,5 @@
 # ALERTAS — Sistema inteligente
-_Actualizado: 2026-04-24
+_Actualizado: 2026-04-27
 
 ---
 
@@ -21,6 +21,13 @@ ALERTA: Control gasto semanal
 TIPO: recordatorio
 FECHA: cada semana
 ACCIÓN: Revisar que gasto personal no supere 200€/semana.
+
+---
+
+ALERTA: Cita psicología — Centro de Salud
+TIPO: recordatorio
+FECHA: 2026-05-19
+ACCIÓN: Ir al centro de salud para cita de psicología.
 
 ---
 
