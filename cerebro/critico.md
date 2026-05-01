@@ -1,5 +1,5 @@
 # CRÍTICO — Dinero, clientes, decisiones importantes
-_Actualizado: 2026-04-29
+_Actualizado: 2026-04-30
 
 ## DINERO
 
@@ -32,7 +32,8 @@ _Actualizado: 2026-04-29
 
 ### Laura + Jamie
 - Contrato arrendamiento San Antonio (May 2026 → Mar 2027)
-- Pendiente: firma contrato
+- **✅ CONTRATO FIRMADO (confirmado 30/04/2026)**
+- Renta: 1.850€/mes, pago el día 5, titular Jamie
 - Ver: [[../clientes/laura/ficha-laura|Ficha Laura]] · [[../temas/laura-contrato|Contrato Laura]]
 
 ## EMPRESA PITICLEAN
