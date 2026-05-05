@@ -1,10 +1,11 @@
 # Índice — sistemas
-_Generado: 2026-05-03 04:00_
+_Generado: 2026-05-04 04:00_
 
 ## Notas
 - [[analisis-semanal-2026-04-18|Análisis Semanal — 2026-04-18]]
 - [[analisis-semanal-2026-04-19|Análisis Semanal — 2026-04-19]]
 - [[analisis-semanal-2026-04-26|Análisis Semanal — 2026-04-26]]
+- [[analisis-semanal-2026-05-03|Análisis Semanal — 2026-05-03]]
 - [[ingest-log|Ingest Log — MOD-04]]
 - [[innovacion-2026-04-16|innovacion-2026-04-16]]
 - [[innovacion-2026-04-17|innovacion-2026-04-17]]
@@ -23,6 +24,7 @@ _Generado: 2026-05-03 04:00_
 - [[innovacion-2026-04-30|innovacion-2026-04-30]]
 - [[innovacion-2026-05-01|innovacion-2026-05-01]]
 - [[innovacion-2026-05-02|innovacion-2026-05-02]]
+- [[innovacion-2026-05-03|innovacion-2026-05-03]]
 - [[janitor-log|Janitor Log — MOD-03]]
 - [[lint-log|Lint Log — MOD-03]]
 - [[mejoras-diarias|Mejoras Diarias — George W]]
