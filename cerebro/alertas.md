@@ -1,12 +1,9 @@
 # ALERTAS — Sistema inteligente
-_Actualizado: 2026-05-06
+_Actualizado: 2026-05-07
 
 ---
 
-ALERTA: Llamar al gestor — URGENTE
-TIPO: urgente
-FECHA: esta semana (antes vencimiento renta 2025)
-ACCIÓN: Declarar ingreso alquiler San Antonio en renta 2025 (factura Sacha ya resuelta).
+~~ALERTA: Llamar al gestor — ✅ RESUELTO 07/05/2026~~
 
 ---
 

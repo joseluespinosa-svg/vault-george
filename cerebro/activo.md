@@ -1,5 +1,5 @@
 # ACTIVO — Trabajos y estado actual
-_Actualizado: 2026-05-06
+_Actualizado: 2026-05-07
 
 ## TRABAJO COMPLETADO: Sacha Formentera (18/04/2026)
 
@@ -24,5 +24,5 @@ _Actualizado: 2026-05-06
 
 ## PENDIENTES ACTIVOS
 
-- [ ] Llamar gestor: declarar alquiler San Antonio en renta 2025 + IVA factura Sacha 1203 (en proceso)
+- [x] Llamar gestor: declarar alquiler San Antonio en renta 2025 + IVA factura Sacha 1203 — ✅ RESUELTO (07/05/2026)
 - [x] Firma contrato Laura/Jamie — ✅ FIRMADO (30/04/2026)
