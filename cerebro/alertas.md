@@ -1,5 +1,5 @@
 # ALERTAS — Sistema inteligente
-_Actualizado: 2026-05-08
+_Actualizado: 2026-05-11
 
 ---
 
@@ -25,6 +25,14 @@ ALERTA: Cita psicología — Centro de Salud
 TIPO: recordatorio
 FECHA: 2026-05-19
 ACCIÓN: Ir al centro de salud para cita de psicología.
+
+---
+
+ALERTA: Junta Arbitral de Consumo — Audiencia JAC-188/26
+TIPO: cita IMPORTANTE
+FECHA: 2026-06-03 a las 9:00h
+LUGAR: Calle Jesús, 38A, Palma (horario oficina 9:00-14:00)
+ACCIÓN: Acudir a la audiencia de arbitraje. Expediente JAC-188/26.
 
 ---
 
