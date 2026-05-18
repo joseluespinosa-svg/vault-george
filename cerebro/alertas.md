@@ -1,5 +1,5 @@
 # ALERTAS — Sistema inteligente
-_Actualizado: 2026-05-16
+_Actualizado: 2026-05-17
 
 ---
 
@@ -25,6 +25,14 @@ ALERTA: Cita psicología — Centro de Salud
 TIPO: recordatorio
 FECHA: 2026-05-19
 ACCIÓN: Ir al centro de salud para cita de psicología.
+
+---
+
+ALERTA: Examen B2 Catalán — EOI Ibiza
+TIPO: cita examen
+FECHA: 2026-05-29 a las 16:00h
+LUGAR: Escuela Oficial de Idiomas, Ibiza
+ACCIÓN: Acudir al examen B2 de catalán. Verificar duración y sala en la convocatoria.
 
 ---
 
