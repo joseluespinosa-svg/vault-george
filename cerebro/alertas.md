@@ -1,5 +1,5 @@
 # ALERTAS — Sistema inteligente
-_Actualizado: 2026-05-17
+_Actualizado: 2026-05-18
 
 ---
 
@@ -21,10 +21,11 @@ ACCIÓN: Revisar que gasto personal no supere 200€/semana.
 
 ---
 
-ALERTA: Cita psicología — Centro de Salud
+ALERTA: Cita psicología — Centro de Salud Es Viver
 TIPO: recordatorio
-FECHA: 2026-05-19
-ACCIÓN: Ir al centro de salud para cita de psicología.
+FECHA: 2026-06-09 a las 11:45h
+LUGAR: Centro de Salud Es Viver
+ACCIÓN: Ir a la cita de psicología.
 
 ---
 
