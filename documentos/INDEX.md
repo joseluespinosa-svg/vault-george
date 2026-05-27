@@ -1,5 +1,5 @@
 # Índice — documentos
-_Generado: 2026-05-21 04:01_
+_Generado: 2026-05-26 04:02_
 
 ## Subcarpetas
 - [[hacienda/INDEX|hacienda/]]
