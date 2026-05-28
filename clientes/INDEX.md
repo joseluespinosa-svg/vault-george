@@ -1,5 +1,5 @@
 # Índice — clientes
-_Generado: 2026-05-26 04:02_
+_Generado: 2026-05-27 04:01_
 
 ## Subcarpetas
 - [[laura/INDEX|laura/]]
