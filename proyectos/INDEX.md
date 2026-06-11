@@ -1,5 +1,5 @@
 # Índice — proyectos
-_Generado: 2026-06-09 04:01_
+_Generado: 2026-06-10 04:01_
 
 ## Subcarpetas
 - [[maia/INDEX|maia/]]
