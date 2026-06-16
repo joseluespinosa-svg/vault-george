@@ -23,9 +23,16 @@ ACCIÓN: Revisar que gasto personal no supere 200€/semana.
 
 ALERTA: Cita psicología — Centro de Salud Es Viver
 TIPO: recordatorio
-FECHA: 2026-06-09 a las 11:45h
+FECHA: 2026-06-09 a las 11:45h (⚠️ NO ASISTIÓ — estaba fuera)
 LUGAR: Centro de Salud Es Viver
-ACCIÓN: Ir a la cita de psicología.
+ACCIÓN: Llamar al centro para pedir nueva cita (reprogramar la perdida del 09/06).
+
+---
+
+ALERTA: Búsqueda activa de vivienda
+TIPO: proyecto activo
+FECHA: en curso
+ACCIÓN: Pendiente definir criterios (zona, presupuesto, plazo) — preguntar a José Luis para crear ficha de seguimiento.
 
 ---
 
