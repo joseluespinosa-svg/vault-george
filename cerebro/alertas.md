@@ -1,5 +1,5 @@
 # ALERTAS — Sistema inteligente
-_Actualizado: 2026-05-25
+_Actualizado: 2026-06-17
 
 ---
 
@@ -21,11 +21,15 @@ ACCIÓN: Revisar que gasto personal no supere 200€/semana.
 
 ---
 
-ALERTA: Cita psicología — Centro de Salud Es Viver
-TIPO: recordatorio
-FECHA: 2026-06-09 a las 11:45h (⚠️ NO ASISTIÓ — estaba fuera)
+ALERTA: Cita PSIQUIATRÍA — Centro de Salud Es Viver ⭐ MUY IMPORTANTE
+TIPO: cita médica CRÍTICA
+FECHA: 2026-06-26 (viernes) a las 08:30h
 LUGAR: Centro de Salud Es Viver
-ACCIÓN: Llamar al centro para pedir nueva cita (reprogramar la perdida del 09/06).
+PROFESIONAL: Dr. Bozzini, Daniel Alberto (Psiquiatría CCEE HCM)
+TIPO VISITA: EF_2.1 PRIMERA VISITA CEX
+NOTA: Recoger ticket en los pedestales ANTES de ir a la sala de espera
+TELÉFONO CAMBIOS: 971.22.57.22 (L-V 07:00-21:00 / Sáb 07:00-14:00)
+ACCIÓN: ✅ CITA CONFIRMADA — Acudir el viernes 26/06/2026 a las 08:30h sin falta.
 
 ---
 
