@@ -1,7 +1,8 @@
 # Índice — proyectos
-_Generado: 2026-06-15 04:01_
+_Generado: 2026-06-20 04:00_
 
 ## Subcarpetas
+- [[busqueda-vivienda/INDEX|busqueda-vivienda/]]
 - [[maia/INDEX|maia/]]
 - [[trabajos/INDEX|trabajos/]]
 

@@ -1,5 +1,5 @@
 # Índice — personal/alquiler-ibiza
-_Generado: 2026-06-15 04:01_
+_Generado: 2026-06-20 04:00_
 
 ## Notas
 - [[ficha-alquiler|Alquiler casa Ibiza — José Luis & Karina]]

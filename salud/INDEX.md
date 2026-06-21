@@ -1,5 +1,5 @@
 # Índice — salud
-_Generado: 2026-06-15 04:01_
+_Generado: 2026-06-20 04:00_
 
 ## Subcarpetas
 - [[garmin/INDEX|garmin/]]
