@@ -1,5 +1,5 @@
 # Índice — personal
-_Generado: 2026-06-20 04:00_
+_Generado: 2026-06-21 04:00_
 
 ## Subcarpetas
 - [[alquiler-ibiza/INDEX|alquiler-ibiza/]]
@@ -9,6 +9,7 @@ _Generado: 2026-06-20 04:00_
 - [[control-gasto-semanal|Control de Gasto Semanal — José Luis]]
 - [[gastos-abril-2026|Gastos Abril 2026 — Resumen completo]]
 - [[jose-perfil|Perfil Jose Luis Espinosa Sirvent]]
+- [[lugares-visitar|Lugares para visitar / Recomendaciones]]
 - [[nomina-abril-2026|Nómina Abril 2026 — EULEN, S.A.]]
 - [[perfil-economico|Perfil Económico — José Luis Espinosa Sirvent]]
 - [[plan-oposicion-policia-local|Plan Oposición Policía Local Ibiza — 1km sub-4:00]]
