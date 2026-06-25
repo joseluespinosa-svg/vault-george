@@ -1,5 +1,5 @@
 # ACTIVO — Trabajos y estado actual
-_Actualizado: 2026-06-23
+_Actualizado: 2026-06-24
 
 ## TRABAJO COMPLETADO: Sacha Formentera (18/04/2026)
 
