@@ -1,5 +1,5 @@
 # Índice — sistemas
-_Generado: 2026-06-25 04:00_
+_Generado: 2026-06-26 04:00_
 
 ## Notas
 - [[analisis-semanal-2026-04-18|Análisis Semanal — 2026-04-18]]
@@ -84,6 +84,7 @@ _Generado: 2026-06-25 04:00_
 - [[innovacion-2026-06-22|innovacion-2026-06-22]]
 - [[innovacion-2026-06-23|innovacion-2026-06-23]]
 - [[innovacion-2026-06-24|innovacion-2026-06-24]]
+- [[innovacion-2026-06-25|innovacion-2026-06-25]]
 - [[janitor-log|Janitor Log — MOD-03]]
 - [[lint-log|Lint Log — MOD-03]]
 - [[maia-sesion-20260512|MAIA — Sesión 12 Mayo 2026]]
