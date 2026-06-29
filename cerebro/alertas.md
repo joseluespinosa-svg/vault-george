@@ -33,6 +33,14 @@ ACCIÓN: ✅ CITA CONFIRMADA — Acudir el viernes 26/06/2026 a las 08:30h sin f
 
 ---
 
+ALERTA: Cita médica HOMBRO — Mallorca ⭐
+TIPO: cita médica
+FECHA: semana del 2026-06-29 (día exacto pendiente confirmar)
+LUGAR: Mallorca (centro/clínica pendiente confirmar)
+ACCIÓN: Acudir a la visita del hombro en Mallorca esta semana. Confirmar día y hora con José Luis.
+
+---
+
 ALERTA: Búsqueda activa de vivienda
 TIPO: proyecto activo
 FECHA: en curso
