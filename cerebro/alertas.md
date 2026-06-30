@@ -1,5 +1,5 @@
 # ALERTAS — Sistema inteligente
-_Actualizado: 2026-06-27
+_Actualizado: 2026-06-29
 
 ---
 
@@ -48,11 +48,15 @@ ACCIÓN: Pendiente definir criterios (zona, presupuesto, plazo) — preguntar a 
 
 ---
 
-ALERTA: Examen B2 Catalán — EOI Ibiza
-TIPO: cita examen
-FECHA: 2026-05-29 a las 16:00h
-LUGAR: Escuela Oficial de Idiomas, Ibiza
-ACCIÓN: Acudir al examen B2 de catalán. Verificar duración y sala en la convocatoria.
+ALERTA: Examen B2 Catalán — SUSPENDIDO, próximas convocatorias
+TIPO: seguimiento académico
+RESULTADO: No apte (enero 2026) — solo falló expresión escrita (52/100, mínimo 60)
+OPCIONES:
+  1. FUEIB octubre 2026 → inscripción agosto-septiembre → fueib.org (50-80€)
+  2. CAIB enero 2027 → inscripción nov-dic 2026 → caib.es (17€)
+  3. EOI Eivissa mayo 2027 → ~95€ con familia monoparental
+ACCIÓN AGOSTO: Entrar en fueib.org y buscar "examen libre B2 octubre 2026" → inscribirse
+ACCIÓN NOVIEMBRE: Si no hizo FUEIB → inscribirse en CAIB enero 2027 (caib.es)
 
 ---
 
