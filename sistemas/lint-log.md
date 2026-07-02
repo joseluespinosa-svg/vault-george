@@ -2094,3 +2094,1840 @@
 - **Última** — en: `2026-04-16`, `2026-04-21`, `2026-04-22`
 - **Últimas** — en: `2026-04-21`, `2026-04-22`, `2026-05-20`
 
+
+## 2026-07-01 06:07
+
+### Sin frontmatter (217 notas)
+- `test_memoria.md`
+- `REGLAS.md`
+- `recursos/restaurantes.md`
+- `sistemas/innovacion-2026-04-18.md`
+- `sistemas/innovacion-2026-06-11.md`
+- `sistemas/innovacion-2026-06-20.md`
+- `sistemas/innovacion-2026-05-27.md`
+- `sistemas/maia-sesion-20260512.md`
+- `sistemas/innovacion-2026-05-28.md`
+- `sistemas/innovacion-2026-04-20.md`
+- `sistemas/innovacion-2026-06-01.md`
+- `sistemas/innovacion-2026-04-29.md`
+- `sistemas/innovacion-2026-05-15.md`
+- `sistemas/innovacion-2026-05-29.md`
+- `sistemas/innovacion-2026-04-19.md`
+- `sistemas/innovacion-2026-06-25.md`
+- `sistemas/innovacion-2026-06-18.md`
+- `sistemas/innovacion-2026-06-28.md`
+- `sistemas/innovacion-2026-05-10.md`
+- `sistemas/analisis-semanal-2026-05-17.md`
+- `sistemas/analisis-semanal-2026-06-21.md`
+- `sistemas/analisis-semanal-2026-06-14.md`
+- `sistemas/innovacion-2026-05-26.md`
+- `sistemas/innovacion-2026-05-03.md`
+- `sistemas/innovacion-2026-05-06.md`
+- `sistemas/innovacion-2026-06-26.md`
+- `sistemas/analisis-semanal-2026-06-28.md`
+- `sistemas/innovacion-2026-05-16.md`
+- `sistemas/innovacion-2026-05-01.md`
+- `sistemas/innovacion-2026-05-18.md`
+- `sistemas/innovacion-2026-05-07.md`
+- `sistemas/innovacion-2026-05-02.md`
+- `sistemas/innovacion-2026-06-14.md`
+- `sistemas/analisis-semanal-2026-05-31.md`
+- `sistemas/innovacion-2026-04-27.md`
+- `sistemas/innovacion-2026-06-23.md`
+- `sistemas/innovacion-2026-06-12.md`
+- `sistemas/innovacion-2026-06-06.md`
+- `sistemas/innovacion-2026-06-05.md`
+- `sistemas/innovacion-2026-05-24.md`
+- `sistemas/innovacion-2026-04-25.md`
+- `sistemas/analisis-semanal-2026-05-24.md`
+- `sistemas/innovacion-2026-06-16.md`
+- `sistemas/innovacion-2026-05-22.md`
+- `sistemas/innovacion-2026-06-29.md`
+- `sistemas/innovacion-2026-06-03.md`
+- `sistemas/innovacion-2026-06-19.md`
+- `sistemas/innovacion-2026-04-21.md`
+- `sistemas/innovacion-2026-06-21.md`
+- `sistemas/innovacion-2026-06-10.md`
+- `sistemas/innovacion-2026-05-30.md`
+- `sistemas/analisis-semanal-2026-04-18.md`
+- `sistemas/innovacion-2026-05-20.md`
+- `sistemas/innovacion-2026-06-15.md`
+- `sistemas/innovacion-2026-05-19.md`
+- `sistemas/innovacion-2026-04-28.md`
+- `sistemas/analisis-semanal-2026-06-07.md`
+- `sistemas/innovacion-2026-05-25.md`
+- `sistemas/lint-log.md`
+- `sistemas/innovacion-2026-04-22.md`
+- `sistemas/innovacion-2026-06-07.md`
+- `sistemas/innovacion-2026-05-05.md`
+- `sistemas/innovacion-2026-05-13.md`
+- `sistemas/janitor-log.md`
+- `sistemas/innovacion-2026-06-09.md`
+- `sistemas/analisis-semanal-2026-04-19.md`
+- `sistemas/innovacion-2026-06-24.md`
+- `sistemas/innovacion-2026-06-30.md`
+- `sistemas/innovacion-2026-05-31.md`
+- `sistemas/innovacion-2026-05-08.md`
+- `sistemas/innovacion-2026-06-08.md`
+- `sistemas/innovacion-2026-06-02.md`
+- `sistemas/innovacion-2026-05-17.md`
+- `sistemas/innovacion-2026-05-23.md`
+- `sistemas/analisis-semanal-2026-05-10.md`
+- `sistemas/analisis-semanal-2026-05-03.md`
+- `sistemas/innovacion-2026-04-16.md`
+- `sistemas/innovacion-2026-05-04.md`
+- `sistemas/innovacion-2026-04-26.md`
+- `sistemas/innovacion-2026-05-12.md`
+- `sistemas/innovacion-2026-05-11.md`
+- `sistemas/innovacion-2026-06-17.md`
+- `sistemas/innovacion-2026-04-23.md`
+- `sistemas/analisis-semanal-2026-04-26.md`
+- `sistemas/innovacion-2026-04-24.md`
+- `sistemas/mejoras-diarias.md`
+- `sistemas/ingest-log.md`
+- `sistemas/innovacion-2026-05-21.md`
+- `sistemas/innovacion-2026-04-30.md`
+- `sistemas/innovacion-2026-06-04.md`
+- `sistemas/innovacion-2026-05-14.md`
+- `sistemas/innovacion-2026-04-17.md`
+- `sistemas/innovacion-2026-06-13.md`
+- `sistemas/innovacion-2026-05-09.md`
+- `sistemas/innovacion-2026-06-22.md`
+- `sistemas/innovacion-2026-06-27.md`
+- `proyectos/formentera-ac.md`
+- `temas/facturas-empresa.md`
+- `temas/hacienda-embargo-2026.md`
+- `temas/oposicion-policia.md`
+- `temas/finanzas-personales.md`
+- `temas/informe-negocios-escalables-2026.md`
+- `temas/laura-contrato.md`
+- `temas/proyectos-web.md`
+- `temas/ebike-busqueda.md`
+- `temas/gastos-supermercado.md`
+- `cerebro/archivo.md`
+- `cerebro/activo.md`
+- `cerebro/escenarios.md`
+- `cerebro/perfil-cognitivo.md`
+- `cerebro/checkpoint.md`
+- `cerebro/actores.md`
+- `cerebro/alertas.md`
+- `cerebro/checkpoint-ultimo.md`
+- `cerebro/acciones.md`
+- `cerebro/critico.md`
+- `cerebro/causas.md`
+- `cerebro/decisiones.md`
+- `tareas/dashboard.md`
+- `tareas/pendientes-2026-04-15.md`
+- `Obsidian Vault/Untitled.md`
+- `personal/jose-perfil.md`
+- `personal/lugares-visitar.md`
+- `personal/test-obsidian.md`
+- `personal/resumen-financiero.md`
+- `personal/nomina-abril-2026.md`
+- `personal/gastos-abril-2026.md`
+- `personal/perfil-economico.md`
+- `personal/control-gasto-semanal.md`
+- `personal/plan-oposicion-policia-local.md`
+- `personal/busqueda-ebike-2026.md`
+- `conversaciones/2026-06-16.md`
+- `conversaciones/2026-06-27.md`
+- `conversaciones/2026-06-02.md`
+- `conversaciones/2026-06-21.md`
+- `conversaciones/2026-05-17.md`
+- `conversaciones/2026-06-11.md`
+- `conversaciones/2026-06-07.md`
+- `conversaciones/2026-06-01.md`
+- `conversaciones/2026-06-18.md`
+- `conversaciones/2026-04-30.md`
+- `conversaciones/2026-05-30.md`
+- `conversaciones/2026-05-27.md`
+- `conversaciones/2026-06-15.md`
+- `conversaciones/2026-04-15.md`
+- `conversaciones/2026-06-28.md`
+- `conversaciones/2026-05-04.md`
+- `conversaciones/2026-04-29.md`
+- `conversaciones/2026-06-06.md`
+- `conversaciones/2026-05-24.md`
+- `conversaciones/2026-06-05.md`
+- `conversaciones/2026-04-21.md`
+- `conversaciones/2026-06-04.md`
+- `conversaciones/2026-06-19.md`
+- `conversaciones/2026-04-25.md`
+- `conversaciones/2026-05-19.md`
+- `conversaciones/2026-06-26.md`
+- `conversaciones/2026-06-17.md`
+- `conversaciones/2026-05-31.md`
+- `conversaciones/2026-05-09.md`
+- `conversaciones/2026-04-23.md`
+- `conversaciones/2026-05-02.md`
+- `conversaciones/2026-06-03.md`
+- `conversaciones/2026-04-20.md`
+- `conversaciones/2026-06-08.md`
+- `conversaciones/2026-05-22.md`
+- `conversaciones/2026-05-15.md`
+- `conversaciones/2026-05-10.md`
+- `conversaciones/2026-04-17.md`
+- `conversaciones/2026-06-10.md`
+- `conversaciones/2026-06-30.md`
+- `conversaciones/2026-05-05.md`
+- `conversaciones/2026-04-22.md`
+- `conversaciones/2026-05-18.md`
+- `conversaciones/2026-05-07.md`
+- `conversaciones/2026-05-23.md`
+- `conversaciones/2026-06-24.md`
+- `conversaciones/2026-04-24.md`
+- `conversaciones/2026-05-03.md`
+- `conversaciones/2026-06-14.md`
+- `conversaciones/2026-05-14.md`
+- `conversaciones/2026-04-28.md`
+- `conversaciones/2026-05-08.md`
+- `conversaciones/2026-06-23.md`
+- `conversaciones/2026-05-13.md`
+- `conversaciones/2026-05-06.md`
+- `conversaciones/2026-05-29.md`
+- `conversaciones/2026-06-20.md`
+- `conversaciones/2026-06-12.md`
+- `conversaciones/2026-05-16.md`
+- `conversaciones/2026-06-09.md`
+- `conversaciones/2026-05-21.md`
+- `conversaciones/2026-06-29.md`
+- `conversaciones/2026-05-28.md`
+- `conversaciones/2026-04-27.md`
+- `conversaciones/2026-05-11.md`
+- `conversaciones/2026-06-13.md`
+- `conversaciones/2026-05-20.md`
+- `conversaciones/2026-04-19.md`
+- `conversaciones/2026-05-25.md`
+- `conversaciones/2026-04-18.md`
+- `conversaciones/2026-04-26.md`
+- `conversaciones/2026-04-16.md`
+- `conversaciones/2026-05-12.md`
+- `conversaciones/2026-06-22.md`
+- `conversaciones/2026-06-25.md`
+- `conversaciones/2026-05-01.md`
+- `conversaciones/2026-05-26.md`
+- `proyectos/maia/conceptos.md`
+- `proyectos/busqueda-vivienda/opo-001-estrategia.md`
+- `proyectos/busqueda-vivienda/estructura-financiera.md`
+- `proyectos/busqueda-vivienda/informe-2026-06-16.md`
+- `proyectos/busqueda-vivienda/opo-004-005-figueretes.md`
+- `proyectos/trabajos/formentera-sacha-savines-2026/trabajo.md`
+- `personal/alquiler-ibiza/ficha-alquiler.md`
+- `clientes/laura/ficha-laura.md`
+- `clientes/sacha/ficha-sacha.md`
+
+### Claims obsoletos (237 en 27 notas)
+
+**`REGLAS.md`**
+- L5 `2026-04-16` → - Fechas en formato ISO: `2026-04-16-reunion-cliente.md`
+
+**`sistemas/innovacion-2026-05-28.md`**
+- L12 `2026-05-29` → ⚡ ACCIÓN INMEDIATA: Verificar estado de preparación para examen B2 catalán de mañana (2026-05-29 16:00h EOI Ibiza) y env
+
+**`sistemas/analisis-semanal-2026-06-21.md`**
+- L22 `2026-06-21` → **Cerrar el ciclo junio**: purgar duplicados janitor, enlazar innovación-2026-06-21 al cerebro, crear dashboard actualiz
+
+**`sistemas/analisis-semanal-2026-06-14.md`**
+- L30 `2026-06-21` → **Depuración quirúrgica**: Eliminar 37 huérfanos en 3 sesiones de 20min. Prioridad: sistemas/innovacion-* → integrar a l
+- L30 `junio 2026` → **Depuración quirúrgica**: Eliminar 37 huérfanos en 3 sesiones de 20min. Prioridad: sistemas/innovacion-* → integrar a l
+
+**`sistemas/analisis-semanal-2026-06-28.md`**
+- L7 `2026-04-15` → **Motivo:** 242 archivos activos, 75 días de memoria conversacional y estructura clara con índices automáticos. PERO det
+- L19 `2026-04-15` → 2. **Archivar o eliminar `tareas/dashboard.md` y `tareas/pendientes-2026-04-15.md`** → tienen fecha abril 2026, tareas p
+- L19 `abril 2026` → 2. **Archivar o eliminar `tareas/dashboard.md` y `tareas/pendientes-2026-04-15.md`** → tienen fecha abril 2026, tareas p
+
+**`sistemas/analisis-semanal-2026-05-31.md`**
+- L25 `2026-06-03` → - **2026-06-03 09:00h:** Junta Arbitral JAC-188/26 — sin preparación documentada en vault
+
+**`sistemas/analisis-semanal-2026-04-18.md`**
+- L19 `2026-04-15` → 3. **Actualizar tareas:** `tareas/dashboard.md` y `tareas/pendientes-2026-04-15.md` congelados hace 3 días. Regenerar co
+
+**`sistemas/lint-log.md`**
+- L93 `2026-04-16` → - L5 `2026-04-16` → - Fechas en formato ISO: `2026-04-16-reunion-cliente.md`
+- L93 `2026-04-16` → - L5 `2026-04-16` → - Fechas en formato ISO: `2026-04-16-reunion-cliente.md`
+- L103 `2026-04-21` → - L2 `2026-04-21` → _Preparado: noche 2026-04-21 | Para: José Luis Espinosa_
+- L103 `2026-04-21` → - L2 `2026-04-21` → _Preparado: noche 2026-04-21 | Para: José Luis Espinosa_
+- L106 `2026-04-21` → - L17 `2026-04-21` → FECHA_COMPLETADO: 2026-04-21
+- L106 `2026-04-21` → - L17 `2026-04-21` → FECHA_COMPLETADO: 2026-04-21
+- L107 `2026-04-21` → - L48 `2026-04-21` → FECHA_LIMITE: mañana 2026-04-21
+- L107 `2026-04-21` → - L48 `2026-04-21` → FECHA_LIMITE: mañana 2026-04-21
+- L112 `2026-04-15` → **`conversaciones/2026-04-15.md`**
+- L113 `2026-04-15` → - L119 `2026-04-15` → Para probar: python3 /root/assistant/scripts/garmin_sync.py --date 2026-04-15
+- L113 `2026-04-15` → - L119 `2026-04-15` → Para probar: python3 /root/assistant/scripts/garmin_sync.py --date 2026-04-15
+- L115 `2026-04-21` → **`conversaciones/2026-04-21.md`**
+- L116 `noviembre 2024` → - L556 `noviembre 2024` → Si dejaste de tener coches en Getaround/Amovens antes de noviembre 2024 → sin riesgo, la ley n
+- L116 `noviembre 2024` → - L556 `noviembre 2024` → Si dejaste de tener coches en Getaround/Amovens antes de noviembre 2024 → sin riesgo, la ley n
+- L118 `2026-04-17` → **`conversaciones/2026-04-17.md`**
+- L119 `ABRIL 2026` → - L685 `ABRIL 2026` → RESUMEN SEPARADO — 17 ABRIL 2026
+- L119 `ABRIL 2026` → - L685 `ABRIL 2026` → RESUMEN SEPARADO — 17 ABRIL 2026
+- L188 `2026-04-17` → - **Cobro** — en: `acciones`, `activo`, `2026-04-17`
+- L189 `2026-04-21` → - **Comparativa** — en: `2026-04-21`, `informe-negocios-escalables-2026`
+- L190 `2026-04-15` → - **Completadas** — en: `lint-log`, `dashboard`, `pendientes-2026-04-15`
+- L355 `2026-04-17` → - **Luego** — en: `2026-04-17`, `2026-04-20`, `informe-negocios-escalables-2026`
+- L355 `2026-04-20` → - **Luego** — en: `2026-04-17`, `2026-04-20`, `informe-negocios-escalables-2026`
+- L356 `2026-04-15` → - **Límite** — en: `2026-04-15`, `control-gasto-semanal`, `finanzas-personales`
+- L357 `2026-04-17` → - **Madrid** — en: `2026-04-17`, `busqueda-ebike-2026`
+- L752 `2026-04-16` → - L5 `2026-04-16` → - Fechas en formato ISO: `2026-04-16-reunion-cliente.md`
+- L752 `2026-04-16` → - L5 `2026-04-16` → - Fechas en formato ISO: `2026-04-16-reunion-cliente.md`
+- L754 `2026-05-28` → **`sistemas/innovacion-2026-05-28.md`**
+- L755 `2026-05-29` → - L12 `2026-05-29` → ⚡ ACCIÓN INMEDIATA: Verificar estado de preparación para examen B2 catalán de mañana (2026-05-29 16
+- L755 `2026-05-29` → - L12 `2026-05-29` → ⚡ ACCIÓN INMEDIATA: Verificar estado de preparación para examen B2 catalán de mañana (2026-05-29 16
+- L764 `2026-05-31` → **`sistemas/analisis-semanal-2026-05-31.md`**
+- L765 `2026-06-03` → - L25 `2026-06-03` → - **2026-06-03 09:00h:** Junta Arbitral JAC-188/26 — sin preparación documentada en vault
+- L765 `2026-06-03` → - L25 `2026-06-03` → - **2026-06-03 09:00h:** Junta Arbitral JAC-188/26 — sin preparación documentada en vault
+- L771 `2026-04-16` → - L93 `2026-04-16` → - L5 `2026-04-16` → - Fechas en formato ISO: `2026-04-16-reunion-cliente.md`
+- L771 `2026-04-16` → - L93 `2026-04-16` → - L5 `2026-04-16` → - Fechas en formato ISO: `2026-04-16-reunion-cliente.md`
+- L771 `2026-04-16` → - L93 `2026-04-16` → - L5 `2026-04-16` → - Fechas en formato ISO: `2026-04-16-reunion-cliente.md`
+- L772 `2026-04-16` → - L93 `2026-04-16` → - L5 `2026-04-16` → - Fechas en formato ISO: `2026-04-16-reunion-cliente.md`
+- L772 `2026-04-16` → - L93 `2026-04-16` → - L5 `2026-04-16` → - Fechas en formato ISO: `2026-04-16-reunion-cliente.md`
+- L772 `2026-04-16` → - L93 `2026-04-16` → - L5 `2026-04-16` → - Fechas en formato ISO: `2026-04-16-reunion-cliente.md`
+- L773 `2026-04-21` → - L103 `2026-04-21` → - L2 `2026-04-21` → _Preparado: noche 2026-04-21 | Para: José Luis Espinosa_
+- L773 `2026-04-21` → - L103 `2026-04-21` → - L2 `2026-04-21` → _Preparado: noche 2026-04-21 | Para: José Luis Espinosa_
+- L773 `2026-04-21` → - L103 `2026-04-21` → - L2 `2026-04-21` → _Preparado: noche 2026-04-21 | Para: José Luis Espinosa_
+- L774 `2026-04-21` → - L103 `2026-04-21` → - L2 `2026-04-21` → _Preparado: noche 2026-04-21 | Para: José Luis Espinosa_
+- L774 `2026-04-21` → - L103 `2026-04-21` → - L2 `2026-04-21` → _Preparado: noche 2026-04-21 | Para: José Luis Espinosa_
+- L774 `2026-04-21` → - L103 `2026-04-21` → - L2 `2026-04-21` → _Preparado: noche 2026-04-21 | Para: José Luis Espinosa_
+- L775 `2026-04-21` → - L106 `2026-04-21` → - L17 `2026-04-21` → FECHA_COMPLETADO: 2026-04-21
+- L775 `2026-04-21` → - L106 `2026-04-21` → - L17 `2026-04-21` → FECHA_COMPLETADO: 2026-04-21
+- L775 `2026-04-21` → - L106 `2026-04-21` → - L17 `2026-04-21` → FECHA_COMPLETADO: 2026-04-21
+- L776 `2026-04-21` → - L106 `2026-04-21` → - L17 `2026-04-21` → FECHA_COMPLETADO: 2026-04-21
+- L776 `2026-04-21` → - L106 `2026-04-21` → - L17 `2026-04-21` → FECHA_COMPLETADO: 2026-04-21
+- L776 `2026-04-21` → - L106 `2026-04-21` → - L17 `2026-04-21` → FECHA_COMPLETADO: 2026-04-21
+- L777 `2026-04-21` → - L107 `2026-04-21` → - L48 `2026-04-21` → FECHA_LIMITE: mañana 2026-04-21
+- L777 `2026-04-21` → - L107 `2026-04-21` → - L48 `2026-04-21` → FECHA_LIMITE: mañana 2026-04-21
+- L777 `2026-04-21` → - L107 `2026-04-21` → - L48 `2026-04-21` → FECHA_LIMITE: mañana 2026-04-21
+- L778 `2026-04-21` → - L107 `2026-04-21` → - L48 `2026-04-21` → FECHA_LIMITE: mañana 2026-04-21
+- L778 `2026-04-21` → - L107 `2026-04-21` → - L48 `2026-04-21` → FECHA_LIMITE: mañana 2026-04-21
+- L778 `2026-04-21` → - L107 `2026-04-21` → - L48 `2026-04-21` → FECHA_LIMITE: mañana 2026-04-21
+- L779 `2026-04-15` → - L112 `2026-04-15` → **`conversaciones/2026-04-15.md`**
+- L779 `2026-04-15` → - L112 `2026-04-15` → **`conversaciones/2026-04-15.md`**
+- L780 `2026-04-15` → - L113 `2026-04-15` → - L119 `2026-04-15` → Para probar: python3 /root/assistant/scripts/garmin_sync.py --date 2026-04-1
+- L780 `2026-04-15` → - L113 `2026-04-15` → - L119 `2026-04-15` → Para probar: python3 /root/assistant/scripts/garmin_sync.py --date 2026-04-1
+- L780 `2026-04-15` → - L113 `2026-04-15` → - L119 `2026-04-15` → Para probar: python3 /root/assistant/scripts/garmin_sync.py --date 2026-04-1
+- L781 `2026-04-15` → - L113 `2026-04-15` → - L119 `2026-04-15` → Para probar: python3 /root/assistant/scripts/garmin_sync.py --date 2026-04-1
+- L781 `2026-04-15` → - L113 `2026-04-15` → - L119 `2026-04-15` → Para probar: python3 /root/assistant/scripts/garmin_sync.py --date 2026-04-1
+- L781 `2026-04-15` → - L113 `2026-04-15` → - L119 `2026-04-15` → Para probar: python3 /root/assistant/scripts/garmin_sync.py --date 2026-04-1
+- L782 `2026-04-21` → - L115 `2026-04-21` → **`conversaciones/2026-04-21.md`**
+- L782 `2026-04-21` → - L115 `2026-04-21` → **`conversaciones/2026-04-21.md`**
+- L783 `noviembre 2024` → - L116 `noviembre 2024` → - L556 `noviembre 2024` → Si dejaste de tener coches en Getaround/Amovens antes de noviembre 2
+- L783 `noviembre 2024` → - L116 `noviembre 2024` → - L556 `noviembre 2024` → Si dejaste de tener coches en Getaround/Amovens antes de noviembre 2
+- L783 `noviembre 2024` → - L116 `noviembre 2024` → - L556 `noviembre 2024` → Si dejaste de tener coches en Getaround/Amovens antes de noviembre 2
+- L784 `noviembre 2024` → - L116 `noviembre 2024` → - L556 `noviembre 2024` → Si dejaste de tener coches en Getaround/Amovens antes de noviembre 2
+- L784 `noviembre 2024` → - L116 `noviembre 2024` → - L556 `noviembre 2024` → Si dejaste de tener coches en Getaround/Amovens antes de noviembre 2
+- L784 `noviembre 2024` → - L116 `noviembre 2024` → - L556 `noviembre 2024` → Si dejaste de tener coches en Getaround/Amovens antes de noviembre 2
+- L785 `2026-04-17` → - L118 `2026-04-17` → **`conversaciones/2026-04-17.md`**
+- L785 `2026-04-17` → - L118 `2026-04-17` → **`conversaciones/2026-04-17.md`**
+- L786 `ABRIL 2026` → - L119 `ABRIL 2026` → - L685 `ABRIL 2026` → RESUMEN SEPARADO — 17 ABRIL 2026
+- L786 `ABRIL 2026` → - L119 `ABRIL 2026` → - L685 `ABRIL 2026` → RESUMEN SEPARADO — 17 ABRIL 2026
+- L786 `ABRIL 2026` → - L119 `ABRIL 2026` → - L685 `ABRIL 2026` → RESUMEN SEPARADO — 17 ABRIL 2026
+- L787 `ABRIL 2026` → - L119 `ABRIL 2026` → - L685 `ABRIL 2026` → RESUMEN SEPARADO — 17 ABRIL 2026
+- L787 `ABRIL 2026` → - L119 `ABRIL 2026` → - L685 `ABRIL 2026` → RESUMEN SEPARADO — 17 ABRIL 2026
+- L787 `ABRIL 2026` → - L119 `ABRIL 2026` → - L685 `ABRIL 2026` → RESUMEN SEPARADO — 17 ABRIL 2026
+- L788 `2026-04-17` → - L188 `2026-04-17` → - **Cobro** — en: `acciones`, `activo`, `2026-04-17`
+- L788 `2026-04-17` → - L188 `2026-04-17` → - **Cobro** — en: `acciones`, `activo`, `2026-04-17`
+- L789 `2026-04-21` → - L189 `2026-04-21` → - **Comparativa** — en: `2026-04-21`, `informe-negocios-escalables-2026`
+- L789 `2026-04-21` → - L189 `2026-04-21` → - **Comparativa** — en: `2026-04-21`, `informe-negocios-escalables-2026`
+- L790 `2026-04-15` → - L190 `2026-04-15` → - **Completadas** — en: `lint-log`, `dashboard`, `pendientes-2026-04-15`
+- L790 `2026-04-15` → - L190 `2026-04-15` → - **Completadas** — en: `lint-log`, `dashboard`, `pendientes-2026-04-15`
+- L792 `2026-04-20` → - L355 `2026-04-20` → - **Luego** — en: `2026-04-17`, `2026-04-20`, `informe-negocios-escalables-2026`
+- L792 `2026-04-17` → - L355 `2026-04-20` → - **Luego** — en: `2026-04-17`, `2026-04-20`, `informe-negocios-escalables-2026`
+- L792 `2026-04-20` → - L355 `2026-04-20` → - **Luego** — en: `2026-04-17`, `2026-04-20`, `informe-negocios-escalables-2026`
+- L793 `2026-04-15` → - L356 `2026-04-15` → - **Límite** — en: `2026-04-15`, `control-gasto-semanal`, `finanzas-personales`
+- L793 `2026-04-15` → - L356 `2026-04-15` → - **Límite** — en: `2026-04-15`, `control-gasto-semanal`, `finanzas-personales`
+- L794 `2026-04-17` → - L357 `2026-04-17` → - **Madrid** — en: `2026-04-17`, `busqueda-ebike-2026`
+- L794 `2026-04-17` → - L357 `2026-04-17` → - **Madrid** — en: `2026-04-17`, `busqueda-ebike-2026`
+- L801 `2026-06-02` → **`sistemas/innovacion-2026-06-02.md`**
+- L802 `2026-06-01` → - L12 `2026-06-01` → ⚡ ACCIÓN INMEDIATA: Leer `/root/vault/cerebro/INDEX.md` y `/root/vault/conversaciones/2026-06-01.md
+- L802 `2026-06-01` → - L12 `2026-06-01` → ⚡ ACCIÓN INMEDIATA: Leer `/root/vault/cerebro/INDEX.md` y `/root/vault/conversaciones/2026-06-01.md
+- L813 `2026-04-26` → - L18 `2026-04-26` → 2. **Enlazar:** `sistemas/innovacion-2026-04-26.md` está huérfano — agregarlo a `sistemas/INDEX.md`
+- L813 `2026-04-26` → - L18 `2026-04-26` → 2. **Enlazar:** `sistemas/innovacion-2026-04-26.md` está huérfano — agregarlo a `sistemas/INDEX.md`
+- L814 `mayo 2026` → - L24 `mayo 2026` → - ⚠️ **Contrato Laura/Jamie:** firma pendiente antes de mayo 2026 (¡quedan 4 días!)
+- L814 `mayo 2026` → - L24 `mayo 2026` → - ⚠️ **Contrato Laura/Jamie:** firma pendiente antes de mayo 2026 (¡quedan 4 días!)
+- L815 `2026-04-18` → - L25 `2026-04-18` → - ❌ **Dashboard obsoleto:** "Revisar CRM leads" tenía fecha 2026-04-18 (ya pasó hace 8 días)
+- L815 `2026-04-18` → - L25 `2026-04-18` → - ❌ **Dashboard obsoleto:** "Revisar CRM leads" tenía fecha 2026-04-18 (ya pasó hace 8 días)
+- L818 `2026-04-21` → - L2 `2026-04-21` → _Preparado: noche 2026-04-21/22 | Para: José Luis Espinosa_
+- L818 `2026-04-21` → - L2 `2026-04-21` → _Preparado: noche 2026-04-21/22 | Para: José Luis Espinosa_
+- L819 `julio 2024` → - L555 `julio 2024` → Desde julio 2024 existe un régimen fiscal especial **exclusivo para empresas en Baleares**. Pocas 
+- L819 `julio 2024` → - L555 `julio 2024` → Desde julio 2024 existe un régimen fiscal especial **exclusivo para empresas en Baleares**. Pocas 
+- L822 `2026-05-29` → - L45 `2026-05-29` → FECHA: 2026-05-29 a las 16:00h
+- L822 `2026-05-29` → - L45 `2026-05-29` → FECHA: 2026-05-29 a las 16:00h
+- L823 `2026-06-03` → - L53 `2026-06-03` → FECHA: 2026-06-03 a las 9:00h
+- L823 `2026-06-03` → - L53 `2026-06-03` → FECHA: 2026-06-03 a las 9:00h
+- L826 `2026-04-21` → - L17 `2026-04-21` → FECHA_COMPLETADO: 2026-04-21
+- L826 `2026-04-21` → - L17 `2026-04-21` → FECHA_COMPLETADO: 2026-04-21
+- L827 `mayo 2026` → - L25 `mayo 2026` → FECHA_LIMITE: antes de mayo 2026
+- L827 `mayo 2026` → - L25 `mayo 2026` → FECHA_LIMITE: antes de mayo 2026
+- L828 `2026-04-21` → - L48 `2026-04-21` → FECHA_LIMITE: mañana 2026-04-21
+- L828 `2026-04-21` → - L48 `2026-04-21` → FECHA_LIMITE: mañana 2026-04-21
+- L831 `2026-06-20` → - L11 `2026-06-20` → - _Apuntado: 2026-06-20, para próxima visita a Alicante_
+- L831 `2026-06-20` → - L11 `2026-06-20` → - _Apuntado: 2026-06-20, para próxima visita a Alicante_
+- L836 `2026-04-15` → **`conversaciones/2026-04-15.md`**
+- L837 `2026-04-15` → - L119 `2026-04-15` → Para probar: python3 /root/assistant/scripts/garmin_sync.py --date 2026-04-15
+- L837 `2026-04-15` → - L119 `2026-04-15` → Para probar: python3 /root/assistant/scripts/garmin_sync.py --date 2026-04-15
+- L839 `2026-04-21` → **`conversaciones/2026-04-21.md`**
+- L840 `noviembre 2024` → - L556 `noviembre 2024` → Si dejaste de tener coches en Getaround/Amovens antes de noviembre 2024 → sin riesgo, la ley n
+- L840 `noviembre 2024` → - L556 `noviembre 2024` → Si dejaste de tener coches en Getaround/Amovens antes de noviembre 2024 → sin riesgo, la ley n
+- L842 `2026-06-19` → **`conversaciones/2026-06-19.md`**
+- L843 `junio 2026` → - L280 `junio 2026` → → CIERRA: 29 junio 2026 — quedan 10 días para pujar
+- L843 `junio 2026` → - L280 `junio 2026` → → CIERRA: 29 junio 2026 — quedan 10 días para pujar
+- L845 `2026-04-20` → **`conversaciones/2026-04-20.md`**
+- L846 `MAYO 2026` → - L550 `MAYO 2026` → \nLos portales de vuelos no me dejan scrapear los horarios exactos (son JS dinámico). Te doy los en
+- L848 `2026-04-17` → **`conversaciones/2026-04-17.md`**
+- L849 `ABRIL 2026` → - L685 `ABRIL 2026` → RESUMEN SEPARADO — 17 ABRIL 2026
+- L849 `ABRIL 2026` → - L685 `ABRIL 2026` → RESUMEN SEPARADO — 17 ABRIL 2026
+- L850 `mayo 2026` → - L897 `mayo 2026` → - Firma contrato Laura/Jamie (antes de mayo 2026)
+- L850 `mayo 2026` → - L897 `mayo 2026` → - Firma contrato Laura/Jamie (antes de mayo 2026)
+- L852 `2026-05-18` → **`conversaciones/2026-05-18.md`**
+- L853 `abril de 2026` → - L83 `abril de 2026` → PLAZO DE SOLICITUDES: 20 días hábiles desde el 30 de abril de 2026
+- L853 `abril de 2026` → - L83 `abril de 2026` → PLAZO DE SOLICITUDES: 20 días hábiles desde el 30 de abril de 2026
+- L854 `mayo de 2026` → - L147 `mayo de 2026` → ⏰ FECHA LÍMITE PUJAS: 29 de mayo de 2026
+- L854 `mayo de 2026` → - L147 `mayo de 2026` → ⏰ FECHA LÍMITE PUJAS: 29 de mayo de 2026
+- L856 `2026-04-27` → **`conversaciones/2026-04-27.md`**
+- L857 `mayo 2026` → - L322 `mayo 2026` → PLAZO: hasta ~22 mayo 2026
+- L857 `mayo 2026` → - L322 `mayo 2026` → PLAZO: hasta ~22 mayo 2026
+- L1092 `2026-04-20` → - **Comisión** — en: `2026-04-20`, `2026-04-30`, `2026-05-18`
+- L1092 `2026-04-30` → - **Comisión** — en: `2026-04-20`, `2026-04-30`, `2026-05-18`
+- L1092 `2026-05-18` → - **Comisión** — en: `2026-04-20`, `2026-04-30`, `2026-05-18`
+- L1093 `2026-04-21` → - **Comparativa** — en: `2026-04-21`, `2026-04-29`, `lint-log`
+- L1093 `2026-04-29` → - **Comparativa** — en: `2026-04-21`, `2026-04-29`, `lint-log`
+- L1094 `2026-04-30` → - **Competencia** — en: `2026-04-30`, `2026-05-18`
+- L1094 `2026-05-18` → - **Competencia** — en: `2026-04-30`, `2026-05-18`
+- L1366 `2026-04-21` → - **Falta** — en: `2026-04-21`, `2026-04-28`, `2026-06-23`
+- L1366 `2026-04-28` → - **Falta** — en: `2026-04-21`, `2026-04-28`, `2026-06-23`
+- L1366 `2026-06-23` → - **Falta** — en: `2026-04-21`, `2026-04-28`, `2026-06-23`
+- L1368 `2026-05-17` → - **Felip Curtoys** — en: `2026-05-17`, `2026-05-18`
+- L1368 `2026-05-18` → - **Felip Curtoys** — en: `2026-05-17`, `2026-05-18`
+- L1574 `2026-04-17` → - **Luego** — en: `2026-04-17`, `2026-04-20`, `2026-04-27`
+- L1574 `2026-04-20` → - **Luego** — en: `2026-04-17`, `2026-04-20`, `2026-04-27`
+- L1574 `2026-04-27` → - **Luego** — en: `2026-04-17`, `2026-04-20`, `2026-04-27`
+- L1575 `2026-04-15` → - **Límite** — en: `2026-04-15`, `2026-06-22`, `control-gasto-semanal`
+- L1575 `2026-06-22` → - **Límite** — en: `2026-04-15`, `2026-06-22`, `control-gasto-semanal`
+- L1576 `2026-04-17` → - **Madrid** — en: `2026-04-17`, `2026-04-29`, `2026-04-30`
+- L1576 `2026-04-29` → - **Madrid** — en: `2026-04-17`, `2026-04-29`, `2026-04-30`
+- L1576 `2026-04-30` → - **Madrid** — en: `2026-04-17`, `2026-04-29`, `2026-04-30`
+- L1613 `2026-06-20` → - **Metal** — en: `2026-06-20`, `2026-06-22`
+- L1613 `2026-06-22` → - **Metal** — en: `2026-06-20`, `2026-06-22`
+- L1614 `2026-05-05` → - **Meter** — en: `2026-05-05`, `2026-05-17`, `2026-05-18`
+- L1614 `2026-05-17` → - **Meter** — en: `2026-05-05`, `2026-05-17`, `2026-05-18`
+- L1614 `2026-05-18` → - **Meter** — en: `2026-05-05`, `2026-05-17`, `2026-05-18`
+- L1704 `2026-04-27` → - **Pantalla** — en: `2026-04-27`, `2026-05-06`, `conceptos`
+- L1704 `2026-05-06` → - **Pantalla** — en: `2026-04-27`, `2026-05-06`, `conceptos`
+- L1705 `2026-04-21` → - **Paralelo** — en: `2026-04-21`, `2026-05-18`
+- L1705 `2026-05-18` → - **Paralelo** — en: `2026-04-21`, `2026-05-18`
+- L1706 `2026-04-27` → - **Parece** — en: `2026-04-27`, `2026-05-01`, `2026-05-10`
+- L1706 `2026-05-01` → - **Parece** — en: `2026-04-27`, `2026-05-01`, `2026-05-10`
+- L1706 `2026-05-10` → - **Parece** — en: `2026-04-27`, `2026-05-01`, `2026-05-10`
+- L1737 `2026-04-18` → - **Playa** — en: `2026-04-18`, `2026-06-18`, `2026-06-22`
+- L1737 `2026-06-18` → - **Playa** — en: `2026-04-18`, `2026-06-18`, `2026-06-22`
+- L1737 `2026-06-22` → - **Playa** — en: `2026-04-18`, `2026-06-18`, `2026-06-22`
+- L1738 `2026-04-20` → - **Plazo** — en: `2026-04-20`, `2026-04-22`, `2026-04-27`
+- L1738 `2026-04-22` → - **Plazo** — en: `2026-04-20`, `2026-04-22`, `2026-04-27`
+- L1738 `2026-04-27` → - **Plazo** — en: `2026-04-20`, `2026-04-22`, `2026-04-27`
+- L1739 `2026-04-20` → - **Plusvalía** — en: `2026-04-20`, `2026-05-18`, `2026-05-19`
+- L1739 `2026-05-18` → - **Plusvalía** — en: `2026-04-20`, `2026-05-18`, `2026-05-19`
+- L1739 `2026-05-19` → - **Plusvalía** — en: `2026-04-20`, `2026-05-18`, `2026-05-19`
+- L1761 `2026-04-29` → - **Premium** — en: `2026-04-29`, `2026-05-18`, `informe-negocios-escalables-2026`
+- L1761 `2026-05-18` → - **Premium** — en: `2026-04-29`, `2026-05-18`, `informe-negocios-escalables-2026`
+- L1762 `2026-04-16` → - **Preparar** — en: `2026-04-16`, `2026-04-30`
+- L1762 `2026-04-30` → - **Preparar** — en: `2026-04-16`, `2026-04-30`
+- L1763 `2026-04-17` → - **Presiona** — en: `2026-04-17`, `informe-negocios-escalables-2026`
+- L1937 `2026-05-06` → - **Semana** — en: `2026-05-06`, `2026-05-18`, `control-gasto-semanal`
+- L1937 `2026-05-18` → - **Semana** — en: `2026-05-06`, `2026-05-18`, `control-gasto-semanal`
+- L1938 `2026-05-12` → - **Separar** — en: `2026-05-12`, `2026-05-22`
+- L1938 `2026-05-22` → - **Separar** — en: `2026-05-12`, `2026-05-22`
+- L1939 `2026-04-16` → - **Serie** — en: `2026-04-16`, `2026-04-28`, `2026-05-05`
+- L1939 `2026-04-28` → - **Serie** — en: `2026-04-16`, `2026-04-28`, `2026-05-05`
+- L1939 `2026-05-05` → - **Serie** — en: `2026-04-16`, `2026-04-28`, `2026-05-05`
+
+**`sistemas/analisis-semanal-2026-04-19.md`**
+- L21 `2026-04-15` → 2. **Cerrar tareas obsoletas:** `tareas/dashboard.md` y `tareas/pendientes-2026-04-15.md` tienen 3 tareas del 15/04 sin 
+- L22 `2026-04-19` → 3. **Huérfano valioso:** Enlazar `sistemas/analisis-semanal-2026-04-19.md` en `sistemas/INDEX.md` (archivo con contenido
+- L26 `mayo 2026` → - **P1:** Firma contrato Laura/Jamie (inicio mayo 2026, quedan 11 días)
+
+**`sistemas/innovacion-2026-06-02.md`**
+- L12 `2026-06-01` → ⚡ ACCIÓN INMEDIATA: Leer `/root/vault/cerebro/INDEX.md` y `/root/vault/conversaciones/2026-06-01.md` para actualizar con
+
+**`sistemas/analisis-semanal-2026-05-10.md`**
+- L25 `2026-05-10` → 2. **Enlazar huérfano**: `sistemas/innovacion-2026-05-10.md` no está linkado desde `sistemas/INDEX.md` → añadir línea
+
+**`sistemas/analisis-semanal-2026-05-03.md`**
+- L29 `2026-05-19` → - 🟡 Cita psicología: 2026-05-19 (16 días)
+
+**`sistemas/analisis-semanal-2026-04-26.md`**
+- L17 `2026-04-15` → 1. **Urgente:** Actualizar `tareas/dashboard.md` y `tareas/pendientes-2026-04-15.md` — llevan 11 días sin tocar, tarea C
+- L17 `2026-04-18` → 1. **Urgente:** Actualizar `tareas/dashboard.md` y `tareas/pendientes-2026-04-15.md` — llevan 11 días sin tocar, tarea C
+- L18 `2026-04-26` → 2. **Enlazar:** `sistemas/innovacion-2026-04-26.md` está huérfano — agregarlo a `sistemas/INDEX.md` o cerebro principal.
+- L24 `mayo 2026` → - ⚠️ **Contrato Laura/Jamie:** firma pendiente antes de mayo 2026 (¡quedan 4 días!)
+- L25 `2026-04-18` → - ❌ **Dashboard obsoleto:** "Revisar CRM leads" tenía fecha 2026-04-18 (ya pasó hace 8 días)
+
+**`temas/informe-negocios-escalables-2026.md`**
+- L2 `2026-04-21` → _Preparado: noche 2026-04-21/22 | Para: José Luis Espinosa_
+- L555 `julio 2024` → Desde julio 2024 existe un régimen fiscal especial **exclusivo para empresas en Baleares**. Pocas SL de Ibiza lo usan po
+
+**`cerebro/alertas.md`**
+- L26 `2026-06-26` → FECHA: 2026-06-26 (viernes) a las 08:30h
+- L38 `2026-06-29` → FECHA: semana del 2026-06-29 (día exacto pendiente confirmar)
+- L65 `2026-06-03` → FECHA: 2026-06-03 a las 9:00h
+
+**`cerebro/acciones.md`**
+- L17 `2026-04-21` → FECHA_COMPLETADO: 2026-04-21
+- L25 `mayo 2026` → FECHA_LIMITE: antes de mayo 2026
+- L48 `2026-04-21` → FECHA_LIMITE: mañana 2026-04-21
+
+**`personal/lugares-visitar.md`**
+- L11 `2026-06-20` → - _Apuntado: 2026-06-20, para próxima visita a Alicante_
+
+**`personal/plan-oposicion-policia-local.md`**
+- L3 `Abril 2026` → **Inicio:** Abril 2026
+
+**`conversaciones/2026-04-15.md`**
+- L119 `2026-04-15` → Para probar: python3 /root/assistant/scripts/garmin_sync.py --date 2026-04-15
+
+**`conversaciones/2026-04-21.md`**
+- L556 `noviembre 2024` → Si dejaste de tener coches en Getaround/Amovens antes de noviembre 2024 → sin riesgo, la ley no es retroactiva.
+
+**`conversaciones/2026-06-19.md`**
+- L280 `junio 2026` → → CIERRA: 29 junio 2026 — quedan 10 días para pujar
+
+**`conversaciones/2026-04-20.md`**
+- L550 `MAYO 2026` → \nLos portales de vuelos no me dejan scrapear los horarios exactos (son JS dinámico). Te doy los enlaces directos para q
+
+**`conversaciones/2026-04-17.md`**
+- L685 `ABRIL 2026` → RESUMEN SEPARADO — 17 ABRIL 2026
+- L897 `mayo 2026` → - Firma contrato Laura/Jamie (antes de mayo 2026)
+
+**`conversaciones/2026-05-18.md`**
+- L83 `abril de 2026` → PLAZO DE SOLICITUDES: 20 días hábiles desde el 30 de abril de 2026
+- L147 `mayo de 2026` → ⏰ FECHA LÍMITE PUJAS: 29 de mayo de 2026
+
+**`conversaciones/2026-04-27.md`**
+- L322 `mayo 2026` → PLAZO: hasta ~22 mayo 2026
+
+**`conversaciones/2026-05-20.md`**
+- L39 `mayo 2024` → He visto las fotos. Es la nota simple de tu piso — Edificio Caravella, Calle del Faro, Sant Antoni. Esa es de mayo 2024,
+
+**`proyectos/trabajos/formentera-sacha-savines-2026/trabajo.md`**
+- L9 `abril 2026` → - Ejecución: 18 de abril 2026
+
+### Conceptos sin página propia (1320)
+- **Abrir** — en: `2026-04-17`, `2026-04-20`, `2026-04-24`
+- **Abrir Obsidian** — en: `2026-04-20`, `2026-05-12`, `lint-log`
+- **Absorbe** — en: `2026-04-24`, `2026-06-24`
+- **Acabas** — en: `2026-04-30`, `2026-06-18`, `lint-log`
+- **Acabo** — en: `2026-04-20`, `2026-04-21`, `2026-05-07`
+- **Acceso** — en: `2026-04-17`, `2026-04-30`, `2026-05-07`
+- **Acción** — en: `2026-04-30`, `2026-05-05`, `2026-05-06`
+- **Acepta** — en: `2026-04-17`, `2026-04-30`, `2026-05-17`
+- **Aceptar** — en: `2026-04-20`, `2026-05-19`, `2026-06-27`
+- **Activar** — en: `2026-04-19`, `2026-04-20`, `2026-05-14`
+- **Actividad** — en: `plan-oposicion-policia-local`, `analisis-semanal-2026-05-17`, `lint-log`
+- **Activos Concursales** — en: `2026-05-17`, `2026-05-18`, `lint-log`
+- **Actualización** — en: `2026-05-06`, `innovacion-2026-04-19`, `lint-log`
+- **Actualizado** — en: `2026-04-16`, `2026-04-21`, `2026-05-07`
+- **Actualizar** — en: `2026-04-17`, `2026-04-20`, `2026-05-21`
+- **Actualizo** — en: `2026-04-21`, `2026-05-06`, `2026-05-07`
+- **Actuar** — en: `2026-04-17`, `innovacion-2026-06-26`
+- **Acuerdos** — en: `2026-04-30`, `lint-log`, `informe-negocios-escalables-2026`
+- **AdBlue** — en: `2026-04-22`, `lint-log`, `informe-negocios-escalables-2026`
+- **Además** — en: `2026-05-01`, `2026-05-04`, `2026-05-18`
+- **Admin** — en: `2026-05-07`, `2026-05-11`, `lint-log`
+- **Aeropuerto** — en: `control-gasto-semanal`, `lint-log`, `gastos-supermercado`
+- **Afilador** — en: `2026-06-23`, `2026-06-24`
+- **Agencia** — en: `2026-06-16`, `2026-06-17`, `2026-06-27`
+- **Agencia Tributaria** — en: `2026-04-28`, `2026-04-29`, `2026-05-19`
+- **Agente** — en: `2026-04-27`, `lint-log`, `informe-negocios-escalables-2026`
+- **Ahora** — en: `2026-04-16`, `2026-04-17`, `2026-04-18`
+- **Ahorro** — en: `2026-04-24`, `2026-05-02`, `2026-06-18`
+- **AirPods** — en: `2026-04-20`, `2026-04-27`, `2026-06-22`
+- **Airbnb** — en: `2026-04-21`, `2026-04-24`, `2026-04-30`
+- **Ajustes** — en: `2026-04-30`, `2026-05-12`, `2026-05-14`
+- **Alerta** — en: `2026-04-17`, `2026-05-05`, `2026-05-06`
+- **AlertaSubastas** — en: `2026-06-16`, `2026-06-18`, `2026-06-21`
+- **Alfonso Mira** — en: `2026-05-04`, `2026-06-30`, `restaurantes`
+- **Algorfa** — en: `2026-06-30`, `restaurantes`
+- **Alguien** — en: `2026-04-27`, `2026-04-30`, `2026-05-17`
+- **Algunos** — en: `2026-04-22`, `2026-05-17`, `2026-05-18`
+- **AliExpress** — en: `2026-04-20`, `2026-04-27`, `2026-06-19`
+- **Alicanre** — en: `2026-05-02`, `2026-05-03`, `2026-06-20`
+- **Alicante** — en: `2026-04-16`, `2026-04-20`, `2026-04-21`
+- **Aliexpress** — en: `2026-04-29`, `gastos-abril-2026`, `lint-log`
+- **Allianz** — en: `critico`, `2026-04-17`, `lint-log`
+- **Almadrava** — en: `activo`, `critico`, `ficha-sacha`
+- **Alquila** — en: `2026-04-30`, `2026-06-22`, `lint-log`
+- **Alquilado** — en: `2026-06-17`, `2026-06-19`, `lint-log`
+- **Alquiler** — en: `2026-04-20`, `2026-04-21`, `2026-04-22`
+- **Alquiler Laura** — en: `2026-04-30`, `analisis-semanal-2026-05-03`, `lint-log`
+- **Alternativa** — en: `2026-04-16`, `2026-06-22`, `lint-log`
+- **Amazon** — en: `2026-04-16`, `2026-04-27`, `2026-04-29`
+- **Ambas** — en: `2026-04-27`, `2026-05-21`, `lint-log`
+- **Ambientador Wurth Baby** — en: `2026-04-17`, `formentera-ac`, `lint-log`
+- **Ambos** — en: `2026-04-17`, `2026-05-17`, `2026-05-19`
+- **Amovens** — en: `2026-04-21`, `lint-log`
+- **Ampliar** — en: `2026-05-02`, `2026-05-17`, `lint-log`
+- **Analiza** — en: `2026-05-11`, `2026-06-30`
+- **Analizado** — en: `2026-04-16`, `2026-06-27`
+- **Analizando** — en: `2026-05-11`, `2026-05-12`, `2026-05-14`
+- **Analizar** — en: `2026-04-30`, `2026-05-06`, `innovacion-2026-05-12`
+- **Android** — en: `2026-05-06`, `2026-05-07`, `2026-05-11`
+- **Anotado** — en: `2026-04-16`, `2026-04-17`, `2026-04-18`
+- **Anotar** — en: `2026-05-05`, `2026-05-18`, `lint-log`
+- **Antes** — en: `perfil-cognitivo`, `2026-04-16`, `2026-04-17`
+- **Anthropic** — en: `2026-04-23`, `2026-05-06`, `2026-05-07`
+- **Antoni** — en: `2026-04-16`, `2026-05-09`, `2026-05-18`
+- **Antonio** — en: `acciones`, `activo`, `actores`
+- **Anuncio** — en: `2026-04-30`, `lint-log`, `ebike-busqueda`
+- **Análisis** — en: `2026-04-15`, `2026-04-17`, `2026-04-18`
+- **Análisis Semanal** — en: `analisis-semanal-2026-04-18`, `analisis-semanal-2026-04-19`, `analisis-semanal-2026-04-26`
+- **Apache** — en: `2026-05-07`, `2026-05-14`, `lint-log`
+- **Apaga** — en: `2026-04-17`, `2026-04-20`, `2026-04-22`
+- **Apertura** — en: `2026-04-30`, `2026-06-30`
+- **Aplica** — en: `2026-04-17`, `2026-04-27`, `lint-log`
+- **Aplico** — en: `2026-05-14`, `2026-05-16`, `lint-log`
+- **Apple** — en: `2026-04-17`, `2026-04-20`, `2026-04-27`
+- **Apple Store** — en: `2026-04-27`, `2026-06-22`, `lint-log`
+- **Aprender** — en: `2026-04-20`, `2026-05-06`, `lint-log`
+- **Apunta** — en: `2026-04-17`, `2026-05-07`, `lint-log`
+- **Apuntado** — en: `2026-04-16`, `2026-05-17`, `2026-05-18`
+- **Archivado** — en: `REGLAS`, `2026-04-27`, `lint-log`
+- **Archivar** — en: `analisis-semanal-2026-06-14`, `analisis-semanal-2026-06-28`
+- **Archivos** — en: `REGLAS`, `2026-04-15`, `2026-05-07`
+- **Argamassa** — en: `2026-06-16`, `2026-06-19`, `informe-2026-06-16`
+- **Argumento** — en: `estructura-financiera`, `informe-2026-06-16`, `lint-log`
+- **Argumentos** — en: `2026-06-16`, `2026-06-17`, `lint-log`
+- **Arquitectura** — en: `2026-05-12`, `analisis-semanal-2026-04-18`, `lint-log`
+- **Arranca** — en: `2026-04-22`, `2026-04-23`, `2026-04-27`
+- **Arrancamos** — en: `2026-04-16`, `2026-04-20`, `2026-04-30`
+- **Arrancar** — en: `2026-04-17`, `2026-04-30`, `lint-log`
+- **Arrancarlo** — en: `2026-05-14`, `2026-05-16`, `lint-log`
+- **Arranco** — en: `2026-04-21`, `2026-05-06`, `2026-05-22`
+- **Arreglado** — en: `2026-05-06`, `2026-05-12`, `2026-05-14`
+- **Arroces** — en: `2026-04-18`, `2026-06-30`, `restaurantes`
+- **Arroz** — en: `2026-04-18`, `2026-06-30`
+- **Ascensor** — en: `2026-06-16`, `2026-06-17`, `2026-06-22`
+- **Asegúrate** — en: `2026-04-20`, `2026-05-10`, `2026-06-30`
+- **Asistente** — en: `2026-05-06`, `innovacion-2026-04-26`, `innovacion-2026-04-28`
+- **Aspiradora** — en: `2026-04-16`, `2026-04-17`, `lint-log`
+- **Asunción** — en: `2026-06-30`, `restaurantes`
+- **Asunto** — en: `2026-04-20`, `2026-04-30`, `2026-05-02`
+- **Asuntos Sociales** — en: `2026-05-06`, `2026-05-07`, `2026-05-11`
+- **Atentamente** — en: `2026-04-20`, `2026-06-30`
+- **Audiencia** — en: `alertas`, `2026-05-12`, `2026-05-14`
+- **Auditoría** — en: `checkpoint`, `2026-04-30`, `2026-05-07`
+- **Ausente** — en: `analisis-semanal-2026-04-18`, `analisis-semanal-2026-05-31`, `lint-log`
+- **Authentication** — en: `2026-06-18`, `2026-06-19`, `lint-log`
+- **Automatizar** — en: `2026-04-30`, `analisis-semanal-2026-04-18`, `innovacion-2026-05-25`
+- **Autónomo** — en: `2026-04-21`, `2026-04-22`, `lint-log`
+- **Auxiliar Administrativo** — en: `2026-06-29`, `2026-06-30`
+- **Avenida** — en: `informe-2026-06-16`, `restaurantes`
+- **Avinguda** — en: `2026-04-18`, `2026-06-23`, `2026-06-30`
+- **Aviso** — en: `2026-05-02`, `2026-05-06`, `control-gasto-semanal`
+- **Avísame** — en: `2026-04-17`, `2026-05-07`, `2026-06-18`
+- **Ayuntamiento** — en: `2026-05-03`, `2026-05-18`, `2026-05-19`
+- **Añade** — en: `2026-04-21`, `2026-04-22`, `2026-04-28`
+- **Añadido** — en: `2026-05-14`, `lint-log`, `maia-sesion-20260512`
+- **Añadir** — en: `2026-04-15`, `2026-04-20`, `2026-04-30`
+- **Añado** — en: `2026-04-22`, `2026-05-05`, `2026-05-06`
+- **Añadí** — en: `2026-04-17`, `2026-05-17`, `lint-log`
+- **BUSINESS Visa** — en: `2026-04-29`, `gastos-abril-2026`, `lint-log`
+- **Bachillerato** — en: `2026-04-27`, `2026-06-29`
+- **Backend** — en: `2026-05-11`, `2026-05-12`, `lint-log`
+- **Backup** — en: `2026-04-16`, `2026-05-16`, `lint-log`
+- **Bajar** — en: `2026-04-28`, `2026-06-26`, `2026-06-27`
+- **Balance** — en: `2026-05-19`, `2026-06-27`
+- **Baleares** — en: `2026-04-16`, `2026-04-20`, `2026-04-22`
+- **Balearia** — en: `2026-05-02`, `2026-05-03`, `2026-05-04`
+- **Banco** — en: `2026-04-20`, `2026-05-19`, `2026-05-20`
+- **Bancos** — en: `2026-04-20`, `2026-05-19`, `lint-log`
+- **Bankinter** — en: `2026-04-20`, `2026-04-21`, `2026-05-17`
+- **Barcelona** — en: `2026-04-29`, `2026-06-19`, `lint-log`
+- **Barista Express** — en: `2026-04-29`, `2026-06-22`, `lint-log`
+- **Barista Impress** — en: `2026-06-22`, `2026-06-24`
+- **Barrida** — en: `2026-06-18`, `2026-06-29`
+- **Basado** — en: `2026-04-17`, `2026-04-24`, `lint-log`
+- **Bases** — en: `2026-04-27`, `nomina-abril-2026`, `lint-log`
+- **Batería** — en: `2026-04-20`, `busqueda-ebike-2026`, `lint-log`
+- **Beneficio** — en: `2026-04-17`, `2026-04-19`, `2026-04-20`
+- **Benidorm** — en: `2026-04-16`, `2026-04-20`, `lint-log`
+- **Berlín** — en: `2026-04-24`, `2026-06-19`, `lint-log`
+- **Billing** — en: `2026-05-07`, `2026-05-11`, `2026-05-20`
+- **Bizum** — en: `decisiones`, `2026-04-17`, `2026-04-28`
+- **BlaBlaCar** — en: `2026-05-01`, `2026-05-02`, `2026-05-05`
+- **Bloque** — en: `2026-06-22`, `informe-2026-06-16`, `lint-log`
+- **Bluetooth** — en: `2026-04-17`, `2026-04-20`, `2026-04-27`
+- **Bomba** — en: `2026-04-27`, `2026-04-28`, `2026-05-05`
+- **Booking** — en: `2026-04-16`, `2026-04-21`, `2026-04-30`
+- **Bossa** — en: `2026-04-18`, `2026-05-24`, `2026-05-25`
+- **Botón** — en: `2026-04-28`, `2026-05-06`, `2026-05-12`
+- **Bozzini** — en: `alertas`, `2026-06-17`, `2026-06-19`
+- **Breville** — en: `2026-04-29`, `2026-06-22`, `2026-06-24`
+- **Briefing** — en: `2026-04-18`, `2026-04-19`, `2026-04-21`
+- **Broker** — en: `2026-05-17`, `2026-05-18`, `lint-log`
+- **Bruto** — en: `2026-04-24`, `2026-05-18`, `2026-06-27`
+- **Buena** — en: `2026-04-16`, `2026-04-18`, `2026-04-20`
+- **Buenas** — en: `2026-04-15`, `2026-04-17`, `2026-04-20`
+- **Bueno** — en: `2026-04-29`, `2026-05-02`, `lint-log`
+- **Buenos** — en: `2026-04-17`, `2026-04-18`, `2026-04-21`
+- **Busca** — en: `2026-04-16`, `2026-04-17`, `2026-04-18`
+- **Buscando** — en: `2026-04-18`, `2026-05-25`, `lint-log`
+- **Buscar** — en: `2026-04-16`, `2026-04-20`, `2026-05-02`
+- **Busco** — en: `2026-04-16`, `2026-04-21`, `2026-04-22`
+- **Business** — en: `acciones`, `2026-04-15`, `2026-04-21`
+- **Business PitiClean** — en: `2026-04-21`, `2026-05-08`, `lint-log`
+- **Business Visa** — en: `2026-04-29`, `gastos-abril-2026`, `lint-log`
+- **Bájalo** — en: `2026-04-24`, `2026-04-28`, `lint-log`
+- **Búscala** — en: `2026-04-24`, `2026-06-30`
+- **Búscalo** — en: `2026-04-18`, `2026-05-07`, `2026-06-22`
+- **Búsqueda** — en: `alertas`, `2026-04-15`, `2026-04-18`
+- **Cable** — en: `2026-04-20`, `2026-04-27`, `lint-log`
+- **Cache** — en: `2026-05-11`, `2026-05-12`, `innovacion-2026-06-12`
+- **Caddy** — en: `checkpoint-ultimo`, `2026-04-17`, `2026-04-18`
+- **CaixaBank** — en: `2026-04-20`, `2026-04-21`, `2026-05-05`
+- **Calcula** — en: `2026-05-06`, `2026-06-27`
+- **Calcular** — en: `2026-04-24`, `2026-05-11`, `resumen-financiero`
+- **Calibración** — en: `2026-05-14`, `lint-log`, `maia-sesion-20260512`
+- **Calidad** — en: `2026-04-18`, `2026-04-29`, `2026-05-04`
+- **Calle** — en: `2026-05-18`, `2026-05-20`, `2026-06-16`
+- **Calle Catalunya** — en: `2026-06-16`, `informe-2026-06-16`, `opo-001-estrategia`
+- **Calle Galícia** — en: `2026-06-16`, `opo-004-005-figueretes`, `lint-log`
+- **Calle Gran** — en: `2026-06-20`, `lugares-visitar`, `lint-log`
+- **Calle Jesús** — en: `alertas`, `checkpoint`, `2026-05-11`
+- **Cambia** — en: `2026-04-27`, `2026-04-28`, `2026-05-07`
+- **Cambiar** — en: `2026-04-20`, `2026-04-28`, `2026-05-05`
+- **Cambio** — en: `2026-04-28`, `2026-05-17`, `2026-06-21`
+- **Cambios** — en: `2026-05-08`, `2026-05-14`, `2026-05-17`
+- **Campo** — en: `ficha-laura`, `2026-06-22`, `informe-2026-06-16`
+- **Cancela** — en: `2026-05-02`, `2026-06-27`
+- **Cancelación** — en: `2026-05-02`, `2026-05-19`, `lint-log`
+- **Cancelar** — en: `2026-04-20`, `2026-05-02`, `2026-05-18`
+- **Cancelas** — en: `2026-05-18`, `2026-06-17`, `2026-06-27`
+- **Cantidad** — en: `2026-04-16`, `lint-log`, `gastos-supermercado`
+- **Capacidad** — en: `2026-04-16`, `2026-04-20`, `2026-05-02`
+- **Capital** — en: `2026-04-20`, `2026-04-21`, `2026-05-02`
+- **Carburantes Ibiza** — en: `2026-04-16`, `lint-log`, `gastos-supermercado`
+- **Carga** — en: `2026-04-20`, `2026-04-22`, `2026-04-27`
+- **Cargas** — en: `2026-05-18`, `2026-06-23`, `lint-log`
+- **Carnicería** — en: `2026-04-17`, `control-gasto-semanal`, `lint-log`
+- **Carpeta** — en: `REGLAS`, `2026-04-17`, `lint-log`
+- **Carrer** — en: `2026-04-18`, `2026-06-17`, `2026-06-18`
+- **Carrer Castaños** — en: `2026-06-30`, `restaurantes`
+- **Carrera** — en: `2026-04-27`, `2026-04-30`, `plan-oposicion-policia-local`
+- **Casas** — en: `2026-06-26`, `restaurantes`
+- **Cases** — en: `2026-06-30`, `restaurantes`
+- **Catalán** — en: `alertas`, `2026-05-18`, `2026-05-21`
+- **Catastro** — en: `2026-05-03`, `2026-05-19`, `lint-log`
+- **Categoría** — en: `2026-05-18`, `control-gasto-semanal`, `nomina-abril-2026`
+- **Catering** — en: `2026-04-29`, `2026-06-22`, `lint-log`
+- **Causa** — en: `2026-04-28`, `2026-05-14`, `lint-log`
+- **Central** — en: `2026-04-20`, `2026-05-05`, `2026-05-10`
+- **Centro** — en: `alertas`, `checkpoint`, `2026-04-27`
+- **Cerca** — en: `2026-04-18`, `2026-06-19`, `lint-log`
+- **Cerebro** — en: `checkpoint-ultimo`, `2026-04-21`, `analisis-semanal-2026-05-17`
+- **Cerrar** — en: `2026-04-20`, `2026-04-21`, `2026-04-30`
+- **Certificado** — en: `2026-05-20`, `2026-06-22`, `lint-log`
+- **Chanel** — en: `2026-05-14`, `2026-05-16`, `2026-05-20`
+- **Channels** — en: `2026-05-20`, `2026-05-21`, `2026-05-22`
+- **ChatGPT** — en: `2026-05-05`, `2026-05-07`, `lint-log`
+- **Checklist** — en: `perfil-cognitivo`, `2026-04-18`, `2026-05-06`
+- **China** — en: `2026-04-17`, `2026-04-27`, `2026-06-20`
+- **Chrome** — en: `2026-05-06`, `2026-05-07`, `2026-05-11`
+- **Ciclos** — en: `2026-04-29`, `2026-04-30`, `lint-log`
+- **Cierra** — en: `2026-04-20`, `2026-04-22`, `2026-04-27`
+- **Cierras** — en: `2026-04-21`, `2026-06-18`, `lint-log`
+- **Cierre** — en: `2026-04-30`, `2026-05-18`, `2026-06-18`
+- **Citas** — en: `2026-05-12`, `analisis-semanal-2026-06-07`, `lint-log`
+- **Claro** — en: `2026-04-17`, `2026-04-28`, `2026-05-18`
+- **ClaroSwiss** — en: `2026-04-29`, `2026-06-22`, `lint-log`
+- **Clases** — en: `2026-06-28`, `2026-06-29`
+- **Classic** — en: `2026-04-15`, `2026-04-29`, `gastos-abril-2026`
+- **Claude** — en: `2026-04-17`, `2026-04-23`, `2026-04-28`
+- **Claude Code** — en: `2026-04-17`, `2026-05-07`, `2026-05-08`
+- **Claude Haiku** — en: `2026-05-14`, `2026-05-17`, `lint-log`
+- **Clean Limpiador** — en: `formentera-ac`, `lint-log`, `facturas-empresa`
+- **Click** — en: `2026-04-16`, `2026-05-07`, `2026-05-12`
+- **Cliente** — en: `activo`, `actores`, `causas`
+- **Clientes** — en: `perfil-cognitivo`, `2026-04-17`, `2026-04-21`
+- **Clonar** — en: `2026-05-12`, `2026-06-18`, `lint-log`
+- **Cloudflare** — en: `2026-05-05`, `2026-05-07`, `lint-log`
+- **Cláusula** — en: `2026-04-15`, `2026-04-16`, `2026-05-20`
+- **Cobrado** — en: `critico`, `2026-04-17`, `2026-04-18`
+- **Cobran** — en: `2026-05-18`, `2026-06-22`, `lint-log`
+- **Cobrar** — en: `checkpoint-ultimo`, `2026-04-17`, `2026-04-18`
+- **Cobras** — en: `2026-04-21`, `2026-04-22`, `2026-05-03`
+- **Cobraste** — en: `2026-04-20`, `innovacion-2026-04-19`, `lint-log`
+- **Cobro** — en: `acciones`, `activo`, `2026-04-17`
+- **Cobro Sacha** — en: `2026-04-20`, `2026-05-09`, `lint-log`
+- **Coche** — en: `2026-04-16`, `2026-06-27`
+- **Cocina** — en: `2026-04-18`, `2026-05-04`, `2026-05-06`
+- **Colaboración** — en: `2026-04-21`, `conceptos`, `lint-log`
+- **Colchón** — en: `2026-05-02`, `2026-06-27`, `2026-06-28`
+- **Collective** — en: `2026-04-22`, `lint-log`, `informe-negocios-escalables-2026`
+- **Color** — en: `2026-04-28`, `2026-06-20`, `2026-06-22`
+- **Colores** — en: `2026-04-17`, `2026-04-22`, `2026-04-28`
+- **Comida** — en: `2026-04-29`, `2026-06-20`, `lint-log`
+- **Comisión** — en: `2026-04-20`, `2026-04-30`, `2026-05-18`
+- **Comparativa** — en: `2026-04-21`, `2026-04-29`, `lint-log`
+- **Compatible Sage** — en: `2026-04-29`, `2026-06-24`
+- **Competencia** — en: `2026-04-30`, `2026-05-18`, `lint-log`
+- **Completadas** — en: `lint-log`, `dashboard`, `pendientes-2026-04-15`
+- **Compra** — en: `2026-04-20`, `2026-04-29`, `2026-05-04`
+- **Comprar** — en: `2026-04-16`, `2026-04-20`, `2026-04-21`
+- **Compras** — en: `2026-04-20`, `2026-04-21`, `2026-04-22`
+- **Compresor** — en: `2026-04-17`, `2026-04-22`, `2026-05-18`
+- **Comprobar** — en: `2026-04-17`, `2026-05-16`, `lint-log`
+- **Comprueba** — en: `2026-04-16`, `2026-04-17`, `2026-04-27`
+- **Comunidad** — en: `2026-05-03`, `2026-05-06`, `2026-05-18`
+- **Concepto** — en: `gastos-abril-2026`, `nomina-abril-2026`, `perfil-economico`
+- **Conclusión** — en: `2026-04-29`, `2026-05-18`, `2026-05-19`
+- **Concurso** — en: `2026-05-18`, `2026-05-19`, `lint-log`
+- **Condensadora** — en: `2026-04-24`, `2026-05-11`, `lint-log`
+- **Condiciones** — en: `2026-04-20`, `2026-05-19`, `lint-log`
+- **Condición** — en: `2026-05-03`, `2026-05-19`, `lint-log`
+- **Conductos** — en: `2026-04-16`, `trabajo`, `lint-log`
+- **Conecta** — en: `2026-04-17`, `2026-04-22`, `lint-log`
+- **Conectar** — en: `2026-04-15`, `2026-04-20`, `2026-04-28`
+- **Conexiones** — en: `2026-04-22`, `2026-04-24`, `lint-log`
+- **Confianza** — en: `2026-05-05`, `2026-05-14`, `lint-log`
+- **Configuración** — en: `2026-04-16`, `2026-04-28`, `2026-05-12`
+- **Configurar** — en: `lint-log`, `dashboard`, `pendientes-2026-04-15`
+- **Confirma** — en: `perfil-cognitivo`, `2026-04-17`, `2026-04-20`
+- **Confirmación** — en: `2026-04-27`, `2026-04-30`, `2026-05-06`
+- **Confirmado** — en: `2026-04-16`, `2026-04-17`, `2026-04-22`
+- **Confirmar** — en: `alertas`, `checkpoint-ultimo`, `perfil-cognitivo`
+- **Conflicto** — en: `causas`, `2026-04-17`, `lint-log`
+- **Conocen** — en: `2026-04-20`, `2026-04-30`, `lint-log`
+- **Conoces** — en: `2026-04-30`, `2026-05-12`, `2026-05-18`
+- **Conseguir** — en: `2026-04-17`, `2026-05-11`, `2026-05-19`
+- **Conseguiste** — en: `2026-04-20`, `2026-05-07`, `lint-log`
+- **Consejo** — en: `2026-05-18`, `2026-06-18`, `lint-log`
+- **Consell** — en: `2026-04-16`, `2026-04-21`, `2026-04-30`
+- **Consell Insular** — en: `2026-06-29`, `2026-06-30`
+- **Conselleria** — en: `2026-05-18`, `2026-05-19`, `lint-log`
+- **Consigues** — en: `2026-04-20`, `2026-04-30`, `lint-log`
+- **Console** — en: `2026-05-07`, `2026-05-12`, `lint-log`
+- **Consolidar** — en: `analisis-semanal-2026-04-26`, `analisis-semanal-2026-05-17`, `innovacion-2026-06-18`
+- **Constitución** — en: `2026-04-21`, `lint-log`
+- **Consulta** — en: `2026-04-20`, `2026-04-30`, `2026-05-18`
+- **Consultar** — en: `2026-04-20`, `2026-04-28`, `trabajo`
+- **Consumo** — en: `alertas`, `2026-04-22`, `2026-04-29`
+- **Conta** — en: `2026-05-09`, `2026-06-22`, `2026-06-24`
+- **Contacta** — en: `2026-06-16`, `2026-06-19`, `lint-log`
+- **Contactar** — en: `2026-04-21`, `2026-04-30`, `2026-06-19`
+- **Contacto** — en: `2026-04-28`, `2026-05-20`, `2026-05-25`
+- **Contador** — en: `2026-05-07`, `2026-05-08`, `2026-05-11`
+- **Contador Gasoil** — en: `2026-05-11`, `2026-05-12`, `lint-log`
+- **Contadores** — en: `2026-05-06`, `2026-05-07`, `2026-05-17`
+- **Content** — en: `REGLAS`, `2026-05-07`, `2026-05-14`
+- **Contexto** — en: `checkpoint-ultimo`, `checkpoint`, `2026-04-17`
+- **Contexto Caliente** — en: `innovacion-2026-04-20`, `innovacion-2026-06-12`, `lint-log`
+- **Contraseña** — en: `2026-04-15`, `2026-04-20`, `2026-05-11`
+- **Contratar** — en: `2026-04-30`, `lint-log`, `informe-negocios-escalables-2026`
+- **Contrato** — en: `critico`, `ficha-laura`, `2026-04-15`
+- **Contrato Laura** — en: `2026-04-30`, `2026-05-05`, `2026-05-08`
+- **Contratos** — en: `2026-04-16`, `2026-04-22`, `lint-log`
+- **Control** — en: `alertas`, `checkpoint`, `2026-04-15`
+- **Controlador** — en: `2026-04-24`, `2026-05-19`, `lint-log`
+- **Conversaciones** — en: `checkpoint-ultimo`, `2026-04-16`, `2026-04-17`
+- **Conversión** — en: `2026-04-17`, `2026-04-30`, `lint-log`
+- **Convocatorias** — en: `2026-06-29`, `2026-06-30`
+- **Copeland** — en: `2026-04-24`, `2026-05-18`, `lint-log`
+- **Copia** — en: `2026-04-16`, `2026-04-17`, `2026-04-18`
+- **Corrección** — en: `2026-05-12`, `2026-05-18`, `lint-log`
+- **Correcto** — en: `2026-04-20`, `2026-04-21`, `2026-04-22`
+- **Corregido** — en: `2026-04-17`, `2026-04-24`, `2026-04-27`
+- **Corrijo** — en: `2026-04-17`, `2026-04-22`, `2026-04-24`
+- **Corro** — en: `2026-05-08`, `2026-05-20`, `lint-log`
+- **Corte Inglés** — en: `2026-04-27`, `2026-04-29`, `lint-log`
+- **Corto** — en: `2026-04-17`, `2026-05-05`, `2026-05-20`
+- **Coste** — en: `2026-04-20`, `2026-04-21`, `2026-04-22`
+- **Costes** — en: `2026-04-22`, `ficha-alquiler`, `lint-log`
+- **Creado** — en: `2026-05-17`, `plan-oposicion-policia-local`, `lint-log`
+- **Creando** — en: `2026-05-14`, `2026-05-22`, `lint-log`
+- **Crear** — en: `acciones`, `2026-04-16`, `2026-04-17`
+- **Crear Google Business** — en: `2026-04-30`, `analisis-semanal-2026-05-03`, `lint-log`
+- **Creas** — en: `2026-04-30`, `2026-05-06`, `lint-log`
+- **Create** — en: `2026-04-16`, `2026-05-11`, `lint-log`
+- **Cremallera** — en: `2026-06-20`, `2026-06-21`, `2026-06-22`
+- **Cualquier** — en: `2026-04-22`, `2026-04-24`, `2026-05-05`
+- **Cuanto** — en: `2026-04-17`, `2026-04-27`, `2026-05-04`
+- **Cubeta** — en: `2026-04-17`, `formentera-ac`, `lint-log`
+- **Cuenta** — en: `critico`, `2026-04-17`, `2026-04-28`
+- **Cuesta** — en: `2026-04-17`, `2026-05-07`, `2026-05-14`
+- **Cuota** — en: `2026-04-20`, `2026-04-21`, `2026-04-22`
+- **Cursor** — en: `2026-06-18`, `2026-06-22`, `lint-log`
+- **Cuáles** — en: `2026-04-19`, `2026-06-17`, `lint-log`
+- **Cuándo** — en: `2026-04-17`, `2026-04-28`, `2026-04-30`
+- **Cuántas** — en: `2026-04-17`, `formentera-ac`, `lint-log`
+- **Cuánto** — en: `2026-04-16`, `2026-04-17`, `2026-04-20`
+- **Cuántos** — en: `2026-04-16`, `2026-04-18`, `2026-04-28`
+- **Cuéntame** — en: `2026-04-20`, `2026-05-06`, `2026-05-08`
+- **Cálculo** — en: `2026-05-18`, `nomina-abril-2026`, `lint-log`
+- **Cámara** — en: `2026-04-27`, `2026-04-30`, `2026-05-11`
+- **Código** — en: `2026-04-17`, `2026-05-06`, `lint-log`
+- **Cópialo** — en: `2026-04-27`, `2026-04-30`, `2026-05-01`
+- **Danfoss** — en: `2026-04-24`, `2026-04-27`, `2026-04-28`
+- **Daniel** — en: `2026-05-01`, `2026-05-02`, `lint-log`
+- **Daniel Alberto** — en: `alertas`, `2026-06-17`, `lint-log`
+- **Darte** — en: `2026-04-21`, `2026-04-22`, `lint-log`
+- **Dashboard HTML** — en: `innovacion-2026-04-25`, `innovacion-2026-05-03`, `lint-log`
+- **Datos** — en: `ficha-sacha`, `2026-04-15`, `2026-04-16`
+- **Debería** — en: `2026-05-07`, `2026-05-11`, `2026-05-14`
+- **Debes** — en: `2026-04-17`, `2026-05-21`, `lint-log`
+- **Decide** — en: `2026-04-18`, `2026-05-18`, `2026-06-21`
+- **Decidir** — en: `2026-04-17`, `2026-04-30`, `informe-2026-06-16`
+- **Decir** — en: `2026-04-17`, `2026-04-21`, `2026-05-18`
+- **Decisión** — en: `escenarios`, `2026-04-30`, `analisis-semanal-2026-05-03`
+- **Declaración** — en: `2026-04-17`, `2026-04-27`, `2026-05-20`
+- **Declarar** — en: `acciones`, `2026-04-20`, `2026-05-02`
+- **Deducciones** — en: `nomina-abril-2026`, `lint-log`, `informe-negocios-escalables-2026`
+- **Deducción** — en: `2026-04-22`, `lint-log`, `informe-negocios-escalables-2026`
+- **Deducible** — en: `2026-04-22`, `lint-log`, `informe-negocios-escalables-2026`
+- **Definir** — en: `2026-04-30`, `2026-05-06`, `2026-05-16`
+- **Dejar** — en: `2026-04-17`, `2026-04-24`, `lint-log`
+- **Dejas** — en: `2026-05-02`, `2026-05-04`, `2026-05-05`
+- **Delivery** — en: `2026-06-20`, `lugares-visitar`, `lint-log`
+- **Dentro** — en: `2026-04-20`, `2026-05-05`, `2026-05-19`
+- **Depende** — en: `2026-04-16`, `2026-04-20`, `2026-04-24`
+- **Dependiendo** — en: `2026-04-21`, `2026-06-27`
+- **Depositar** — en: `2026-05-18`, `2026-06-22`, `lint-log`
+- **Depuración** — en: `analisis-semanal-2026-06-14`, `lint-log`
+- **Depósito** — en: `2026-05-18`, `2026-05-19`, `2026-05-20`
+- **Desahucio** — en: `2026-05-17`, `2026-05-18`, `lint-log`
+- **Desarrollar** — en: `innovacion-2026-05-30`, `innovacion-2026-06-07`, `innovacion-2026-06-17`
+- **Descalcificador** — en: `2026-04-29`, `2026-06-22`, `lint-log`
+- **Descansa** — en: `2026-04-15`, `2026-04-17`, `2026-04-20`
+- **Descarga** — en: `2026-04-15`, `2026-04-17`, `innovacion-2026-05-20`
+- **Descartadas** — en: `2026-06-17`, `busqueda-ebike-2026`, `lint-log`
+- **Descripción** — en: `2026-05-06`, `lint-log`, `facturas-empresa`
+- **Descuento** — en: `2026-04-16`, `2026-06-16`, `2026-06-18`
+- **Desglose** — en: `2026-04-20`, `2026-05-18`, `lint-log`
+- **Desinfección** — en: `activo`, `2026-04-17`, `lint-log`
+- **Desinfectante** — en: `2026-04-16`, `2026-04-17`, `formentera-ac`
+- **Deskew** — en: `2026-05-12`, `2026-05-17`, `lint-log`
+- **Desplazamiento** — en: `2026-04-17`, `trabajo`, `lint-log`
+- **Después** — en: `acciones`, `2026-04-20`, `2026-04-21`
+- **Destino** — en: `2026-04-18`, `2026-06-30`
+- **Destornilladores** — en: `2026-04-16`, `2026-04-17`, `lint-log`
+- **Detalles** — en: `2026-05-18`, `plan-oposicion-policia-local`, `lint-log`
+- **Detección** — en: `2026-05-14`, `2026-05-17`, `lint-log`
+- **Detecta** — en: `2026-04-30`, `2026-05-05`, `2026-05-06`
+- **Detectar** — en: `2026-04-17`, `2026-05-17`, `2026-06-16`
+- **Detector** — en: `innovacion-2026-04-29`, `innovacion-2026-05-21`, `innovacion-2026-05-27`
+- **Deudas** — en: `2026-04-15`, `2026-05-17`, `2026-06-27`
+- **DevTools** — en: `2026-05-07`, `2026-05-12`, `lint-log`
+- **Devuelve** — en: `2026-05-11`, `2026-05-12`, `lint-log`
+- **Diagnosticado** — en: `2026-05-12`, `2026-05-14`, `lint-log`
+- **Diagnóstico** — en: `2026-04-16`, `2026-04-24`, `2026-05-06`
+- **Dices** — en: `2026-04-20`, `2026-04-21`, `2026-05-08`
+- **Dicho** — en: `2026-04-28`, `2026-04-30`, `2026-05-25`
+- **Diferencia** — en: `2026-04-16`, `2026-04-22`, `2026-05-02`
+- **Diles** — en: `2026-04-16`, `2026-04-21`, `2026-04-24`
+- **Dirección** — en: `activo`, `ficha-laura`, `2026-04-16`
+- **Diseño** — en: `2026-04-20`, `2026-04-28`, `2026-04-30`
+- **Disfruta** — en: `2026-04-18`, `2026-05-03`, `lint-log`
+- **Disponibilidad** — en: `2026-04-17`, `2026-05-08`, `lint-log`
+- **Disponible** — en: `2026-04-20`, `2026-04-22`, `2026-06-27`
+- **Dixell** — en: `2026-04-24`, `2026-04-28`, `lint-log`
+- **Docker** — en: `2026-05-06`, `2026-05-14`, `lint-log`
+- **Documentación** — en: `REGLAS`, `2026-05-18`, `2026-06-30`
+- **Documentos** — en: `2026-04-17`, `2026-04-21`, `2026-05-12`
+- **Documents** — en: `2026-04-28`, `2026-05-12`, `lint-log`
+- **Dominante** — en: `analisis-semanal-2026-04-18`, `analisis-semanal-2026-04-19`, `analisis-semanal-2026-05-31`
+- **Dominio** — en: `2026-05-05`, `2026-05-07`, `analisis-semanal-2026-06-28`
+- **Duración** — en: `2026-04-16`, `2026-04-22`, `2026-05-20`
+- **Durante** — en: `2026-05-19`, `2026-05-20`, `lint-log`
+- **Dénia** — en: `2026-05-02`, `2026-05-03`, `lint-log`
+- **Dímelo** — en: `2026-04-20`, `2026-05-08`, `lint-log`
+- **Dónde** — en: `2026-04-16`, `2026-04-18`, `2026-04-23`
+- **EasyOCR** — en: `2026-05-12`, `2026-05-17`, `lint-log`
+- **Edificio Caravella** — en: `2026-05-20`, `lint-log`
+- **Edificio SOLFORD** — en: `2026-06-19`, `2026-06-22`, `informe-2026-06-16`
+- **Editar** — en: `2026-05-07`, `2026-05-12`, `2026-05-14`
+- **Eivillas** — en: `2026-04-22`, `2026-06-22`, `lint-log`
+- **Eivissa** — en: `alertas`, `2026-04-16`, `2026-04-18`
+- **Eixample** — en: `2026-06-23`, `informe-2026-06-16`, `opo-001-estrategia`
+- **Ejecución** — en: `trabajo`, `lint-log`
+- **Ejecutar** — en: `decisiones`, `escenarios`, `2026-04-17`
+- **Ejecuto** — en: `2026-04-19`, `innovacion-2026-04-30`, `innovacion-2026-05-05`
+- **Ejemplo** — en: `2026-04-20`, `2026-04-22`, `2026-04-24`
+- **Ejemplos** — en: `2026-05-07`, `2026-06-22`, `lint-log`
+- **Elche** — en: `2026-04-20`, `2026-05-03`, `2026-06-20`
+- **Electricidad** — en: `2026-05-07`, `2026-05-08`, `lint-log`
+- **ElevenLabs** — en: `2026-04-16`, `2026-05-08`, `innovacion-2026-05-08`
+- **Elige** — en: `2026-05-04`, `2026-05-05`, `2026-05-07`
+- **Elimina** — en: `2026-04-17`, `2026-05-14`, `analisis-semanal-2026-04-18`
+- **Eliminar** — en: `analisis-semanal-2026-05-10`, `analisis-semanal-2026-05-31`, `analisis-semanal-2026-06-07`
+- **Ellos** — en: `2026-04-24`, `2026-04-30`, `2026-05-17`
+- **Email** — en: `ficha-laura`, `2026-04-15`, `2026-04-20`
+- **Embarque** — en: `2026-04-17`, `2026-06-22`, `lint-log`
+- **Emerald Stay** — en: `2026-04-22`, `lint-log`, `informe-negocios-escalables-2026`
+- **Empezamos** — en: `2026-04-16`, `2026-04-21`, `2026-04-24`
+- **Empezar** — en: `2026-04-20`, `2026-04-30`, `lint-log`
+- **Empieza** — en: `2026-04-17`, `2026-04-20`, `2026-04-28`
+- **Empiezo** — en: `2026-04-16`, `2026-04-18`, `2026-05-05`
+- **Empresa** — en: `2026-05-18`, `2026-06-24`, `2026-06-27`
+- **Empresas** — en: `2026-04-16`, `2026-04-30`, `2026-05-18`
+- **Enciende** — en: `2026-04-17`, `2026-04-30`, `2026-06-19`
+- **Encontrar** — en: `2026-04-22`, `2026-05-25`, `lint-log`
+- **Encontré** — en: `2026-04-17`, `2026-05-14`, `2026-05-17`
+- **Encuentra** — en: `2026-04-22`, `2026-06-18`, `lint-log`
+- **Enlazar** — en: `analisis-semanal-2026-04-19`, `analisis-semanal-2026-04-26`, `analisis-semanal-2026-05-03`
+- **Entendido** — en: `2026-04-16`, `2026-04-17`, `2026-04-18`
+- **Enter** — en: `2026-05-06`, `2026-05-07`, `lint-log`
+- **Entiendo** — en: `2026-04-17`, `2026-05-04`, `2026-05-06`
+- **Entonces** — en: `2026-04-20`, `2026-04-22`, `2026-04-27`
+- **Entra** — en: `2026-04-16`, `2026-04-18`, `2026-04-21`
+- **Entrada** — en: `2026-05-02`, `2026-05-03`, `2026-05-04`
+- **Entrar** — en: `alertas`, `2026-04-30`, `2026-05-02`
+- **Entras** — en: `2026-05-06`, `2026-05-11`, `lint-log`
+- **Entrega** — en: `2026-04-27`, `lint-log`, `facturas-empresa`
+- **Enviado** — en: `2026-04-17`, `2026-04-30`, `lint-log`
+- **Enviar** — en: `2026-04-17`, `innovacion-2026-05-01`, `innovacion-2026-06-03`
+- **Envía** — en: `2026-05-11`, `2026-05-19`, `lint-log`
+- **Envío** — en: `2026-04-29`, `2026-05-06`, `2026-06-20`
+- **Equipo** — en: `2026-04-16`, `2026-05-06`, `lint-log`
+- **Equipos** — en: `2026-04-17`, `2026-05-06`, `trabajo`
+- **Equity** — en: `2026-04-20`, `2026-05-02`, `lint-log`
+- **Error** — en: `2026-05-05`, `2026-05-06`, `2026-05-07`
+- **Escala** — en: `2026-05-12`, `2026-06-29`
+- **Escalable** — en: `2026-04-22`, `2026-04-24`, `2026-04-30`
+- **Escalera** — en: `2026-04-17`, `formentera-ac`, `lint-log`
+- **Escenario** — en: `2026-04-20`, `2026-05-04`, `lint-log`
+- **Escobilla** — en: `2026-04-17`, `formentera-ac`, `lint-log`
+- **Escoleta** — en: `2026-05-06`, `2026-05-07`, `2026-05-11`
+- **Escribe** — en: `2026-04-17`, `2026-04-20`, `2026-04-28`
+- **Escribir** — en: `2026-04-21`, `2026-04-30`, `lint-log`
+- **Escritura** — en: `2026-04-21`, `2026-04-22`, `2026-06-27`
+- **Escríbeme** — en: `2026-04-17`, `2026-05-08`, `lint-log`
+- **Escuchado** — en: `2026-05-06`, `2026-05-14`, `lint-log`
+- **Eslamilla** — en: `2026-04-17`, `formentera-ac`, `lint-log`
+- **España** — en: `2026-04-16`, `2026-04-17`, `2026-04-20`
+- **Español** — en: `REGLAS`, `2026-04-27`, `2026-05-12`
+- **Especialista** — en: `2026-06-24`, `informe-negocios-escalables-2026`
+- **Especialistas** — en: `2026-04-16`, `2026-06-17`, `2026-06-24`
+- **Especializados** — en: `2026-04-22`, `2026-05-18`, `2026-06-24`
+- **Especificación** — en: `2026-05-14`, `2026-06-19`, `lint-log`
+- **Espera** — en: `2026-04-17`, `2026-04-20`, `2026-04-27`
+- **Esperando** — en: `2026-04-16`, `2026-04-20`, `lint-log`
+- **Esperar** — en: `2026-04-17`, `2026-04-29`, `2026-05-17`
+- **Esperas** — en: `2026-05-17`, `2026-06-20`, `lint-log`
+- **Espero** — en: `2026-04-21`, `2026-06-30`
+- **Espinosa** — en: `perfil-cognitivo`, `2026-04-20`, `2026-04-27`
+- **Espinosa Sirvent** — en: `actores`, `2026-04-17`, `2026-05-20`
+- **Espiral** — en: `2026-06-20`, `2026-06-22`, `lint-log`
+- **Estable** — en: `2026-04-29`, `innovacion-2026-06-14`, `innovacion-2026-06-26`
+- **Estamos** — en: `2026-05-12`, `2026-05-19`, `lint-log`
+- **Estatutos** — en: `2026-04-22`, `lint-log`, `informe-negocios-escalables-2026`
+- **Estimación** — en: `2026-04-16`, `2026-05-18`, `2026-05-19`
+- **Estoy** — en: `2026-04-20`, `2026-04-30`, `2026-05-02`
+- **Estrategia** — en: `2026-04-21`, `2026-04-30`, `2026-05-06`
+- **Estructura** — en: `REGLAS`, `2026-04-16`, `2026-04-30`
+- **Estrés** — en: `2026-04-15`, `2026-04-16`, `lint-log`
+- **Estudio** — en: `2026-04-20`, `2026-04-21`, `2026-04-29`
+- **Están** — en: `2026-04-17`, `2026-04-27`, `lint-log`
+- **Estás** — en: `2026-04-17`, `2026-04-20`, `2026-04-24`
+- **Eulalia** — en: `2026-05-24`, `2026-05-25`, `lint-log`
+- **Eulen** — en: `2026-04-27`, `2026-04-28`, `2026-06-27`
+- **Europa** — en: `2026-04-22`, `2026-04-24`, `2026-04-30`
+- **Evaporador** — en: `2026-04-24`, `2026-04-27`, `2026-05-11`
+- **Evita** — en: `2026-04-30`, `2026-06-22`, `2026-06-24`
+- **Evitar** — en: `perfil-cognitivo`, `2026-04-20`, `innovacion-2026-05-08`
+- **Exacto** — en: `2026-04-15`, `2026-04-16`, `2026-04-17`
+- **Examen** — en: `alertas`, `2026-04-27`, `2026-05-17`
+- **Excel** — en: `2026-04-16`, `2026-04-17`, `2026-04-21`
+- **Expediente** — en: `alertas`, `lint-log`, `hacienda-embargo-2026`
+- **Expiration** — en: `2026-04-16`, `2026-06-18`, `lint-log`
+- **Explicabilidad** — en: `2026-05-06`, `conceptos`, `lint-log`
+- **Explicación** — en: `2026-04-15`, `2026-06-24`
+- **Exterior** — en: `2026-04-17`, `trabajo`, `lint-log`
+- **Fabián** — en: `2026-05-11`, `2026-05-12`, `lint-log`
+- **Fabricación** — en: `2026-05-18`, `2026-06-18`, `lint-log`
+- **Facebook** — en: `2026-04-30`, `2026-06-17`, `2026-06-29`
+- **Factura** — en: `2026-05-06`, `perfil-economico`, `lint-log`
+- **Factura Sacha** — en: `acciones`, `2026-04-21`, `lint-log`
+- **Facturación** — en: `critico`, `perfil-economico`, `lint-log`
+- **Facturas** — en: `2026-04-21`, `2026-04-24`, `2026-05-06`
+- **Failed** — en: `innovacion-2026-05-09`, `innovacion-2026-05-23`, `innovacion-2026-05-24`
+- **Fallback** — en: `2026-05-12`, `2026-05-17`, `lint-log`
+- **Fallo** — en: `2026-04-17`, `2026-04-27`, `2026-04-30`
+- **Falta** — en: `2026-04-21`, `2026-04-28`, `2026-06-23`
+- **Familia** — en: `2026-05-05`, `2026-06-26`
+- **Fechas** — en: `REGLAS`, `lint-log`
+- **Felip Curtoys** — en: `2026-05-17`, `2026-05-18`, `lint-log`
+- **Ferry** — en: `checkpoint-ultimo`, `2026-04-17`, `analisis-semanal-2026-04-19`
+- **Ferry Formentera** — en: `causas`, `lint-log`, `informe-negocios-escalables-2026`
+- **Ferry Ibiza** — en: `2026-04-17`, `2026-06-29`, `trabajo`
+- **Ferry Trasmapi** — en: `critico`, `2026-04-17`, `lint-log`
+- **Fianza** — en: `ficha-laura`, `2026-04-16`, `2026-04-22`
+- **Figueres** — en: `2026-06-16`, `informe-2026-06-16`, `lint-log`
+- **Figueretes** — en: `2026-05-17`, `2026-05-18`, `2026-05-19`
+- **Filtra** — en: `2026-04-16`, `2026-04-27`, `2026-05-04`
+- **Filtro** — en: `2026-04-22`, `2026-06-22`, `lint-log`
+- **Filtros** — en: `2026-04-20`, `2026-04-29`, `2026-06-22`
+- **Financiación** — en: `2026-05-18`, `estructura-financiera`, `lint-log`
+- **Finanzas** — en: `2026-04-16`, `2026-04-17`, `lint-log`
+- **Finca** — en: `2026-05-19`, `2026-05-20`, `2026-06-22`
+- **Finca Resort** — en: `2026-06-30`, `restaurantes`
+- **Firma** — en: `activo`, `alertas`, `2026-04-17`
+- **Firmar** — en: `2026-04-30`, `2026-06-19`, `2026-06-27`
+- **Flipping** — en: `2026-04-20`, `2026-05-02`, `lint-log`
+- **Flipping Alicante** — en: `2026-04-30`, `2026-05-02`, `lint-log`
+- **Flores** — en: `2026-04-29`, `2026-06-22`, `lint-log`
+- **Flujo** — en: `2026-04-17`, `2026-05-03`, `2026-05-04`
+- **Focus TDAH** — en: `innovacion-2026-05-16`, `innovacion-2026-05-18`, `lint-log`
+- **Fondo** — en: `2026-04-28`, `2026-05-02`, `lint-log`
+- **Fondos** — en: `2026-05-18`, `2026-05-19`, `lint-log`
+- **Formato** — en: `2026-04-17`, `lint-log`, `mejoras-diarias`
+- **Formentera** — en: `activo`, `actores`, `causas`
+- **Fotocasa** — en: `2026-04-30`, `2026-06-16`, `2026-06-17`
+- **Fotos** — en: `2026-04-15`, `2026-05-07`, `lint-log`
+- **Francia** — en: `2026-04-21`, `lint-log`, `informe-negocios-escalables-2026`
+- **Franklin** — en: `2026-04-17`, `innovacion-2026-04-19`, `innovacion-2026-04-20`
+- **Frenos** — en: `2026-04-17`, `lint-log`, `facturas-empresa`
+- **Frontmatter** — en: `REGLAS`, `2026-04-16`, `lint-log`
+- **Fuente** — en: `2026-06-23`, `informe-2026-06-16`, `opo-001-estrategia`
+- **Fuerza** — en: `2026-04-30`, `innovacion-2026-06-26`
+- **Funciona** — en: `2026-04-17`, `2026-04-20`, `2026-04-22`
+- **Funcionamiento** — en: `2026-04-27`, `2026-04-28`, `innovacion-2026-04-25`
+- **Furly Lifestyle** — en: `2026-04-22`, `lint-log`, `informe-negocios-escalables-2026`
+- **Fácil** — en: `2026-04-24`, `2026-04-30`, `2026-05-12`
+- **Fórmula** — en: `2026-05-11`, `2026-05-12`, `lint-log`
+- **Galería** — en: `2026-05-12`, `2026-05-14`, `lint-log`
+- **Garaje** — en: `2026-04-24`, `2026-06-27`, `ficha-alquiler`
+- **Garmin** — en: `2026-04-15`, `2026-04-16`, `2026-04-30`
+- **Garmin Connect** — en: `2026-04-15`, `2026-04-30`, `lint-log`
+- **Gasoil** — en: `2026-04-22`, `2026-05-06`, `2026-05-07`
+- **Gasoil Hospital** — en: `2026-05-07`, `2026-05-11`, `lint-log`
+- **Gasolina** — en: `2026-04-16`, `control-gasto-semanal`, `innovacion-2026-04-20`
+- **Gastado** — en: `control-gasto-semanal`, `gastos-abril-2026`, `perfil-economico`
+- **Gasto** — en: `2026-04-24`, `control-gasto-semanal`, `resumen-financiero`
+- **Gastos** — en: `critico`, `2026-04-15`, `2026-04-17`
+- **Gemelos** — en: `innovacion-2026-04-19`, `innovacion-2026-06-23`, `lint-log`
+- **Gemini** — en: `2026-05-11`, `2026-05-12`, `2026-05-14`
+- **Genera** — en: `2026-04-16`, `2026-04-30`, `2026-05-04`
+- **General** — en: `2026-04-16`, `lint-log`, `informe-negocios-escalables-2026`
+- **Generar** — en: `2026-04-16`, `2026-04-17`, `2026-04-30`
+- **Generate** — en: `2026-04-16`, `2026-06-18`, `lint-log`
+- **Generé** — en: `2026-04-17`, `2026-06-18`, `lint-log`
+- **George** — en: `REGLAS`, `acciones`, `actores`
+- **Gestionar** — en: `2026-04-16`, `2026-04-24`, `2026-05-02`
+- **Gestión** — en: `2026-04-21`, `2026-04-28`, `2026-05-04`
+- **Gestor** — en: `critico`, `ficha-laura`, `2026-04-15`
+- **Gestoría** — en: `2026-04-21`, `2026-04-22`, `lint-log`
+- **Getaround** — en: `2026-04-21`, `lint-log`
+- **Ginebres** — en: `2026-06-21`, `2026-06-23`, `2026-06-24`
+- **GitHub** — en: `2026-04-16`, `2026-05-06`, `2026-05-07`
+- **Gmail** — en: `2026-04-21`, `2026-04-28`, `2026-04-30`
+- **Google** — en: `acciones`, `2026-04-15`, `2026-04-18`
+- **Google Business** — en: `checkpoint`, `2026-04-30`, `2026-05-07`
+- **Google Business PitiClean** — en: `2026-04-30`, `analisis-semanal-2026-05-10`, `lint-log`
+- **Google Drive** — en: `innovacion-2026-04-21`, `innovacion-2026-06-01`, `lint-log`
+- **Google Maps** — en: `acciones`, `2026-04-16`, `2026-04-18`
+- **Google Play** — en: `2026-05-07`, `2026-05-16`, `lint-log`
+- **Google Sheets** — en: `2026-04-15`, `2026-04-22`, `lint-log`
+- **Gourmet** — en: `2026-04-27`, `gastos-abril-2026`, `lint-log`
+- **Govern Balear** — en: `2026-04-22`, `2026-05-18`, `2026-06-19`
+- **Gracias** — en: `2026-04-15`, `2026-04-16`, `2026-04-17`
+- **Grafo** — en: `innovacion-2026-06-05`, `innovacion-2026-06-08`, `innovacion-2026-06-20`
+- **Green** — en: `2026-06-20`, `2026-06-22`, `lint-log`
+- **Grundfos** — en: `2026-04-24`, `2026-04-27`, `2026-04-28`
+- **Grupos** — en: `2026-04-22`, `2026-04-28`, `lint-log`
+- **Gráfica** — en: `2026-05-06`, `innovacion-2026-04-24`, `lint-log`
+- **Gráfico** — en: `2026-04-15`, `2026-05-06`, `2026-05-07`
+- **Guarda** — en: `2026-04-28`, `2026-05-02`, `2026-05-12`
+- **Guardado** — en: `2026-04-15`, `2026-04-17`, `2026-04-18`
+- **Guardar** — en: `2026-04-15`, `2026-04-17`, `2026-05-06`
+- **Guardarlo** — en: `2026-04-16`, `2026-05-02`, `lint-log`
+- **Guardia Local** — en: `2026-05-02`, `nomina-abril-2026`, `lint-log`
+- **Habitaciones** — en: `2026-06-30`, `informe-2026-06-16`, `opo-001-estrategia`
+- **Habitación** — en: `2026-04-30`, `2026-05-05`, `lint-log`
+- **Habitaclia** — en: `2026-04-30`, `2026-06-16`, `lint-log`
+- **Habitatge** — en: `2026-04-22`, `2026-05-17`, `lint-log`
+- **Habla** — en: `actores`, `2026-04-18`, `2026-04-20`
+- **Hablar** — en: `2026-04-20`, `2026-04-30`, `2026-05-17`
+- **Hablas** — en: `2026-04-19`, `2026-04-24`, `2026-05-02`
+- **Habrá** — en: `2026-04-17`, `formentera-ac`, `lint-log`
+- **Había** — en: `2026-05-08`, `2026-05-11`, `2026-06-19`
+- **Hacen** — en: `2026-04-30`, `lint-log`, `informe-negocios-escalables-2026`
+- **Hacer** — en: `alertas`, `2026-04-16`, `2026-04-28`
+- **Haces** — en: `2026-04-20`, `2026-04-22`, `2026-05-04`
+- **Hacienda** — en: `2026-04-18`, `2026-04-20`, `2026-04-21`
+- **Hazlo** — en: `2026-04-24`, `2026-05-02`, `2026-05-14`
+- **Hecho** — en: `2026-04-16`, `2026-04-17`, `2026-04-18`
+- **Herramienta** — en: `2026-04-16`, `2026-04-30`, `lint-log`
+- **Hiciste** — en: `2026-05-12`, `2026-05-20`, `2026-06-29`
+- **Higinio** — en: `2026-06-19`, `2026-06-30`
+- **Higinio Muñoz** — en: `2026-05-19`, `2026-06-19`, `lint-log`
+- **Hiperfoco** — en: `perfil-cognitivo`, `2026-04-17`, `lint-log`
+- **Hipoteca** — en: `2026-04-20`, `2026-05-02`, `2026-05-03`
+- **Hipoteca BBVA** — en: `2026-04-20`, `2026-05-17`, `lint-log`
+- **Hipotekia** — en: `2026-04-22`, `2026-05-18`, `2026-05-19`
+- **Historial** — en: `2026-04-20`, `2026-05-06`, `2026-05-11`
+- **Hooks** — en: `2026-04-17`, `lint-log`
+- **Horario** — en: `2026-04-16`, `2026-05-04`, `2026-05-18`
+- **Hospital** — en: `2026-04-30`, `2026-05-02`, `2026-05-05`
+- **Hospitales** — en: `2026-04-30`, `2026-05-05`, `lint-log`
+- **Hostal** — en: `2026-04-21`, `2026-05-03`, `2026-05-04`
+- **Hostal Talamanca** — en: `2026-04-20`, `2026-04-30`, `2026-05-08`
+- **Hostal Talamanca Ibiza** — en: `acciones`, `2026-04-21`, `lint-log`
+- **Hostinger** — en: `2026-04-29`, `2026-05-07`, `2026-05-12`
+- **Hoteles** — en: `2026-04-21`, `2026-06-22`, `lint-log`
+- **Huérfano** — en: `2026-05-14`, `analisis-semanal-2026-04-19`, `lint-log`
+- **Ibiza** — en: `acciones`, `checkpoint`, `decisiones`
+- **Ideal** — en: `2026-04-16`, `2026-04-22`, `2026-05-02`
+- **Idealista** — en: `2026-04-30`, `2026-06-16`, `2026-06-17`
+- **Ideas** — en: `2026-04-24`, `2026-05-07`, `lint-log`
+- **Identificar** — en: `2026-04-17`, `2026-04-24`, `lint-log`
+- **Idioma** — en: `REGLAS`, `ficha-sacha`, `2026-05-05`
+- **Igual** — en: `2026-04-17`, `2026-05-02`, `2026-05-06`
+- **Illes Balears** — en: `2026-04-21`, `2026-04-22`, `2026-06-19`
+- **Imagina** — en: `2026-04-16`, `2026-05-06`, `2026-05-19`
+- **Implementando** — en: `2026-05-12`, `2026-05-14`, `lint-log`
+- **Implementar** — en: `decisiones`, `innovacion-2026-04-21`, `innovacion-2026-05-06`
+- **Importante** — en: `2026-04-29`, `2026-05-06`, `2026-05-12`
+- **Importe** — en: `ficha-sacha`, `gastos-abril-2026`, `nomina-abril-2026`
+- **Importes** — en: `2026-04-20`, `resumen-financiero`, `lint-log`
+- **Impuesto** — en: `2026-04-21`, `lint-log`, `informe-negocios-escalables-2026`
+- **Incluir** — en: `2026-04-17`, `lint-log`, `informe-negocios-escalables-2026`
+- **Incluye** — en: `2026-04-16`, `2026-04-17`, `2026-05-04`
+- **Información** — en: `2026-04-17`, `2026-04-20`, `lint-log`
+- **Informe** — en: `2026-04-17`, `2026-04-30`, `2026-05-19`
+- **Informes** — en: `2026-04-17`, `2026-04-20`, `2026-05-06`
+- **Inglés** — en: `REGLAS`, `2026-06-28`
+- **Ingresa** — en: `2026-04-22`, `2026-05-19`, `lint-log`
+- **Ingreso** — en: `2026-04-21`, `2026-04-22`, `2026-05-02`
+- **Ingresos** — en: `escenarios`, `2026-04-15`, `2026-04-17`
+- **Innovación** — en: `analisis-semanal-2026-04-18`, `analisis-semanal-2026-06-14`, `lint-log`
+- **Inquilinos** — en: `actores`, `2026-05-03`, `ficha-alquiler`
+- **Inscripción** — en: `2026-05-08`, `2026-06-29`
+- **Instagram** — en: `2026-04-21`, `2026-04-24`, `2026-04-30`
+- **Instalación** — en: `2026-04-27`, `2026-04-30`, `lint-log`
+- **Instalar** — en: `acciones`, `2026-04-20`, `2026-05-06`
+- **Instalar George** — en: `analisis-semanal-2026-04-19`, `analisis-semanal-2026-06-28`
+- **Integrar** — en: `analisis-semanal-2026-06-14`, `innovacion-2026-06-01`, `innovacion-2026-06-03`
+- **Intenta** — en: `2026-04-22`, `2026-06-19`, `lint-log`
+- **Internet** — en: `perfil-economico`, `resumen-financiero`, `lint-log`
+- **Introduce** — en: `2026-04-17`, `2026-05-06`, `2026-05-10`
+- **Introducir** — en: `2026-04-17`, `2026-05-14`, `lint-log`
+- **Invalid** — en: `innovacion-2026-05-09`, `innovacion-2026-05-23`, `innovacion-2026-05-24`
+- **Inversión** — en: `2026-04-20`, `lint-log`, `informe-negocios-escalables-2026`
+- **Inversores** — en: `2026-04-30`, `2026-05-18`, `2026-05-19`
+- **Investigar** — en: `2026-06-19`, `informe-2026-06-16`, `lint-log`
+- **Isidor Macabich** — en: `2026-06-17`, `2026-06-19`, `2026-06-23`
+- **Isidoro Macabic** — en: `2026-06-22`, `informe-2026-06-16`, `lint-log`
+- **Itron** — en: `2026-05-12`, `2026-05-14`, `2026-05-17`
+- **Jamie** — en: `activo`, `actores`, `critico`
+- **Jamie Paul Smith** — en: `ficha-laura`, `2026-04-16`, `lint-log`
+- **Jamón** — en: `2026-04-29`, `2026-06-22`, `lint-log`
+- **Janitor** — en: `analisis-semanal-2026-06-21`, `janitor-log`, `lint-log`
+- **Jardín** — en: `2026-06-16`, `2026-06-18`, `informe-2026-06-16`
+- **Jesús** — en: `2026-05-12`, `2026-05-21`, `2026-05-22`
+- **Jonatan** — en: `2026-04-19`, `lint-log`, `facturas-empresa`
+- **Jordi** — en: `2026-04-18`, `2026-05-08`, `gastos-abril-2026`
+- **Jorge** — en: `2026-04-16`, `2026-05-02`, `2026-05-20`
+- **Josep** — en: `2026-04-16`, `2026-04-27`, `2026-06-24`
+- **Junta** — en: `2026-06-22`, `2026-06-23`, `lint-log`
+- **Junta Arbitral** — en: `alertas`, `checkpoint`, `2026-05-11`
+- **Justo** — en: `2026-04-18`, `2026-05-17`, `lint-log`
+- **Juzgados** — en: `2026-05-19`, `2026-06-29`
+- **Kamstrup** — en: `2026-05-11`, `2026-05-17`, `2026-05-18`
+- **Karina** — en: `critico`, `2026-04-15`, `2026-04-17`
+- **Landis** — en: `2026-04-24`, `2026-04-27`, `2026-04-28`
+- **Laura** — en: `acciones`, `activo`, `actores`
+- **Laura Jane Colclough** — en: `ficha-laura`, `2026-04-16`, `lint-log`
+- **Lectura** — en: `2026-05-06`, `2026-05-07`, `2026-05-11`
+- **Lecturas** — en: `2026-05-05`, `2026-05-06`, `lint-log`
+- **Leroy Merlin** — en: `2026-04-16`, `2026-04-17`, `2026-04-29`
+- **Leroy Merlin Ibiza** — en: `2026-04-16`, `2026-04-17`, `lint-log`
+- **Leyendo** — en: `2026-04-30`, `2026-05-14`, `lint-log`
+- **Leído** — en: `2026-04-17`, `2026-05-18`, `lint-log`
+- **Libre** — en: `2026-05-18`, `2026-05-19`, `2026-06-17`
+- **Licencia** — en: `2026-04-30`, `2026-05-03`, `lint-log`
+- **Lightning** — en: `2026-04-20`, `2026-04-27`, `2026-06-22`
+- **Limpiador** — en: `2026-04-17`, `formentera-ac`, `lint-log`
+- **Limpiar** — en: `2026-04-17`, `2026-04-20`, `2026-05-18`
+- **Limpieza** — en: `activo`, `ficha-sacha`, `2026-04-16`
+- **LinkedIn** — en: `2026-04-30`, `2026-05-06`, `lint-log`
+- **Links** — en: `REGLAS`, `2026-06-18`, `2026-06-22`
+- **Linux** — en: `2026-04-30`, `2026-05-05`, `2026-05-14`
+- **Lista** — en: `2026-04-16`, `2026-04-30`, `2026-05-19`
+- **Listo** — en: `2026-04-15`, `2026-04-23`, `2026-05-05`
+- **Llama** — en: `2026-04-16`, `2026-04-20`, `2026-04-21`
+- **Llamada** — en: `2026-06-16`, `analisis-semanal-2026-05-03`, `lint-log`
+- **Llamar** — en: `acciones`, `activo`, `alertas`
+- **Llamo** — en: `2026-06-19`, `innovacion-2026-06-29`
+- **Llave** — en: `2026-04-16`, `2026-04-27`, `lint-log`
+- **Llega** — en: `perfil-cognitivo`, `2026-04-16`, `2026-04-29`
+- **Llegada** — en: `2026-04-17`, `formentera-ac`, `lint-log`
+- **Llegas** — en: `2026-06-24`, `2026-06-27`
+- **Lleida** — en: `2026-05-20`, `2026-06-24`, `2026-06-30`
+- **Llena** — en: `2026-04-29`, `2026-06-30`
+- **Lleva** — en: `2026-04-17`, `2026-04-30`, `2026-06-18`
+- **Llevan** — en: `2026-05-18`, `2026-06-19`, `lint-log`
+- **Llevar** — en: `2026-04-21`, `2026-04-30`, `2026-05-17`
+- **Llevas** — en: `2026-04-16`, `2026-04-17`, `2026-04-22`
+- **Llevo** — en: `2026-04-21`, `2026-05-05`, `lint-log`
+- **Local** — en: `2026-05-12`, `restaurantes`, `innovacion-2026-05-25`
+- **Login** — en: `2026-04-15`, `2026-05-06`, `lint-log`
+- **Londres** — en: `2026-04-24`, `2026-04-30`, `lint-log`
+- **Loredana** — en: `2026-06-28`, `jose-perfil`
+- **Luego** — en: `2026-04-17`, `2026-04-20`, `2026-04-27`
+- **Límite** — en: `2026-04-15`, `2026-06-22`, `control-gasto-semanal`
+- **Macabich** — en: `2026-06-19`, `2026-06-24`, `2026-06-30`
+- **Madrid** — en: `2026-04-17`, `2026-04-29`, `2026-04-30`
+- **Mallorca** — en: `alertas`, `2026-04-24`, `2026-06-24`
+- **Manda** — en: `2026-04-20`, `2026-04-28`, `2026-05-12`
+- **Mantener** — en: `2026-04-17`, `2026-06-18`, `estructura-financiera`
+- **Mantenimiento** — en: `2026-04-16`, `2026-04-17`, `2026-04-24`
+- **Mantén** — en: `2026-04-17`, `2026-04-29`, `2026-05-12`
+- **Manómetros** — en: `2026-04-17`, `formentera-ac`, `lint-log`
+- **Marbella** — en: `2026-04-24`, `2026-04-30`, `lint-log`
+- **Marca** — en: `2026-04-16`, `2026-04-17`, `2026-05-06`
+- **Marcar** — en: `2026-04-17`, `2026-05-06`, `2026-05-14`
+- **Margen** — en: `causas`, `2026-04-20`, `2026-04-21`
+- **Marina** — en: `2026-05-09`, `informe-2026-06-16`, `lint-log`
+- **Marina Botafoc** — en: `2026-06-16`, `2026-06-19`, `informe-2026-06-16`
+- **Mario José** — en: `2026-05-19`, `2026-05-20`, `lint-log`
+- **Marruecos** — en: `2026-05-02`, `2026-05-05`, `2026-05-06`
+- **María José** — en: `2026-05-18`, `2026-05-19`, `2026-05-20`
+- **Matar** — en: `2026-05-14`, `2026-05-16`, `lint-log`
+- **Material** — en: `2026-04-17`, `2026-06-24`, `innovacion-2026-04-20`
+- **Materiales** — en: `2026-04-16`, `2026-05-06`, `lint-log`
+- **Mayor** — en: `perfil-cognitivo`, `2026-04-17`, `lint-log`
+- **Mañana** — en: `2026-04-15`, `2026-04-16`, `2026-04-17`
+- **Mecánica** — en: `2026-05-02`, `2026-05-11`, `lint-log`
+- **Media** — en: `2026-04-30`, `lint-log`, `informe-negocios-escalables-2026`
+- **MediaMarkt** — en: `2026-04-20`, `2026-04-27`, `lint-log`
+- **Medio** — en: `2026-04-20`, `2026-04-30`, `lint-log`
+- **Mejor** — en: `2026-04-16`, `2026-04-18`, `2026-04-20`
+- **Mejora** — en: `2026-04-28`, `2026-04-29`, `lint-log`
+- **Mejorado** — en: `2026-05-07`, `2026-05-12`, `lint-log`
+- **Mejorar** — en: `2026-05-12`, `innovacion-2026-05-14`, `lint-log`
+- **Mejoras** — en: `2026-04-18`, `2026-05-17`, `lint-log`
+- **Memoria** — en: `2026-04-18`, `2026-04-21`, `innovacion-2026-05-01`
+- **Menos** — en: `2026-04-20`, `2026-04-21`, `2026-04-27`
+- **Mensaje** — en: `2026-04-17`, `2026-04-20`, `2026-04-30`
+- **Mensajes** — en: `perfil-cognitivo`, `2026-05-12`, `lint-log`
+- **Mercado** — en: `2026-04-30`, `2026-05-05`, `2026-06-19`
+- **Mercadona** — en: `2026-04-27`, `2026-04-29`, `2026-05-17`
+- **Mercedes** — en: `critico`, `2026-04-17`, `2026-04-22`
+- **Meses** — en: `plan-oposicion-policia-local`, `lint-log`
+- **Metal** — en: `2026-06-20`, `2026-06-22`, `lint-log`
+- **Meter** — en: `2026-05-05`, `2026-05-17`, `2026-05-18`
+- **Metes** — en: `2026-04-28`, `2026-05-05`, `lint-log`
+- **Mexicano** — en: `2026-06-30`, `restaurantes`
+- **Mezcla** — en: `2026-04-27`, `2026-04-29`, `lint-log`
+- **Mientras** — en: `2026-04-16`, `2026-04-17`, `2026-04-20`
+- **Miguel** — en: `critico`, `2026-04-20`, `2026-04-21`
+- **Milanuncios** — en: `2026-04-22`, `2026-04-30`, `2026-06-22`
+- **Miles** — en: `2026-04-30`, `2026-05-05`, `lint-log`
+- **Minería** — en: `innovacion-2026-05-12`, `innovacion-2026-06-21`, `lint-log`
+- **Misma** — en: `2026-04-18`, `2026-04-22`, `2026-04-30`
+- **Mismo** — en: `2026-04-17`, `2026-04-30`, `2026-05-14`
+- **Misses** — en: `2026-04-30`, `2026-06-16`, `2026-06-17`
+- **Mitsubishi** — en: `activo`, `2026-04-16`, `2026-04-17`
+- **Mitsubishi Electric** — en: `2026-04-16`, `2026-04-17`, `trabajo`
+- **Modelo** — en: `2026-04-16`, `2026-04-17`, `2026-05-05`
+- **Modelos** — en: `2026-05-19`, `busqueda-ebike-2026`, `lint-log`
+- **Modificar** — en: `2026-04-15`, `2026-04-17`, `lint-log`
+- **Monitorizar** — en: `2026-04-16`, `2026-06-18`, `lint-log`
+- **Mostrar** — en: `2026-04-17`, `2026-05-11`, `opo-001-estrategia`
+- **Motivo** — en: `2026-04-15`, `2026-05-06`, `2026-05-11`
+- **Motor** — en: `decisiones`, `2026-04-22`, `2026-05-12`
+- **Muchas** — en: `2026-04-28`, `2026-05-01`, `2026-05-18`
+- **Mucho** — en: `2026-04-22`, `2026-05-02`, `2026-05-17`
+- **Muchos** — en: `2026-05-06`, `2026-05-18`, `lint-log`
+- **Muestra** — en: `2026-05-08`, `2026-05-11`, `lint-log`
+- **Multi** — en: `2026-05-12`, `2026-05-14`, `lint-log`
+- **Multisplit** — en: `2026-04-17`, `trabajo`, `lint-log`
+- **Multímetro** — en: `2026-04-17`, `formentera-ac`, `lint-log`
+- **Murcia** — en: `2026-04-20`, `2026-04-27`, `2026-04-30`
+- **Mutua Madrileña** — en: `2026-05-19`, `2026-06-19`, `lint-log`
+- **Mándala** — en: `2026-04-17`, `2026-04-21`, `2026-04-22`
+- **Mándale** — en: `2026-04-30`, `2026-05-14`, `2026-05-19`
+- **Mándales** — en: `2026-05-14`, `2026-05-20`, `lint-log`
+- **Mándame** — en: `2026-04-16`, `2026-04-17`, `2026-04-24`
+- **Máquina** — en: `2026-04-17`, `2026-06-30`
+- **Máximo** — en: `2026-04-21`, `2026-05-14`, `2026-05-18`
+- **Mínimo** — en: `2026-04-20`, `2026-04-21`, `2026-05-02`
+- **Módulo** — en: `2026-04-17`, `innovacion-2026-04-26`, `innovacion-2026-05-15`
+- **NConnect Ibiza** — en: `2026-04-22`, `lint-log`, `informe-negocios-escalables-2026`
+- **Nacionalidad** — en: `ficha-laura`, `2026-04-27`, `lint-log`
+- **Nadie** — en: `2026-04-30`, `2026-05-05`, `2026-05-19`
+- **Necesita** — en: `2026-04-16`, `2026-04-17`, `2026-04-22`
+- **Necesitamos** — en: `2026-04-17`, `2026-04-30`, `lint-log`
+- **Necesitan** — en: `2026-04-16`, `2026-04-30`, `lint-log`
+- **Necesitas** — en: `2026-04-16`, `2026-04-20`, `2026-04-24`
+- **Necesito** — en: `2026-04-15`, `2026-04-16`, `2026-04-22`
+- **Neutro** — en: `2026-04-22`, `2026-04-28`, `lint-log`
+- **Newtrol** — en: `2026-04-17`, `lint-log`, `facturas-empresa`
+- **Ningún** — en: `2026-04-18`, `2026-05-18`, `lint-log`
+- **Nivel** — en: `2026-04-16`, `2026-05-06`, `2026-06-16`
+- **Nombre** — en: `ficha-laura`, `ficha-sacha`, `2026-04-16`
+- **Normal** — en: `2026-04-20`, `2026-05-05`, `2026-05-12`
+- **Normalmente** — en: `2026-04-24`, `2026-04-27`, `2026-05-05`
+- **Normativa** — en: `2026-04-28`, `2026-05-14`, `lint-log`
+- **Notaría** — en: `2026-04-20`, `2026-05-03`, `2026-05-04`
+- **Nueva** — en: `2026-05-02`, `2026-05-06`, `2026-05-07`
+- **Nuevo** — en: `decisiones`, `2026-04-15`, `2026-04-17`
+- **Nunca** — en: `2026-04-17`, `2026-05-02`, `2026-05-08`
+- **Nómina** — en: `2026-04-20`, `2026-04-21`, `2026-04-22`
+- **Número** — en: `2026-04-16`, `2026-04-18`, `2026-04-22`
+- **Números** — en: `2026-05-02`, `2026-05-12`, `2026-06-27`
+- **OAuth** — en: `2026-04-15`, `2026-05-12`, `lint-log`
+- **Obligación** — en: `2026-04-22`, `lint-log`, `informe-negocios-escalables-2026`
+- **Obligatorio** — en: `2026-05-11`, `lint-log`, `informe-negocios-escalables-2026`
+- **Observar** — en: `2026-04-17`, `innovacion-2026-06-26`
+- **Obsidian** — en: `2026-04-16`, `2026-04-18`, `2026-04-20`
+- **Obsidian Canvas** — en: `innovacion-2026-05-31`, `innovacion-2026-06-08`, `lint-log`
+- **Obsidian Graph** — en: `innovacion-2026-05-29`, `innovacion-2026-06-12`, `lint-log`
+- **Ocupada** — en: `2026-05-17`, `2026-05-18`, `lint-log`
+- **Ocupante** — en: `ficha-laura`, `lint-log`, `laura-contrato`
+- **Oferta** — en: `2026-04-16`, `2026-05-11`, `2026-05-19`
+- **Okupa** — en: `2026-05-18`, `2026-05-19`, `lint-log`
+- **Olvida** — en: `2026-04-17`, `2026-04-22`, `lint-log`
+- **Opciones** — en: `2026-04-16`, `2026-04-18`, `2026-04-20`
+- **Opción** — en: `2026-04-20`, `2026-04-29`, `2026-05-02`
+- **OpenAI** — en: `2026-04-30`, `2026-05-11`, `2026-05-12`
+- **OpenCV** — en: `2026-05-12`, `lint-log`, `maia-sesion-20260512`
+- **Openbank** — en: `2026-04-21`, `2026-05-17`, `lint-log`
+- **Operación** — en: `2026-06-27`, `opo-004-005-figueretes`
+- **Operativo** — en: `innovacion-2026-05-08`, `innovacion-2026-06-05`, `lint-log`
+- **Oposición Policía Local** — en: `2026-04-30`, `2026-05-20`, `plan-oposicion-policia-local`
+- **Orden** — en: `2026-04-16`, `2026-04-17`, `2026-05-06`
+- **Ordena** — en: `2026-06-16`, `2026-06-22`, `2026-06-29`
+- **Orientar** — en: `2026-04-17`, `innovacion-2026-06-26`
+- **Otras** — en: `2026-05-07`, `2026-05-09`, `2026-06-17`
+- **Otros** — en: `2026-05-05`, `perfil-economico`, `lint-log`
+- **Oxígeno** — en: `2026-05-06`, `2026-05-07`, `lint-log`
+- **Paella** — en: `2026-05-04`, `2026-06-30`, `restaurantes`
+- **Pagado** — en: `ficha-alquiler`, `lint-log`, `facturas-empresa`
+- **Pagan** — en: `2026-04-24`, `2026-04-30`, `lint-log`
+- **Pagas** — en: `2026-04-20`, `2026-04-21`, `2026-04-22`
+- **Pagos** — en: `2026-04-16`, `2026-04-22`, `2026-05-05`
+- **Palau** — en: `2026-04-17`, `formentera-ac`, `lint-log`
+- **Palma** — en: `alertas`, `causas`, `checkpoint`
+- **Panel** — en: `2026-04-30`, `innovacion-2026-05-02`, `innovacion-2026-06-11`
+- **Pantalla** — en: `2026-04-27`, `2026-05-06`, `conceptos`
+- **Paralelo** — en: `2026-04-21`, `2026-05-18`, `2026-06-30`
+- **Parece** — en: `2026-04-27`, `2026-05-01`, `2026-05-10`
+- **Parking** — en: `REGLAS`, `2026-05-19`, `lint-log`
+- **Parque** — en: `2026-04-16`, `2026-06-21`, `lint-log`
+- **Particulares** — en: `2026-06-18`, `2026-06-29`
+- **París** — en: `2026-04-24`, `2026-04-30`, `lint-log`
+- **Pasaporte** — en: `ficha-laura`, `2026-04-16`, `lint-log`
+- **Pasaporte Jamie** — en: `2026-04-15`, `lint-log`, `laura-contrato`
+- **Pasos** — en: `2026-04-15`, `2026-04-16`, `2026-04-20`
+- **Patrimonio** — en: `2026-04-15`, `2026-04-20`, `2026-05-04`
+- **Pedir** — en: `2026-04-17`, `2026-04-20`, `2026-04-21`
+- **Pedro** — en: `2026-05-18`, `2026-05-20`, `lint-log`
+- **Pendiente** — en: `alertas`, `ficha-sacha`, `2026-04-15`
+- **Pendientes** — en: `checkpoint-ultimo`, `checkpoint`, `2026-04-17`
+- **Península** — en: `2026-04-22`, `2026-04-24`, `2026-05-04`
+- **Pequeño** — en: `2026-06-19`, `lint-log`, `informe-negocios-escalables-2026`
+- **Perdona** — en: `2026-04-30`, `2026-05-06`, `2026-05-14`
+- **Perfecto** — en: `2026-04-16`, `2026-04-17`, `2026-04-19`
+- **Perfil** — en: `REGLAS`, `2026-04-15`, `2026-05-06`
+- **Período** — en: `ficha-laura`, `2026-04-20`, `2026-05-18`
+- **Petición** — en: `2026-04-20`, `2026-05-20`, `lint-log`
+- **Pides** — en: `2026-04-20`, `2026-04-21`, `2026-05-02`
+- **Pierdes** — en: `2026-04-20`, `2026-05-02`, `2026-05-05`
+- **Piscina** — en: `2026-05-09`, `2026-06-16`, `informe-2026-06-16`
+- **Pisos** — en: `2026-04-20`, `2026-05-25`, `2026-06-18`
+- **PitiClean** — en: `acciones`, `checkpoint`, `2026-04-20`
+- **Piticlean** — en: `2026-04-17`, `2026-04-23`, `2026-04-24`
+- **Pituclean** — en: `2026-04-21`, `2026-04-30`, `2026-05-20`
+- **Plans** — en: `2026-05-07`, `2026-05-20`, `lint-log`
+- **Planta** — en: `2026-06-16`, `2026-06-18`, `2026-06-19`
+- **Planta Baja** — en: `2026-06-21`, `informe-2026-06-16`, `lint-log`
+- **Plataforma** — en: `2026-05-05`, `lint-log`, `ebike-busqueda`
+- **Plataformas** — en: `2026-06-29`, `informe-negocios-escalables-2026`
+- **Platja** — en: `2026-04-18`, `2026-06-16`, `informe-2026-06-16`
+- **Playa** — en: `2026-04-18`, `2026-06-18`, `2026-06-22`
+- **Plaza México** — en: `2026-06-30`, `restaurantes`
+- **Plazas** — en: `2026-06-29`, `2026-06-30`
+- **Plazo** — en: `2026-04-20`, `2026-04-22`, `2026-04-27`
+- **Plusvalía** — en: `2026-04-20`, `2026-05-18`, `2026-05-19`
+- **Pocas** — en: `lint-log`, `informe-negocios-escalables-2026`
+- **Podemos** — en: `2026-04-16`, `2026-06-27`, `2026-06-30`
+- **Podéis** — en: `2026-04-28`, `2026-05-17`, `2026-05-18`
+- **Policía Local** — en: `2026-04-27`, `2026-05-18`, `2026-06-29`
+- **Polivalente** — en: `2026-05-06`, `2026-05-07`, `2026-05-11`
+- **Pomodoro** — en: `innovacion-2026-05-04`, `innovacion-2026-05-16`, `innovacion-2026-06-19`
+- **Ponle** — en: `2026-04-20`, `2026-05-06`, `lint-log`
+- **Ponlo** — en: `2026-04-20`, `2026-04-27`, `2026-04-29`
+- **Portmany** — en: `2026-05-18`, `2026-06-16`, `2026-06-21`
+- **Portugal** — en: `2026-04-22`, `2026-06-24`
+- **Posible** — en: `2026-04-17`, `2026-04-20`, `2026-05-12`
+- **Posición** — en: `opo-001-estrategia`, `lint-log`, `informe-negocios-escalables-2026`
+- **PostToolUse** — en: `2026-04-17`, `lint-log`
+- **PostgreSQL** — en: `2026-05-06`, `2026-05-07`, `lint-log`
+- **Potencia** — en: `2026-04-24`, `2026-05-11`, `lint-log`
+- **Potencial** — en: `2026-04-20`, `2026-04-21`, `2026-04-30`
+- **Precio** — en: `decisiones`, `perfil-cognitivo`, `2026-04-16`
+- **Precios** — en: `2026-04-16`, `2026-04-22`, `2026-04-30`
+- **PredictMaint** — en: `2026-04-30`, `2026-05-05`, `lint-log`
+- **Predictor** — en: `innovacion-2026-06-07`, `innovacion-2026-06-19`, `lint-log`
+- **Preferencias** — en: `2026-04-20`, `2026-04-28`, `lint-log`
+- **Pregunta** — en: `2026-04-16`, `2026-04-20`, `2026-04-22`
+- **Preguntar** — en: `2026-04-16`, `2026-05-17`, `2026-05-18`
+- **Pregúntales** — en: `2026-04-30`, `2026-05-05`, `lint-log`
+- **Premium** — en: `2026-04-29`, `2026-05-18`, `lint-log`
+- **Preparar** — en: `2026-04-16`, `2026-04-30`, `lint-log`
+- **Presiona** — en: `2026-04-17`, `lint-log`, `informe-negocios-escalables-2026`
+- **Presión** — en: `2026-05-05`, `2026-05-06`, `2026-06-19`
+- **Presostato** — en: `2026-04-22`, `2026-04-28`, `2026-05-18`
+- **Presupuesto** — en: `archivo`, `critico`, `decisiones`
+- **Previsión** — en: `2026-05-18`, `resumen-financiero`, `lint-log`
+- **Prime** — en: `2026-04-16`, `2026-06-22`, `lint-log`
+- **Primer** — en: `archivo`, `ficha-laura`, `2026-04-19`
+- **Primera** — en: `2026-04-20`, `2026-04-24`, `2026-05-05`
+- **Primero** — en: `2026-04-16`, `2026-04-20`, `2026-04-21`
+- **Primeros** — en: `2026-04-24`, `2026-04-30`, `lint-log`
+- **Prioridad** — en: `2026-04-21`, `2026-05-20`, `2026-06-17`
+- **Prioriza** — en: `2026-06-18`, `2026-06-29`
+- **Priorizar** — en: `2026-05-12`, `busqueda-ebike-2026`, `lint-log`
+- **Probablemente** — en: `2026-04-28`, `2026-05-19`, `lint-log`
+- **Probar** — en: `2026-04-16`, `2026-04-20`, `analisis-semanal-2026-05-31`
+- **Problema** — en: `2026-04-15`, `2026-04-16`, `2026-04-20`
+- **Proceso** — en: `causas`, `2026-04-16`, `2026-04-22`
+- **Profesores** — en: `2026-06-28`, `2026-06-29`
+- **Promoción** — en: `2026-05-18`, `2026-06-29`
+- **Property** — en: `2026-04-22`, `lint-log`, `informe-negocios-escalables-2026`
+- **Propiedad** — en: `critico`, `ficha-sacha`, `2026-04-17`
+- **Propiedades** — en: `2026-06-17`, `lint-log`, `informe-negocios-escalables-2026`
+- **Propongo** — en: `2026-04-21`, `2026-05-06`, `lint-log`
+- **Propuesta** — en: `2026-04-16`, `2026-04-30`, `2026-06-30`
+- **Protege** — en: `2026-04-22`, `2026-05-11`, `lint-log`
+- **Proteína** — en: `2026-04-29`, `plan-oposicion-policia-local`, `lint-log`
+- **Proveedor** — en: `2026-04-22`, `lint-log`, `facturas-empresa`
+- **Proyecto** — en: `formentera-ac`, `analisis-semanal-2026-04-19`, `lint-log`
+- **Proyectos** — en: `REGLAS`, `2026-04-20`, `2026-04-21`
+- **Prueba** — en: `2026-04-17`, `2026-04-18`, `2026-04-24`
+- **Pruebas** — en: `2026-04-27`, `2026-04-29`, `2026-05-02`
+- **Pruébalo** — en: `2026-04-27`, `2026-05-05`, `2026-05-06`
+- **Préstamo** — en: `2026-04-20`, `2026-05-17`, `perfil-economico`
+- **Préstamo Revolut** — en: `2026-04-20`, `2026-04-28`, `lint-log`
+- **Próxima** — en: `2026-06-16`, `2026-06-19`, `2026-06-22`
+- **Psicología** — en: `2026-05-12`, `2026-05-19`, `2026-05-21`
+- **Psiquiatría** — en: `2026-06-17`, `2026-06-24`
+- **Publicada** — en: `2026-06-16`, `2026-06-17`, `lint-log`
+- **Publicado** — en: `2026-05-20`, `informe-2026-06-16`, `lint-log`
+- **Publicar** — en: `acciones`, `2026-04-20`, `2026-04-30`
+- **Pudiste** — en: `2026-04-27`, `2026-05-07`, `2026-05-14`
+- **Puede** — en: `2026-04-16`, `2026-04-17`, `2026-04-18`
+- **Pueden** — en: `2026-04-16`, `2026-05-11`, `2026-05-18`
+- **Puedes** — en: `2026-04-16`, `2026-04-17`, `2026-04-19`
+- **Puedo** — en: `2026-04-16`, `2026-04-22`, `2026-04-30`
+- **Puerta** — en: `2026-04-29`, `2026-06-21`, `2026-06-22`
+- **Puerto** — en: `2026-04-17`, `2026-04-18`, `analisis-semanal-2026-04-18`
+- **Pujar** — en: `2026-05-17`, `2026-05-19`, `lint-log`
+- **Pujas** — en: `2026-05-17`, `2026-05-19`, `2026-06-18`
+- **Pulsa** — en: `2026-04-16`, `2026-04-17`, `2026-04-20`
+- **Pulsas** — en: `2026-05-06`, `2026-05-12`, `lint-log`
+- **Pulso** — en: `2026-04-30`, `2026-06-19`, `lint-log`
+- **Pulverizador** — en: `2026-04-17`, `formentera-ac`, `lint-log`
+- **Puntos** — en: `2026-04-30`, `2026-05-18`, `2026-06-16`
+- **Python** — en: `2026-05-06`, `2026-05-12`, `2026-05-14`
+- **Pérdida** — en: `perfil-cognitivo`, `2026-05-02`, `lint-log`
+- **Queda** — en: `2026-04-16`, `2026-04-17`, `2026-04-21`
+- **Quedan** — en: `2026-04-20`, `2026-05-02`, `2026-05-18`
+- **Quedo** — en: `2026-04-21`, `2026-04-27`, `2026-04-30`
+- **Quedó** — en: `2026-04-17`, `2026-05-08`, `2026-05-10`
+- **Queja** — en: `2026-04-20`, `2026-04-21`, `lint-log`
+- **Quería** — en: `2026-04-24`, `2026-04-29`, `2026-05-18`
+- **Queso** — en: `2026-04-27`, `lint-log`, `gastos-supermercado`
+- **Quieres** — en: `2026-04-15`, `2026-04-16`, `2026-04-17`
+- **Quiero** — en: `2026-04-16`, `2026-04-20`, `2026-04-21`
+- **Quita** — en: `2026-04-22`, `2026-04-29`, `2026-05-05`
+- **Quitar** — en: `2026-04-17`, `2026-04-28`, `lint-log`
+- **Quién** — en: `2026-04-21`, `2026-04-28`, `2026-04-30`
+- **Ranking** — en: `2026-04-20`, `2026-05-06`, `2026-06-30`
+- **Ratio** — en: `2026-04-20`, `2026-05-06`, `2026-05-18`
+- **Razón** — en: `2026-04-23`, `2026-05-06`, `lint-log`
+- **Recalculo** — en: `2026-05-19`, `2026-06-27`
+- **Recarga** — en: `2026-05-06`, `2026-05-07`, `2026-05-08`
+- **Recarga MAIA** — en: `2026-05-06`, `2026-05-11`, `lint-log`
+- **Recargar** — en: `2026-05-06`, `2026-05-07`, `2026-05-12`
+- **Recibido** — en: `2026-04-18`, `2026-04-21`, `2026-05-02`
+- **Recibir** — en: `acciones`, `2026-04-17`, `lint-log`
+- **Reclamación** — en: `2026-04-29`, `2026-06-19`, `lint-log`
+- **Recoge** — en: `2026-06-23`, `2026-06-24`, `2026-06-25`
+- **Recoger** — en: `alertas`, `2026-04-17`, `lint-log`
+- **Recomendaciones** — en: `2026-04-17`, `lugares-visitar`, `lint-log`
+- **Recomendación** — en: `2026-04-16`, `2026-05-05`, `lint-log`
+- **Recomiendo** — en: `2026-04-28`, `2026-06-24`, `2026-06-28`
+- **Recordatorio** — en: `2026-04-17`, `2026-04-21`, `lint-log`
+- **Recuerda** — en: `2026-04-16`, `2026-04-20`, `2026-05-02`
+- **Recuerdas** — en: `2026-05-08`, `2026-06-17`, `lint-log`
+- **Reducción** — en: `2026-04-20`, `2026-04-22`, `2026-05-12`
+- **Reducir** — en: `2026-05-12`, `2026-05-18`, `plan-oposicion-policia-local`
+- **Reescrito** — en: `2026-05-14`, `2026-05-18`, `lint-log`
+- **Referencia** — en: `2026-04-20`, `2026-04-28`, `2026-05-06`
+- **Reforma** — en: `2026-04-20`, `2026-04-21`, `2026-05-02`
+- **Reformas** — en: `2026-04-20`, `2026-04-21`, `2026-06-20`
+- **Refrigerante** — en: `2026-04-24`, `2026-05-06`, `2026-05-11`
+- **Regenerar** — en: `analisis-semanal-2026-04-18`, `lint-log`
+- **Registrado** — en: `2026-04-16`, `2026-04-29`, `2026-04-30`
+- **Registrar** — en: `2026-04-17`, `2026-05-05`, `2026-05-06`
+- **Registrarte** — en: `2026-04-20`, `2026-05-19`, `lint-log`
+- **Registro** — en: `2026-05-03`, `2026-05-06`, `2026-05-07`
+- **Registro Propiedad Ibiza** — en: `2026-05-17`, `2026-05-18`, `lint-log`
+- **Regla** — en: `2026-04-17`, `2026-04-22`, `2026-04-24`
+- **Regula** — en: `2026-04-29`, `2026-05-11`, `lint-log`
+- **Regulación** — en: `2026-04-30`, `2026-05-05`, `lint-log`
+- **Regularizar** — en: `2026-04-24`, `2026-05-02`, `lint-log`
+- **Rehecho** — en: `2026-05-06`, `2026-05-07`, `lint-log`
+- **Rehipoteca** — en: `2026-05-02`, `2026-05-04`, `2026-06-17`
+- **Rellena** — en: `2026-04-20`, `2026-04-22`, `2026-05-06`
+- **Remotely Save** — en: `acciones`, `2026-04-20`, `2026-04-21`
+- **Renta** — en: `critico`, `ficha-laura`, `2026-04-16`
+- **Rentabilidad** — en: `2026-05-03`, `lint-log`, `informe-negocios-escalables-2026`
+- **Repite** — en: `2026-04-17`, `2026-05-06`, `2026-06-30`
+- **Repository** — en: `2026-04-16`, `2026-06-18`, `lint-log`
+- **Repsol** — en: `2026-04-18`, `2026-06-30`
+- **Requiere** — en: `2026-04-30`, `2026-05-06`, `2026-06-16`
+- **Requisitos** — en: `2026-04-27`, `2026-06-29`, `busqueda-ebike-2026`
+- **Reserva** — en: `activo`, `ficha-sacha`, `2026-04-16`
+- **Reseña** — en: `2026-05-08`, `2026-05-09`, `lint-log`
+- **Reseña Google Hostal** — en: `2026-04-21`, `analisis-semanal-2026-05-10`, `lint-log`
+- **Reseña Hostal Talamanca** — en: `2026-05-07`, `2026-05-14`, `analisis-semanal-2026-06-14`
+- **Residencial Bossa** — en: `2026-05-25`, `2026-06-18`, `lint-log`
+- **Resolver** — en: `analisis-semanal-2026-05-17`, `analisis-semanal-2026-06-07`, `analisis-semanal-2026-06-28`
+- **Respira** — en: `2026-04-22`, `2026-05-19`, `lint-log`
+- **Responde** — en: `2026-04-17`, `2026-05-06`, `2026-05-07`
+- **Respondo** — en: `2026-04-17`, `2026-04-20`, `2026-05-06`
+- **Respuesta** — en: `2026-04-17`, `2026-04-18`, `2026-04-24`
+- **Restaurante** — en: `2026-04-18`, `lugares-visitar`, `lint-log`
+- **Resto** — en: `activo`, `2026-04-21`, `2026-05-12`
+- **Resuelto** — en: `2026-05-07`, `2026-06-22`, `lint-log`
+- **Resultado** — en: `2026-04-18`, `2026-04-20`, `2026-04-30`
+- **Revisa** — en: `2026-04-17`, `2026-05-25`, `lint-log`
+- **Revisar** — en: `alertas`, `2026-04-16`, `2026-04-17`
+- **Revisión** — en: `activo`, `2026-04-17`, `2026-04-27`
+- **Revolut** — en: `2026-04-15`, `2026-04-16`, `2026-04-20`
+- **Revísalo** — en: `2026-04-22`, `2026-06-23`, `lint-log`
+- **Riesgo** — en: `2026-04-17`, `2026-04-20`, `2026-04-21`
+- **Riesgos** — en: `2026-04-20`, `2026-06-16`, `lint-log`
+- **Ritmo** — en: `2026-05-02`, `plan-oposicion-policia-local`, `lint-log`
+- **Rochester** — en: `2026-05-14`, `lint-log`, `maia-sesion-20260512`
+- **Rodríguez Velasco** — en: `2026-06-23`, `2026-06-24`, `2026-06-30`
+- **Rodríguez Velasco Interiorismo** — en: `2026-06-23`, `2026-06-24`, `2026-06-30`
+- **Rotación** — en: `2026-05-03`, `2026-05-12`, `lint-log`
+- **Rotar** — en: `2026-05-11`, `2026-05-17`, `lint-log`
+- **Rothenberger** — en: `2026-04-17`, `2026-04-22`, `lint-log`
+- **Roxire Inmobiliaria** — en: `2026-06-16`, `informe-2026-06-16`, `opo-001-estrategia`
+- **Ryanair** — en: `2026-04-20`, `2026-06-19`, `2026-06-22`
+- **Régimen Fiscal Especial** — en: `2026-04-22`, `lint-log`, `informe-negocios-escalables-2026`
+- **SALUT Auxiliar Administrativo** — en: `2026-06-29`, `2026-06-30`
+- **SQLite** — en: `2026-05-17`, `innovacion-2026-05-06`, `lint-log`
+- **Sabadell** — en: `2026-04-15`, `2026-04-16`, `2026-04-20`
+- **Sabes** — en: `2026-04-16`, `2026-04-17`, `2026-04-20`
+- **Sacas** — en: `2026-05-02`, `2026-05-05`, `lint-log`
+- **Sacha** — en: `activo`, `actores`, `archivo`
+- **Sacha Formentera** — en: `activo`, `2026-04-17`, `2026-05-08`
+- **Sacha Savines** — en: `checkpoint-ultimo`, `trabajo`, `lint-log`
+- **Safari** — en: `2026-05-06`, `2026-05-07`, `2026-05-11`
+- **Salamanca** — en: `2026-04-20`, `2026-06-21`, `2026-06-22`
+- **Salario** — en: `2026-04-22`, `2026-05-02`, `lint-log`
+- **Saldo** — en: `2026-04-24`, `ficha-alquiler`, `perfil-economico`
+- **Salir** — en: `decisiones`, `2026-04-17`, `2026-04-22`
+- **Salmón** — en: `2026-04-27`, `2026-06-22`, `lint-log`
+- **Salud** — en: `alertas`, `checkpoint`, `2026-04-16`
+- **Saludable** — en: `innovacion-2026-05-22`, `innovacion-2026-06-13`, `innovacion-2026-06-17`
+- **Salut** — en: `2026-05-21`, `2026-06-29`, `2026-06-30`
+- **Santa** — en: `2026-05-09`, `2026-06-30`
+- **Santa Eulalia** — en: `2026-04-17`, `2026-04-18`, `2026-05-25`
+- **Santa Eularia** — en: `2026-06-16`, `informe-2026-06-16`, `lint-log`
+- **Santander** — en: `2026-04-20`, `2026-04-21`, `2026-04-30`
+- **Sanyfresh** — en: `2026-04-17`, `formentera-ac`, `lint-log`
+- **Sareb** — en: `2026-05-25`, `2026-06-16`, `2026-06-18`
+- **Sareb Eivissa** — en: `2026-06-21`, `2026-06-22`, `lint-log`
+- **Savina** — en: `activo`, `critico`, `ficha-sacha`
+- **Score** — en: `2026-04-16`, `2026-05-12`, `2026-06-18`
+- **Script** — en: `2026-04-15`, `2026-04-17`, `2026-04-20`
+- **Scripts** — en: `decisiones`, `2026-04-15`, `2026-04-17`
+- **Scroll** — en: `2026-04-16`, `2026-05-06`, `lint-log`
+- **Sección** — en: `2026-04-22`, `2026-05-06`, `lint-log`
+- **Seguimiento** — en: `2026-04-20`, `2026-04-21`, `analisis-semanal-2026-05-31`
+- **Seguimos** — en: `2026-05-05`, `2026-05-06`, `2026-05-12`
+- **Seguir** — en: `2026-04-21`, `2026-04-24`, `lint-log`
+- **Seguiré** — en: `2026-04-21`, `2026-05-20`, `lint-log`
+- **Segunda** — en: `2026-04-20`, `2026-05-17`, `lint-log`
+- **Seguridad Social** — en: `2026-04-20`, `2026-05-25`, `2026-06-29`
+- **Seguro** — en: `critico`, `2026-04-16`, `2026-05-03`
+- **Seguros** — en: `perfil-economico`, `resumen-financiero`, `lint-log`
+- **Selecciona** — en: `2026-04-16`, `2026-04-20`, `2026-04-22`
+- **Seleccionar** — en: `2026-04-16`, `2026-05-05`, `lint-log`
+- **Semana** — en: `2026-05-06`, `2026-05-18`, `control-gasto-semanal`
+- **Senyor** — en: `2026-06-30`, `restaurantes`
+- **Separar** — en: `2026-05-12`, `2026-05-22`, `lint-log`
+- **Serie** — en: `2026-04-16`, `2026-04-28`, `2026-05-05`
+- **Series** — en: `2026-04-30`, `plan-oposicion-policia-local`, `lint-log`
+- **Serres** — en: `2026-04-16`, `2026-04-17`, `2026-04-30`
+- **Service Worker** — en: `2026-05-11`, `2026-05-12`, `lint-log`
+- **Servicio** — en: `2026-04-20`, `2026-04-23`, `2026-05-07`
+- **Servicios** — en: `activo`, `2026-04-22`, `2026-04-24`
+- **Servicios Palau** — en: `critico`, `2026-04-16`, `2026-04-17`
+- **Servidor** — en: `2026-05-05`, `2026-05-07`, `2026-05-11`
+- **Sesión** — en: `2026-04-15`, `2026-05-11`, `2026-05-12`
+- **Setup** — en: `2026-04-21`, `2026-05-06`, `lint-log`
+- **Señal** — en: `2026-05-18`, `2026-05-19`, `lint-log`
+- **Siempre** — en: `perfil-cognitivo`, `2026-04-17`, `2026-05-06`
+- **Sigue** — en: `2026-04-17`, `2026-04-20`, `2026-04-22`
+- **Sigues** — en: `2026-04-20`, `2026-05-02`, `2026-05-04`
+- **Siguiendo** — en: `2026-04-21`, `2026-05-07`, `lint-log`
+- **Siguiente** — en: `2026-04-15`, `2026-04-21`, `2026-04-22`
+- **Silicon Valley** — en: `2026-04-24`, `2026-04-30`, `lint-log`
+- **Sistema** — en: `acciones`, `alertas`, `2026-04-17`
+- **Sistema George** — en: `decisiones`, `analisis-semanal-2026-05-10`, `lint-log`
+- **Situación** — en: `2026-05-04`, `2026-05-14`, `2026-06-27`
+- **Sociedades** — en: `2026-04-21`, `lint-log`, `informe-negocios-escalables-2026`
+- **Solana Ibiza** — en: `2026-04-22`, `lint-log`, `informe-negocios-escalables-2026`
+- **Solicitar** — en: `2026-04-20`, `2026-04-28`, `2026-05-02`
+- **Solicito** — en: `2026-04-20`, `2026-05-02`, `2026-06-19`
+- **Solicitud** — en: `2026-04-20`, `2026-05-18`, `lint-log`
+- **Soluciones** — en: `2026-05-14`, `2026-06-24`
+- **Solución** — en: `2026-04-15`, `2026-04-16`, `2026-04-17`
+- **Somos** — en: `2026-04-17`, `2026-04-30`, `lint-log`
+- **Sonnet** — en: `2026-05-14`, `2026-05-20`, `lint-log`
+- **Split** — en: `2026-04-17`, `2026-05-06`, `trabajo`
+- **Start** — en: `2026-04-20`, `2026-04-21`, `lint-log`
+- **Store** — en: `2026-04-17`, `2026-05-06`, `2026-05-07`
+- **Subasta** — en: `2026-05-17`, `2026-06-18`, `2026-06-19`
+- **Subasta Figueretes** — en: `2026-05-19`, `2026-05-20`, `lint-log`
+- **Subasta Fácil** — en: `2026-06-23`, `2026-06-24`, `innovacion-2026-06-23`
+- **Subastas** — en: `2026-04-20`, `2026-04-21`, `2026-05-24`
+- **Sueldo** — en: `2026-04-22`, `2026-06-29`, `2026-06-30`
+- **Suele** — en: `2026-04-20`, `2026-04-24`, `2026-05-05`
+- **Suelen** — en: `2026-04-22`, `2026-04-27`, `2026-05-18`
+- **Sueño** — en: `2026-04-15`, `2026-04-16`, `lint-log`
+- **Suministros** — en: `2026-04-16`, `2026-04-24`, `2026-05-19`
+- **Superficie** — en: `informe-2026-06-16`, `opo-001-estrategia`, `opo-004-005-figueretes`
+- **Supermercado** — en: `2026-04-29`, `control-gasto-semanal`, `lint-log`
+- **Superprof** — en: `2026-06-28`, `2026-06-29`
+- **System** — en: `REGLAS`, `2026-05-11`, `lint-log`
+- **Talaia** — en: `2026-04-16`, `lint-log`, `gastos-supermercado`
+- **Talamanca** — en: `2026-04-20`, `2026-04-21`, `informe-2026-06-16`
+- **Talla** — en: `2026-04-21`, `2026-04-27`, `lint-log`
+- **Tamaño** — en: `2026-06-20`, `ingest-log`, `lint-log`
+- **Tanger** — en: `2026-05-02`, `2026-06-17`, `lint-log`
+- **Tangier** — en: `2026-05-02`, `2026-05-05`, `lint-log`
+- **Tarea** — en: `2026-04-16`, `2026-04-30`, `lint-log`
+- **Tareas** — en: `2026-04-15`, `lint-log`, `dashboard`
+- **Tarjeta** — en: `2026-04-17`, `gastos-abril-2026`, `perfil-economico`
+- **Tarjetas Sabadell** — en: `2026-04-15`, `lint-log`, `finanzas-personales`
+- **Tasación** — en: `2026-05-19`, `2026-05-20`, `lint-log`
+- **Techo** — en: `2026-05-18`, `2026-05-19`, `2026-05-20`
+- **Tecnología** — en: `2026-04-30`, `2026-06-24`
+- **Telegram** — en: `REGLAS`, `checkpoint`, `2026-04-15`
+- **Teléfono** — en: `ficha-laura`, `ficha-sacha`, `2026-04-16`
+- **Temas** — en: `2026-04-21`, `2026-04-30`, `lint-log`
+- **Temperatura** — en: `2026-04-30`, `2026-05-06`, `2026-05-18`
+- **Tendencia** — en: `2026-05-06`, `informe-2026-06-16`, `lint-log`
+- **Tengo** — en: `2026-04-16`, `2026-04-20`, `2026-04-22`
+- **Tenías** — en: `2026-04-24`, `2026-04-28`, `2026-05-06`
+- **Terminal** — en: `2026-04-28`, `2026-05-12`, `lint-log`
+- **Terminar** — en: `2026-04-21`, `2026-04-30`, `lint-log`
+- **Termostato** — en: `2026-04-24`, `2026-04-27`, `2026-04-28`
+- **Terraza** — en: `2026-04-18`, `2026-06-16`, `2026-06-17`
+- **Tesseract** — en: `2026-05-07`, `2026-05-11`, `2026-05-12`
+- **Texto** — en: `acciones`, `2026-04-15`, `2026-04-17`
+- **Thank** — en: `2026-05-11`, `2026-06-17`, `lint-log`
+- **Ticket** — en: `2026-05-02`, `2026-06-24`, `lint-log`
+- **Tiempo** — en: `2026-04-17`, `2026-04-20`, `2026-04-21`
+- **Tienda** — en: `2026-04-29`, `lint-log`, `gastos-supermercado`
+- **Tiene** — en: `2026-04-16`, `2026-04-17`, `2026-04-21`
+- **Tienen** — en: `2026-04-20`, `2026-04-24`, `2026-04-30`
+- **Tienes** — en: `2026-04-15`, `2026-04-16`, `2026-04-17`
+- **Tierra** — en: `2026-04-28`, `2026-06-24`
+- **TikTok** — en: `2026-04-17`, `2026-04-20`, `2026-04-29`
+- **Timeline** — en: `2026-05-19`, `innovacion-2026-06-27`
+- **Titular** — en: `ficha-laura`, `2026-05-19`, `2026-05-20`
+- **Todas** — en: `2026-04-20`, `2026-04-21`, `2026-04-29`
+- **Todos** — en: `2026-04-17`, `2026-04-20`, `2026-04-21`
+- **Token** — en: `2026-04-16`, `2026-05-16`, `2026-05-17`
+- **Token MAIA** — en: `2026-05-21`, `2026-05-22`, `lint-log`
+- **Tomar** — en: `2026-04-30`, `opo-001-estrategia`, `lint-log`
+- **Tomate** — en: `2026-04-27`, `lint-log`, `gastos-supermercado`
+- **Trabajo Formentera** — en: `2026-04-29`, `analisis-semanal-2026-04-18`, `analisis-semanal-2026-04-19`
+- **Trabajo Sacha** — en: `checkpoint-ultimo`, `2026-04-17`, `2026-04-19`
+- **Trabajo Sacha Formentera** — en: `archivo`, `critico`, `decisiones`
+- **Trabajos** — en: `activo`, `ficha-sacha`, `2026-04-17`
+- **Tramitación** — en: `2026-06-29`, `2026-06-30`
+- **Tranquilo** — en: `2026-05-06`, `2026-05-09`, `2026-06-24`
+- **Transcripción** — en: `2026-04-17`, `2026-04-18`, `lint-log`
+- **Trapos** — en: `2026-04-16`, `2026-04-17`, `lint-log`
+- **Trasmapi** — en: `2026-04-16`, `2026-04-17`, `gastos-abril-2026`
+- **Trastero** — en: `2026-04-24`, `ficha-alquiler`, `lint-log`
+- **Tributas** — en: `2026-05-02`, `2026-05-03`, `lint-log`
+- **Trioteca** — en: `2026-05-17`, `2026-05-18`, `lint-log`
+- **TripAdvisor** — en: `2026-04-18`, `2026-06-26`, `2026-06-30`
+- **Tánger** — en: `2026-05-02`, `2026-05-05`, `2026-06-17`
+- **Técnicamente** — en: `2026-05-03`, `2026-05-04`, `lint-log`
+- **Técnico** — en: `2026-04-27`, `2026-05-06`, `2026-05-11`
+- **Técnicos** — en: `2026-04-30`, `2026-05-12`, `lint-log`
+- **Ubicación** — en: `2026-04-18`, `2026-05-03`, `restaurantes`
+- **Ubuntu** — en: `2026-04-30`, `2026-05-07`, `lint-log`
+- **Unidad** — en: `2026-04-16`, `2026-04-17`, `2026-04-24`
+- **Urgente** — en: `2026-04-17`, `analisis-semanal-2026-04-26`, `lint-log`
+- **UserPromptSubmit** — en: `decisiones`, `2026-04-17`, `lint-log`
+- **Users** — en: `2026-05-06`, `2026-05-12`, `lint-log`
+- **Usuario** — en: `actores`, `2026-04-20`, `2026-05-06`
+- **Vaciar** — en: `2026-04-17`, `2026-05-12`, `lint-log`
+- **Valencia** — en: `2026-04-20`, `2026-04-29`, `2026-04-30`
+- **Validación** — en: `2026-05-11`, `2026-05-12`, `2026-05-14`
+- **Validar** — en: `2026-04-30`, `2026-05-11`, `lint-log`
+- **Valls** — en: `2026-05-17`, `2026-05-18`, `2026-06-18`
+- **Valor** — en: `2026-04-20`, `2026-05-03`, `2026-05-05`
+- **Valoración** — en: `2026-04-30`, `2026-05-18`, `restaurantes`
+- **Vamos** — en: `2026-04-20`, `2026-04-30`, `2026-05-06`
+- **Vault** — en: `checkpoint-ultimo`, `2026-04-16`, `2026-04-18`
+- **VaultGeorge** — en: `2026-04-28`, `2026-05-12`, `lint-log`
+- **Vehículo** — en: `2026-04-17`, `2026-04-21`, `lint-log`
+- **Velocidad** — en: `2026-04-30`, `2026-06-17`, `lint-log`
+- **Vencimiento** — en: `2026-04-16`, `innovacion-2026-05-01`, `lint-log`
+- **Vende** — en: `2026-05-19`, `2026-06-27`
+- **Vender** — en: `2026-04-20`, `2026-04-30`, `2026-05-02`
+- **Vendes** — en: `2026-04-20`, `2026-04-21`, `2026-04-24`
+- **Venta** — en: `2026-04-20`, `2026-05-25`, `lint-log`
+- **Ventaja** — en: `2026-04-20`, `2026-04-24`, `2026-05-20`
+- **Verde** — en: `2026-04-16`, `2026-06-20`, `2026-06-22`
+- **Verde Militar** — en: `2026-06-20`, `2026-06-22`, `lint-log`
+- **Veredicto** — en: `2026-05-05`, `lint-log`, `informe-negocios-escalables-2026`
+- **Verificar** — en: `actores`, `2026-04-16`, `2026-04-17`
+- **Versión** — en: `2026-04-15`, `2026-05-06`, `2026-05-07`
+- **Verás** — en: `2026-04-16`, `2026-05-06`, `2026-05-07`
+- **Villa** — en: `2026-04-22`, `2026-06-22`, `lint-log`
+- **Vision** — en: `2026-05-11`, `2026-05-12`, `2026-05-14`
+- **Visitable** — en: `2026-06-21`, `2026-06-23`, `2026-06-24`
+- **Visitar** — en: `2026-04-30`, `2026-06-27`, `informe-2026-06-16`
+- **Vista** — en: `2026-04-20`, `2026-04-22`, `2026-05-06`
+- **Vistas** — en: `2026-04-18`, `2026-06-22`, `lint-log`
+- **Visto** — en: `2026-04-16`, `2026-04-17`, `2026-04-20`
+- **Viver** — en: `alertas`, `2026-05-21`, `2026-05-22`
+- **Vivienda** — en: `2026-05-18`, `2026-05-19`, `ficha-alquiler`
+- **Vivir** — en: `2026-04-22`, `lint-log`, `informe-negocios-escalables-2026`
+- **Volkswagen Caddy** — en: `critico`, `2026-04-17`, `lint-log`
+- **Volumen** — en: `2026-04-22`, `2026-05-25`, `2026-06-22`
+- **Vuelve** — en: `2026-04-22`, `2026-05-05`, `2026-05-10`
+- **Válvula** — en: `2026-04-17`, `2026-04-24`, `2026-04-27`
+- **Wallapop** — en: `2026-04-21`, `2026-04-22`, `2026-04-29`
+- **Waylet** — en: `2026-04-16`, `lint-log`, `gastos-supermercado`
+- **WebDAV** — en: `2026-04-20`, `2026-04-21`, `lint-log`
+- **Whatpps** — en: `2026-04-29`, `2026-05-19`, `lint-log`
+- **WhatsApp** — en: `2026-04-17`, `2026-04-21`, `2026-04-22`
+- **WhatsApp Business** — en: `2026-04-21`, `2026-04-30`, `2026-06-17`
+- **Whisper** — en: `2026-04-15`, `2026-04-16`, `2026-04-17`
+- **Windows** — en: `2026-04-30`, `2026-05-06`, `2026-06-29`
+- **Wurth** — en: `critico`, `2026-04-16`, `2026-04-17`
+- **YouTube** — en: `2026-04-17`, `2026-04-24`, `2026-04-30`
+- **Zonas** — en: `2026-04-20`, `2026-05-04`, `lint-log`
+- **Ábrego** — en: `2026-06-30`, `restaurantes`
+- **Ábrela** — en: `2026-04-24`, `2026-06-30`
+- **Ábrelo** — en: `2026-04-20`, `2026-06-17`, `lint-log`
+- **Ático Puig** — en: `2026-06-19`, `2026-06-30`
+- **Órdenes** — en: `2026-04-16`, `2026-05-06`, `2026-05-07`
+- **Última** — en: `2026-04-16`, `2026-04-21`, `2026-04-22`
+- **Últimas** — en: `2026-04-21`, `2026-04-22`, `2026-05-20`
+- **Única** — en: `2026-06-22`, `analisis-semanal-2026-06-28`
+

@@ -1,5 +1,5 @@
 # CRÍTICO — Dinero, clientes, decisiones importantes
-_Actualizado: 2026-06-30
+_Actualizado: 2026-07-01
 
 ## DINERO
 
@@ -43,8 +43,8 @@ _Actualizado: 2026-06-30
 
 ## VEHÍCULOS
 - Volkswagen Caddy 9757MPX (furgoneta trabajo)
-- Mercedes (matrícula pendiente confirmar)
-- Clio (matrícula pendiente confirmar)
+- Clio: matrícula 5237NCT (Allianz Auto, póliza 57295590, 402,21€/año — renovado 01/07/2026, válido hasta 01/07/2027)
+- Coche 7389MZF (Allianz Auto Plus, póliza 56894063, 323,69€/año — válido 01/03/2026 al 01/03/2027)
 - Moto (matrícula pendiente confirmar)
 
 ## GESTORÍA / FISCAL
