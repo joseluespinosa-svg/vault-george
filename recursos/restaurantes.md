@@ -39,6 +39,17 @@
 - **Especialidad:** Arroces, tapas creativas, gastrobar
 - **Fuente:** TikTok @InmobiliariaNucleo
 
+## Tío Ennio Grill Coffee Bar — Altea (Alicante)
+- **Dirección:** C. Sta. Bárbara, 4, 03590 Altea, Alicante
+- **Valoración:** 4,7 ⭐ (1.007 reseñas)
+- **Especialidad:** Grill, café, ambiente de pueblo. No es paella.
+- **Fuente:** TikTok @cocituber
+
+## Sushi Mon — Alicante ciudad
+- **Especialidad:** Buffet de sushi "inspirado en el mar". Local nuevo, moderno.
+- **Fuente:** TikTok (Claudia Valdivia)
+- **Nota:** Sin paella. Buena opción para sushi en Alicante.
+
 ## El Azul — Alicante (Playa San Juan)
 - **Dirección:** Avenida de Niza, 9, Alicante
 - **Valoración:** 3,9 ⭐ TripAdvisor (3.097 reseñas Google)
