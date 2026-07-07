@@ -1,8 +1,8 @@
 # Checkpoint última sesión
-_Guardado: 2026-07-05 21:47_
+_Guardado: 2026-07-06 23:21_
 
 ## Contexto activo
-- Ver conversación del día: /root/vault/conversaciones/2026-07-05.md
+- Ver conversación del día: /root/vault/conversaciones/2026-07-06.md
 - Trabajo activo: Formentera — Sacha Savines (18/04/2026)
 - Ferry mañana: IBZ→FOR 09:30, Caddy 9757MPX
 
