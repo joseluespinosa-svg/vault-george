@@ -1,5 +1,5 @@
 # Índice — proyectos/maia
-_Generado: 2026-07-06 04:00_
+_Generado: 2026-07-07 04:00_
 
 ## Notas
 - [[conceptos|MAIA — Conceptos y decisiones de diseño]]
