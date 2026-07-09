@@ -1,11 +1,19 @@
 # Restaurantes recomendados
 
 ## Alfonso Mira — Aspe (Alicante)
-- **Especialidad:** Paella alicantina / arroz
+- **Especialidad:** Paella de conejo y caracoles a la leña de sarmiento (vid)
 - **Dirección:** CL Alicante, KM 0.5, 03680 Aspe (Alicante)
-- **Precio aprox:** ~35€/persona
-- **Fuente:** TikTok @BouFitFatFood (vídeo paella alicantina)
-- **Nota:** Recomendado para ir con la familia cuando vayáis a Alicante
+- **Precio aprox:** 16,50€/persona (mínimo 2)
+- **Fuente:** TikTok @BouFitFatFood + confirmado por José Luis
+- **Distinción:** Ferran Adrià lo llamó "el mejor arroz del mundo"
+- **Nota:** EL TOP ABSOLUTO según José Luis. Usan solo sarmiento (leña de vid) para cocinar.
+
+## Isabel Pedrera — Alicante
+- **Especialidad:** Arroces (paella grande y arroces finos)
+- **Valoración:** 4,1 ⭐ (758 reseñas Google)
+- **Precio aprox:** 30-40€/persona
+- **Fuente:** José Luis (07/07/2026) — "el top después de Alfonso Mira"
+- **Nota:** Segunda recomendación de José Luis para arroces en Alicante
 
 ## Casa Asunción — Cases del Senyor (Alicante)
 - **Nombre completo:** Restaurante Casa Asunción - Casas del Señor
