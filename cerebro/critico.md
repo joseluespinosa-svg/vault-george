@@ -1,5 +1,5 @@
 # CRÍTICO — Dinero, clientes, decisiones importantes
-_Actualizado: 2026-07-13
+_Actualizado: 2026-07-14
 
 ## DINERO
 
@@ -30,10 +30,11 @@ _Actualizado: 2026-07-13
 - Estado: confirmado, 50% pagado
 - Ver: [[../proyectos/trabajos/formentera-sacha-savines-2026/trabajo|Trabajo Sacha Formentera]]
 
-### Laura + Jamie
-- Contrato arrendamiento San Antonio (May 2026 → Mar 2027)
-- **✅ CONTRATO FIRMADO (confirmado 30/04/2026)**
-- Renta: 1.850€/mes, pago el día 5, titular Jamie
+### Laura + Jamie / Susan — ⚠️ IMPAGO, DESAHUCIO EN CURSO
+- Contrato arrendamiento San Antonio vigente hasta Mar 2027, renta 1.850€/mes, titular Jamie
+- **MOTIVO CONFIRMADO (14/07/2026): IMPAGO. El contrato sigue vigente hasta marzo, pero Laura no está pagando el alquiler.** José Luis inicia PLEITO DE DESAHUCIO contra Laura y su madre Susan (Colclough).
+- Abogado desahucios (consulta 120€, se descuenta si lleva el caso): cita mañana AM en Vara del Rey, Ibiza. **José Luis NO va en persona — asiste Ginés (su amigo, que es abogado) en su lugar.** Advierte que el burofax solo no basta — hace falta MASC previo (obligatorio desde 2023).
+- Abogado para el pleito: **Ginés** (amigo/abogado), cobra 1.000€ por llevarlo — probablemente el mismo Ginés que va a la cita de mañana.
 - Ver: [[../clientes/laura/ficha-laura|Ficha Laura]] · [[../temas/laura-contrato|Contrato Laura]]
 
 ## EMPRESA PITICLEAN

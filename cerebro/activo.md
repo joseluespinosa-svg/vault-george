@@ -1,5 +1,5 @@
 # ACTIVO — Trabajos y estado actual
-_Actualizado: 2026-07-13
+_Actualizado: 2026-07-14
 
 ## TRABAJO COMPLETADO: Sacha Formentera (18/04/2026)
 
@@ -26,3 +26,9 @@ _Actualizado: 2026-07-13
 
 - [x] Llamar gestor: declarar alquiler San Antonio en renta 2025 + IVA factura Sacha 1203 — ✅ RESUELTO (07/05/2026)
 - [x] Firma contrato Laura/Jamie — ✅ FIRMADO (30/04/2026)
+
+## ⚠️ NUEVO: PLEITO DESAHUCIO Laura + Susan (San Antonio) — 14/07/2026
+
+- MOTIVO: impago de alquiler (contrato vigente hasta marzo 2027, pero no paga)
+- [ ] Cita abogado desahucios mañana AM, Vara del Rey, Ibiza (120€, descontable) — va Ginés en representación de José Luis, llevando el contrato. Confirmar si MASC ya cumplido o falta trámite antes del pleito.
+- [ ] Ginés (amigo/abogado) cobra 1.000€ por llevar el pleito completo

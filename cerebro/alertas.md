@@ -1,5 +1,5 @@
 # ALERTAS — Sistema inteligente
-_Actualizado: 2026-07-13
+_Actualizado: 2026-07-14
 
 ---
 
@@ -65,6 +65,16 @@ TIPO: cita IMPORTANTE
 FECHA: 2026-06-03 a las 9:00h
 LUGAR: Calle Jesús, 38A, Palma (horario oficina 9:00-14:00)
 ACCIÓN: Acudir a la audiencia de arbitraje. Expediente JAC-188/26.
+
+---
+
+---
+
+ALERTA: Multa Aeropuerto Ibiza — recurso de reposición ⭐ PLAZO CORTO
+TIPO: plazo legal
+FECHA LÍMITE: 2026-08-14 (recurso de reposición) · 2026-09-14 (contencioso directo, necesita abogado)
+EXPEDIENTE: 3069/2026 — 200€ — señal R-100 aeropuerto, cámara ANPR
+ACCIÓN: Preparar y presentar recurso de reposición antes del 14/08/2026. No pagar los 200€ mientras se recurre. Ver [[../temas/multa-aeropuerto-ibiza-2026|ficha completa]].
 
 ---
 
