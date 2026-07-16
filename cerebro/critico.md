@@ -31,8 +31,10 @@ _Actualizado: 2026-07-14
 - Ver: [[../proyectos/trabajos/formentera-sacha-savines-2026/trabajo|Trabajo Sacha Formentera]]
 
 ### Laura + Jamie / Susan — ⚠️ IMPAGO, DESAHUCIO EN CURSO
-- Contrato arrendamiento San Antonio vigente hasta Mar 2027, renta 1.850€/mes, titular Jamie
-- **MOTIVO CONFIRMADO (14/07/2026): IMPAGO. El contrato sigue vigente hasta marzo, pero Laura no está pagando el alquiler.** José Luis inicia PLEITO DE DESAHUCIO contra Laura y su madre Susan (Colclough).
+- **CONTRATO REAL (SUSAN-2026-ES, firmado 1 mayo 2026):** Arrendataria (titular) = Susan Elizabeth Colclough (madre de Laura), pasaporte 740428W, NIE X2048451-W, dirección **Calle Isla Bonita, 48, Guia de Isora, Tenerife 38687**. Ocupantes autorizados: Jamie Paul Smith y Laura Jane Colclough. (La versión "JAMIE-2026" con Jamie como titular parece ser un borrador anterior no operativo — Susan es la titular real firmante).
+- Inmueble arrendado: **C/ del Far 3, planta 3, Letra 2, 07820 Sant Antoni de Portmany**
+- Renta: 1.850€/mes, día 5, del 1/05/2026 al 31/03/2027. Cláusula 8ª: resolución por falta de pago (art. 27 LAU)
+- **MOTIVO CONFIRMADO (14/07/2026): IMPAGO.** El contrato sigue vigente hasta marzo, pero no se está pagando el alquiler. José Luis inicia PLEITO DE DESAHUCIO contra Laura y su madre Susan.
 - Abogado desahucios (consulta 120€, se descuenta si lleva el caso): cita mañana AM en Vara del Rey, Ibiza. **José Luis NO va en persona — asiste Ginés (su amigo, que es abogado) en su lugar.** Advierte que el burofax solo no basta — hace falta MASC previo (obligatorio desde 2023).
 - Abogado para el pleito: **Ginés** (amigo/abogado), cobra 1.000€ por llevarlo — probablemente el mismo Ginés que va a la cita de mañana.
 - Ver: [[../clientes/laura/ficha-laura|Ficha Laura]] · [[../temas/laura-contrato|Contrato Laura]]
