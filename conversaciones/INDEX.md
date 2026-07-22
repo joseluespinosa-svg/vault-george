@@ -1,5 +1,5 @@
 # Índice — conversaciones
-_Generado: 2026-07-20 04:02_
+_Generado: 2026-07-21 04:02_
 
 ## Notas
 - [[2026-04-15|Conversación Telegram — 2026-04-15]]
@@ -98,3 +98,4 @@ _Generado: 2026-07-20 04:02_
 - [[2026-07-17|Conversaciones 2026-07-17]]
 - [[2026-07-18|Conversaciones 2026-07-18]]
 - [[2026-07-19|Conversaciones 2026-07-19]]
+- [[2026-07-20|Conversaciones 2026-07-20]]
