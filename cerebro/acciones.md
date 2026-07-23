@@ -51,18 +51,18 @@ NOTAS: Bóveda vacía creada en iPhone. Instalar plugin Remotely Save → URL: h
 ---
 
 TAREA: Llamar Centro de Salud Es Viver — confirmar próxima cita psicología/psiquiatría
-ESTADO: pendiente
+ESTADO: en curso
 RESPONSABLE: Jose Luis
-FECHA_LIMITE: mañana 2026-07-22
-NOTAS: No hay fecha de seguimiento registrada tras la cita del 26/06 con Dr. Bozzini. Tel: 971.22.57.22 (L-V 07:00-21:00 / Sáb 07:00-14:00).
+FECHA_LIMITE: 2026-07-22
+NOTAS: Teléfono directo Es Viver: 971 39 16 32 (dato dado por José Luis 22/07). Tel general cambios: 971.22.57.22. Aún sin fecha confirmada de la próxima cita — pendiente resultado de la llamada.
 
 ---
 
 TAREA: Seguimiento caso moto/AENA con abogado Higinio (Palma)
-ESTADO: pendiente
+ESTADO: en curso — ✅ contactado 22/07/2026
 RESPONSABLE: Jose Luis
-FECHA_LIMITE: mañana 2026-07-22
-NOTAS: Higinio Muñoz, HM Advocats (higinio@hmadvocats.es). Tel: 971 72 68 44 / 609 316 486. Expediente JAC-188/26 contra AENA (caída de moto, aeropuerto Ibiza, 06/02/2025). Audiencia fue 03/06/2026 — pendiente conocer resultado/laudo, llevaba semanas sin responder a mediados de junio.
+FECHA_LIMITE: —
+NOTAS: Higinio Muñoz, HM Advocats (higinio@hmadvocats.es). Tel: 971 72 68 44 / 609 316 486. Expediente JAC-188/26 contra AENA (caída de moto, aeropuerto Ibiza, 06/02/2025). José Luis llamó el 22/07/2026 — Higinio dijo que mandará el resultado por correo. PENDIENTE: revisar email cuando llegue.
 
 ---
 

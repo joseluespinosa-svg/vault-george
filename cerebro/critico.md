@@ -37,6 +37,7 @@ _Actualizado: 2026-07-14
 - **MOTIVO CONFIRMADO (14/07/2026): IMPAGO.** El contrato sigue vigente hasta marzo, pero no se está pagando el alquiler. José Luis inicia PLEITO DE DESAHUCIO contra Laura y su madre Susan.
 - Abogado desahucios (consulta 120€, se descuenta si lleva el caso): cita mañana AM en Vara del Rey, Ibiza. **José Luis NO va en persona — asiste Ginés (su amigo, que es abogado) en su lugar.** Advierte que el burofax solo no basta — hace falta MASC previo (obligatorio desde 2023).
 - Abogado para el pleito: **Ginés** (amigo/abogado), cobra 1.000€ por llevarlo — probablemente el mismo Ginés que va a la cita de mañana.
+- **✅ 22/07/2026: burofax/fax de requerimiento ya entregado** (confirmado por José Luis: "lo de Laura ya llegó fax"). Pendiente: esperar plazo de respuesta / pago antes de que Ginés meta el pleito.
 - Ver: [[../clientes/laura/ficha-laura|Ficha Laura]] · [[../temas/laura-contrato|Contrato Laura]]
 
 ## EMPRESA PITICLEAN
