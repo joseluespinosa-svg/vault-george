@@ -5,8 +5,8 @@ _Generado: 2026-07-12 para uso con IA externa_
 
 ## QUIÉN ES
 - **Nombre:** José Luis Espinosa Sirvent
-- **Situación:** Autónomo (empresa PitiClean, limpieza y mantenimiento), padre monoparental (2 hijos menores), residente en Ibiza
-- **Pareja:** Karina (ingresos: 1.800€/mes)
+- **Situación:** Asalariado — encargado de mantenimiento en residencia Ca Ses Serres (2.200€ netos/mes fijos). Además hace trabajos de clima por cuenta propia (vía webs Maia y Pitifred) como ingresos variables — no está dado de alta como autónomo. Padre monoparental (2 hijos menores), residente en Ibiza. (Corregido 24/07/2026)
+- **Pareja:** Karina (ingresos: 1.600€/mes)
 
 ---
 
@@ -14,9 +14,9 @@ _Generado: 2026-07-12 para uso con IA externa_
 
 | Concepto | Importe |
 |---|---|
-| Ingresos José Luis | ~2.400€/mes |
-| Ingresos Karina | ~1.800€/mes |
-| **Total combinado** | **~4.200€/mes** |
+| Ingresos José Luis (nómina fija) | 2.200€/mes |
+| Ingresos Karina | 1.600€/mes |
+| **Total combinado** | **~3.800€/mes** |
 | Hipoteca San Antonio (actual) | 360€/mes |
 | Alquiler Ibiza (donde vive) | 2.000€/mes |
 | Otros gastos (comida, coches, etc.) | ~2.500€/mes |

@@ -5,8 +5,8 @@
 
 | Concepto | Importe | Notas |
 |---|---|---|
-| Sueldo | 2.300€ netos/mes | x14 pagas → ~2.683€/mes promedio |
-| Karina (pareja) | 1.600€ netos/mes | |
+| Sueldo | 2.200€ netos/mes | Confirmado 24/07/2026 |
+| Karina (pareja) | 1.600€ netos/mes | Confirmado 24/07/2026 |
 | Alquiler San Antonio | 1.850€/mes | + repercusión luz + agua + comunidad al inquilino |
 | **TOTAL INGRESOS** | **~6.133€/mes** | Sin extras ni guardias |
 

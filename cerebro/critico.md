@@ -1,5 +1,5 @@
 # CRÍTICO — Dinero, clientes, decisiones importantes
-_Actualizado: 2026-07-14
+_Actualizado: 2026-07-24
 
 ## DINERO
 
@@ -43,7 +43,7 @@ _Actualizado: 2026-07-14
 ## EMPRESA PITICLEAN
 - CIF: 41443135X
 - Cuenta: ES79 0081 0622 0700 0654 7464
-- Facturación: a través de primo Miguel
+- ⚠️ Facturación vía primo Miguel: **YA NO ACTIVA (confirmado 24/07/2026 — "ya no hago nada con él")**. José Luis no tiene ahora mismo ninguna vía para facturar trabajos extra de clima. Rechaza darse de alta como autónomo. Sin estructura de facturación = no puede cobrar formalmente esos trabajos. Ver [[../proyectos/estructura-fiscal/CONTEXTO_FISCAL_IA|estructura fiscal]] (opciones SL vs autónomo).
 
 ## VEHÍCULOS
 - Volkswagen Caddy 9757MPX (furgoneta trabajo)

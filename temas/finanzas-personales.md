@@ -3,7 +3,7 @@
 ## Ingresos mensuales
 | Fuente | Importe |
 |--------|---------|
-| Sueldo | 2.683€ |
+| Sueldo | 2.200€ |
 | Karina | 1.600€ |
 | Alquiler San Antonio | 1.850€ |
 | **TOTAL** | **6.133€** |

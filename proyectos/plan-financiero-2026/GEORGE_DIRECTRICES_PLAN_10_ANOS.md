@@ -17,8 +17,8 @@ José Luis tiene TDAH e impulsividad financiera. El trabajo de George NO es darl
 
 | Concepto | Valor |
 |---|---|
-| José Luis | Asalariado, 37.000 € brutos (~2.400 netos/mes) |
-| Karina (pareja) | ~1.800 €/mes |
+| José Luis | Asalariado (encargado mantenimiento, residencia Ca Ses Serres), 2.200 € netos/mes fijos. Ingresos variables aparte por trabajos de clima (Maia/Pitifred) |
+| Karina (pareja) | 1.600 €/mes |
 | Hijos | 2 menores, familia en Ibiza |
 | Piso Sant Antoni | Propiedad. Valor est. ~340.000 € (BBVA, no tasación oficial) |
 | Hipoteca actual | ~60.000 € pendientes, cuota 360 €/mes |
@@ -26,7 +26,7 @@ José Luis tiene TDAH e impulsividad financiera. El trabajo de George NO es darl
 | Gastos vida | ~2.500 €/mes |
 | Ahorros | ~3.000 € (→ ~600 tras liquidar tarjeta) |
 | Tarjeta BBVA | 2.394 € — EN LIQUIDACIÓN esta semana |
-| Coches | Mercedes ~18k + Clio ~10k (ilíquidos) |
+| Coches | 18.000€ + 9.000€, pagados sin financiación (confirmado 24/07) (ilíquidos) |
 | Rehipoteca ING | 230.000 € solicitados, 25% del trámite, SIN FEIN. EN PAUSA |
 | Inquilinas Sant Antoni | Susan Colclough (titular). IMPAGO julio. Burofax pendiente de envío |
 | Contrato alquiler | Temporada, 1.850 €/mes, vence 31 marzo 2027, fianza 2.775 € |
