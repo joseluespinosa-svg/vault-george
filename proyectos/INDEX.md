@@ -1,5 +1,5 @@
 # Índice — proyectos
-_Generado: 2026-07-24 04:01_
+_Generado: 2026-07-25 04:02_
 
 ## Subcarpetas
 - [[busqueda-vivienda/INDEX|busqueda-vivienda/]]

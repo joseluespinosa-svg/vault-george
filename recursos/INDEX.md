@@ -1,5 +1,5 @@
 # Índice — recursos
-_Generado: 2026-07-24 04:01_
+_Generado: 2026-07-25 04:02_
 
 ## Notas
 - [[restaurantes|Restaurantes recomendados]]
