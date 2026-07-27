@@ -1,5 +1,5 @@
 # Índice — personal
-_Generado: 2026-07-25 04:02_
+_Generado: 2026-07-26 04:02_
 
 ## Subcarpetas
 - [[alquiler-ibiza/INDEX|alquiler-ibiza/]]
@@ -14,4 +14,5 @@ _Generado: 2026-07-25 04:02_
 - [[perfil-economico|Perfil Económico — José Luis Espinosa Sirvent]]
 - [[plan-oposicion-policia-local|Plan Oposición Policía Local Ibiza — 1km sub-4:00]]
 - [[resumen-financiero|Resumen Financiero — José Luis Espinosa Sirvent]]
+- [[salud|Salud — José Luis]]
 - [[test-obsidian|Hola desde el VPS]]
