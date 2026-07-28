@@ -1,5 +1,5 @@
 # ACCIONES — Sistema de ejecución
-_Actualizado: 2026-07-24
+_Actualizado: 2026-07-27
 
 ---
 
@@ -74,11 +74,32 @@ NOTAS: José Luis tiene pendiente un abogado para reclamar a BBVA los gastos de 
 
 ---
 
-TAREA: Estrategia inmobiliaria a medio plazo — piso Ibiza vs Alicante vs edificio completo
-ESTADO: pendiente (idea a desarrollar)
+TAREA: Plan patrimonio 1M€ a 10 años — acordado 26/07/2026, sustituye a la idea abierta anterior
+ESTADO: en curso — plan de fases definido, checklist del mes activa
 RESPONSABLE: Jose Luis + George
-FECHA_LIMITE: sin definir (horizonte "de aquí unos años")
-NOTAS: José Luis plantea si a medio plazo compensa más comprar piso en Ibiza, invertir en Alicante, o comprar un edificio entero. Ver [[../proyectos/plan-financiero-2026/estrategia-edificio-ibiza-alicante|nota de estrategia]].
+FECHA_LIMITE: checklist semana 1 de julio-agosto 2026
+NOTAS: Ver [[../proyectos/plan-financiero-2026/plan-1M-10anos|plan completo]]. Regla activa: cero operaciones nuevas hasta tasación oficial San Antonio + FEIN por escrito.
+
+---
+
+TAREA: Checklist mes (semana 1) — plan 1M€
+ESTADO: pendiente, sin confirmar ningún punto todavía (26/07/2026)
+RESPONSABLE: Jose Luis
+FECHA_LIMITE: revisar 30/07/2026 (cierre de bucle a 3 días si no hay confirmación)
+NOTAS:
+1. Email al bróker pidiendo FEIN por escrito — PRIORIDAD 1
+2. Encargar tasación oficial San Antonio a 2 tasadoras (~400€)
+3. Llamar a ING: ¿computan renta futura para el DSTI? ¿qué %? (con 56% el Escenario A del Excel Alicante se vuelve financiable)
+4. Cita con Ginés: demanda de desahucio lista para el día 31 desde el burofax
+5. Idealista 20 min/día — solo guardar 2 pisos de 80-100k, no actuar
+
+---
+
+TAREA: Modelar San Antonio tras desahucio — alquiler tradicional vs por habitaciones
+ESTADO: pendiente — pedido por José Luis 26/07/2026, aparcado hasta tener llaves
+RESPONSABLE: George
+FECHA_LIMITE: tener modelo listo antes de que acabe el desahucio (sin fecha exacta, 6-10 meses estimados)
+NOTAS: Pedido: vacancia realista por estacionalidad, coste de gestión, impacto en renta computable por el banco, sensibilidad al seguro de impago, conclusión con número. Ver [[../proyectos/plan-financiero-2026/plan-1M-10anos|plan 1M€]] sección 3.
 
 ---
 

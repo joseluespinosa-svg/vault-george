@@ -1,5 +1,5 @@
 # ALERTAS — Sistema inteligente
-_Actualizado: 2026-07-24
+_Actualizado: 2026-07-27
 
 ---
 
@@ -48,15 +48,27 @@ ACCIÓN: Pendiente definir criterios (zona, presupuesto, plazo) — preguntar a 
 
 ---
 
-ALERTA: Examen B2 Catalán — SUSPENDIDO, próximas convocatorias
-TIPO: seguimiento académico
-RESULTADO: No apte (enero 2026) — solo falló expresión escrita (52/100, mínimo 60)
-OPCIONES:
-  1. FUEIB octubre 2026 → inscripción agosto-septiembre → fueib.org (50-80€)
-  2. CAIB enero 2027 → inscripción nov-dic 2026 → caib.es (17€)
-  3. EOI Eivissa mayo 2027 → ~95€ con familia monoparental
-ACCIÓN AGOSTO: Entrar en fueib.org y buscar "examen libre B2 octubre 2026" → inscribirse
-ACCIÓN NOVIEMBRE: Si no hizo FUEIB → inscribirse en CAIB enero 2027 (caib.es)
+ALERTA: Llamar EOI Eivissa ANTES DEL 29/07/2026 ⭐⭐ PLAZO CRÍTICO — 2 DÍAS
+TIPO: plazo administrativo urgente
+TELÉFONO: 971 31 46 22 (secretaría EOI Eivissa)
+QUÉ CONFIRMAR (las dos cosas juntas en la misma llamada):
+  1. Que puede presentarse en septiembre (dice José Luis que si no llama antes del 29/07 cierran esa opción)
+  2. Si la EOI exime las partes ya aprobadas en el examen de enero (que fue del GOIB, no de la EOI) o si tiene que repetir las 4 partes
+  3. Fecha exacta de la prueba escrita de septiembre
+ACCIÓN: recordar a José Luis 28/07/2026 por la mañana que llame. Sin esta llamada, puede perder la única vía de 2026.
+
+---
+
+ALERTA: Examen B2 Català EOI Eivissa — septiembre 2026, ya matriculado ⭐ PRIORIDAD ABSOLUTA
+TIPO: académico + plazo
+RESULTADO REAL (confirmado con notas 27/07/2026 tarde): Comprensió escrita 85/100 ✅, Gramàtica 93,33/100 ✅, Expressió oral 73/100 ✅, Expressió ESCRITA 52/100 ❌ (mínimo aprobado, tribunal revisó y mantuvo nota). Solo suspendió esa parte.
+CONFIRMADO 27/07/2026: convocatoria extraordinaria EOI Eivissa, septiembre 2026, José Luis YA MATRICULADO. En extraordinaria solo repite Expressió Escrita. Única oportunidad 2026.
+(Corrección del mismo día: descartado JQCV 3/10 — matrícula ya cerrada y organismo equivocado, valenciano no balear. Confusión inicial de José Luis, resuelta.)
+Red de seguridad: CAIB enero 2027, inscripción 15-31 octubre 2026, caib.es (17€).
+PENDIENTE: fecha exacta prueba escrita en eoi-eivissa.com (Alumnat → Avaluació → Calendari extraordinària) — no localizada aún.
+ACCIÓN: 80% del tiempo de estudio en expressió escrita, objetivo ≥70/100. Simulacro completo semanal (empezó 27/07 por la tarde). Ver base de datos de errores en el plan.
+ACCIÓN 15 OCTUBRE: recordar inscripción CAIB enero 2027 (cierra 31/10).
+Ver [[../proyectos/objetivo-b2-catalan/plan|plan de estudio B2]].
 
 ---
 
