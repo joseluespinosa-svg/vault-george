@@ -1,5 +1,5 @@
 # ACCIONES — Sistema de ejecución
-_Actualizado: 2026-07-27
+_Actualizado: 2026-07-28
 
 ---
 
@@ -87,11 +87,28 @@ ESTADO: pendiente, sin confirmar ningún punto todavía (26/07/2026)
 RESPONSABLE: Jose Luis
 FECHA_LIMITE: revisar 30/07/2026 (cierre de bucle a 3 días si no hay confirmación)
 NOTAS:
-1. Email al bróker pidiendo FEIN por escrito — PRIORIDAD 1
-2. Encargar tasación oficial San Antonio a 2 tasadoras (~400€)
-3. Llamar a ING: ¿computan renta futura para el DSTI? ¿qué %? (con 56% el Escenario A del Excel Alicante se vuelve financiable)
+1. Email al bróker pidiendo FEIN por escrito — PRIORIDAD 1. George le redactó el texto 28/07/2026, pendiente que José Luis lo envíe.
+2. Encargar tasación oficial San Antonio a 2 tasadoras (~400€) — pendiente que confirme día
+3. Llamar a ING: ¿computan renta futura para el DSTI? ¿qué %? (con 56% el Escenario A del Excel Alicante se vuelve financiable) — pendiente que confirme día
 4. Cita con Ginés: demanda de desahucio lista para el día 31 desde el burofax
 5. Idealista 20 min/día — solo guardar 2 pisos de 80-100k, no actuar
+MÉTODO 28/07/2026: mismo sistema que el catalán — cada tarea con día/hora concreto que José Luis confirma, George revisa esa noche.
+
+---
+
+TAREA: Seguimiento subida salarial convenio metal Baleares (EULEN, categoría ENCARGADO G. Tarifa 04)
+ESTADO: en curso — acuerdo firmado 26/07/2026, pendiente publicación BOIB
+RESPONSABLE: George
+FECHA_LIMITE: revisar cada 1-2 semanas
+NOTAS: Subida 18% en 4 años (5% 2026, 4,5% 2027, 4,5% 2028, 4% 2029). Referencia histórica: el convenio anterior tardó ~3,5 meses entre firma (29/06/2023) y publicación BOIB (14/10/2023).
+28/07/2026: patrón confirmado cruzando 3 nóminas — Gratificación Voluntaria = exactamente 60% del Salario Base en los 3 tramos comprobados (fórmula automática, no importe fijo). Proyección con esto (base+complemento+guardia+gratificación): hoy 2.778,16€/mes → 3.312,93€/mes en 2029 (+535€/mes bruto, +452€/mes neto aprox.).
+Legalmente NO hay protección automática (art. 26.5 ET permite absorción por defecto si el contrato no dice lo contrario, y el suyo es genérico) — pero José Luis decidió NO preguntar a RRHH y esperar a ver qué pasa en la nómina cuando llegue la subida. Decisión suya, respetada. No insistir más en esto — solo revisar su nómina cuando el convenio se publique en BOIB.
+
+**28/07/2026 — José Luis mandó el texto completo del convenio del metal Baleares. Hallazgos:**
+- Art. 7 (Garantías personales): confirma EXPLÍCITAMENTE que "las mejoras voluntarias que tengan actualmente concedidas las empresas podrán ser absorbidas por el aumento de salario". EULEN puede absorber legalmente la Gratificación Voluntaria — confirmado por escrito, no solo por la ley general.
+- Tabla salarial categoría 4.3 (Encargado/Jefe de almacén): base mínima de convenio = 1.243,59€/mes. Su salario base real (1.542,91€) ya está ~299€ por encima de tabla. Por el mismo art. 7, si en cómputo anual ya supera el nivel del convenio, la subida se puede considerar absorbida sin más — legalmente podrían no subirle nada.
+- Festivos que caen en fin de semana: NO hay cláusula en este convenio sobre eso — lo regula el calendario laboral oficial anual (Govern Balear/ayuntamiento), no el convenio del metal.
+- Conclusión realista: el patrón del 60% (ver nómina mayo) sigue jugando a su favor EN LA PRÁCTICA (fórmula automática de nómina), pero el convenio da cobertura legal para no subirle nada. Expectativas ajustadas a la baja.
 
 ---
 

@@ -1,5 +1,5 @@
 # ALERTAS — Sistema inteligente
-_Actualizado: 2026-07-27
+_Actualizado: 2026-07-28
 
 ---
 
@@ -21,15 +21,21 @@ ACCIÓN: Revisar que gasto personal no supere 200€/semana.
 
 ---
 
-ALERTA: Cita PSIQUIATRÍA — Centro de Salud Es Viver ⭐ MUY IMPORTANTE
+~~ALERTA: Cita PSIQUIATRÍA 26/06/2026 (primera visita) — ✅ HECHA~~
+
+---
+
+ALERTA: Cita PSIQUIATRÍA (seguimiento) — Centro de Salud Es Viver ⭐ MUY IMPORTANTE
 TIPO: cita médica CRÍTICA
-FECHA: 2026-06-26 (viernes) a las 08:30h
+FECHA: 21/08/2026 (viernes) a las 13:30h
 LUGAR: Centro de Salud Es Viver
+PACIENTE: JOSE LUIS ESPINOSA SIRVENT — DNI/NIE 48577951L — NHC 12007654 — CIP 38497456509
 PROFESIONAL: Dr. Bozzini, Daniel Alberto (Psiquiatría CCEE HCM)
-TIPO VISITA: EF_2.1 PRIMERA VISITA CEX
+TIPO VISITA: EF_2.3 Sucesivas citadas por especialista (seguimiento tras diagnóstico TDAH y medicación pautada 24-25/07/2026)
 NOTA: Recoger ticket en los pedestales ANTES de ir a la sala de espera
-TELÉFONO CAMBIOS: 971.22.57.22 (L-V 07:00-21:00 / Sáb 07:00-14:00)
-ACCIÓN: ✅ CITA CONFIRMADA — Acudir el viernes 26/06/2026 a las 08:30h sin falta.
+TELÉFONO CAMBIOS/CANCELACIONES: 971.22.57.22 (L-V 07:00-21:00 / Sáb 07:00-14:00)
+TELÉFONO ÁREA DE SALUD IBIZA Y FORMENTERA: 971.39.70.00, extensión 25500
+ACCIÓN: Acudir el viernes 21/08/2026 a las 13:30h. Llevar el registro diario de cómo le sienta el Concerta (ver [[../personal/salud|salud.md]]) para enseñárselo al Dr. Bozzini.
 
 ---
 

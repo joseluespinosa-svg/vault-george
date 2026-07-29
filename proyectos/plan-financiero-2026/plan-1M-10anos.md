@@ -45,6 +45,21 @@ Meta año 3: ~450k patrimonio + SL constituida + historial 4 operaciones.
 ## Regla del mes (julio-agosto 2026)
 **Cero operaciones nuevas hasta tener tasación oficial de San Antonio + FEIN por escrito del bróker.**
 
+## Proyecto — Estrategia inmobiliaria 2026-2036 (28/07/2026)
+José Luis mandó `estrategia-inmobiliaria-2026-2036-brief.md` (mismo directorio): análisis a 5/10/20 años de 6 escenarios. George lo señaló inicialmente (regla del mes, aparcar hasta tasación+FEIN/llaves SA), José Luis insistió en hacerlo YA — construido el mismo día: `ESTRATEGIA_INMOBILIARIA_2026-07-28.xlsx` (6 pestañas: Resumen, Inputs, Escenarios, Proyección 5/10/20a, Legal/Fiscal, Oportunidades).
+
+**Datos confirmados por José Luis 28/07:** reforma SA (1→3 dormitorios) = 3.000€ solo materiales (él pone mano de obra). Sin penalización por dejar el alquiler de Ibiza antes de 2033. Escenario 6 = rehipotecar SA para invertir en Alicante (no vivienda principal — sigue viviendo de alquiler en Ibiza).
+
+**Resultado cash flow mensual, de mejor a peor:**
+- E3 (mudarse a SA + subarrendar Ibiza por habitaciones): **+90€/mes** — el único positivo, y el mejor de los 6.
+- E2 (mudarse a SA, sin alquilar nada): -360€/mes
+- E1 (seguir en Ibiza + alquilar SA tradicional): -667€/mes
+- E4/E5 (seguir en Ibiza + alquilar SA por habitaciones, con o sin contar la reforma): -1.170€/mes
+- E6 (rehipotecar SA → invertir en Alicante): -2.240€/mes
+
+**Hallazgo importante:** alquilar San Antonio por habitaciones (E4) sale PEOR que tradicional (E1) en cash flow — la vacancia (20%) y gestión (15%, porque José Luis no está allí) se comen la renta extra. La reforma de 3.000€ en sí es barata, pero el modelo de habitaciones no compensa operativamente salvo que se reduzcan esos costes de gestión/vacancia.
+E6 confirma lo ya visto esta mañana: la vía Alicante no es viable financieramente ahora mismo.
+
 ## Riesgo #1 identificado por José Luis mismo
 No es de mercado — es cambiar de estrategia cada dos semanas. Cuando aparezcan ideas nuevas, George debe redirigir a la checklist activa en vez de abrir líneas nuevas.
 

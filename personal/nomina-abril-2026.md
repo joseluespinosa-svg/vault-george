@@ -48,3 +48,7 @@ _Guardado: 2026-05-02_
 ## Cálculo anual (14 pagas)
 - Bruto anual: 2.808,47€ × 14 = **39.318,58€**
 - Neto anual aprox.: ~30.700€
+
+## Convenio colectivo — CONFIRMADO 28/07/2026
+Contrato indefinido (16/02/2026), "COPIA BÁSICA" firmada electrónicamente 19/02/2026. Cláusula octava: **"CONVENIO COLECTIVO INDUSTRIAS DEL METAL DE LA PROVINCIA DE BALEARES"**. Confirma que le aplica la subida salarial pactada 26/07/2026 (18% en 4 años, ver [[../cerebro/acciones|acciones]]).
+La copia básica no detalla salario ("retribución total: A CONVENIO", en blanco) ni si la Gratificación Voluntaria (925,82€/mes) es absorbible frente a subidas de convenio — pendiente el contrato completo o anexo salarial para saberlo.

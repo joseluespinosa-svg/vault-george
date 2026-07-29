@@ -50,6 +50,16 @@ _Actualizar cada vez que José Luis mande un texto corregido._
 | 27/07/2026 | "aquesta convocatoria" | Ortografia/interferencia | "aquesta convocatòria" | Falta l'accent obert característic del català ("convocatòria"), calc de l'ortografia castellana |
 | 27/07/2026 | "un mica més de exfors" | Ortografia + elisió | "una mica més d'esforç" | "esforç" amb ç, i elisió obligatòria "de" + vocal → "d'esforç" |
 | 27/07/2026 | Primer intent no seguia el format ni el registre demanat | Adequació | — | Va escriure una reflexió general en lloc d'un correu a un amic explicant "com et va"; no duia capçalera De/Per a/Assumpte |
+| 28/07/2026 | Exercici 2 (ressenya per promocionar el seu propi negoci): va escriure una ressenya d'un restaurant on ha menjat, com a client | Adequació | — | L'enunciat demana promocionar EL SEU PROPI negoci nou, en primera persona com a propietari — no valorar un àpat com a client. Segon cop seguit que el contingut no s'ajusta a l'enunciat |
+| 28/07/2026 | "Tinc que afegir" (repetit, ja apuntat el 27/07) | Interferència del castellà | "He d'afegir" | Mateix error que abans — "tenir que" no és correcte, cal "haver de" |
+| 28/07/2026 | Només 90 paraules (mínim 165) | Longitud | — | Reconegut pel mateix José Luis abans de mandar-ho |
+| 28/07/2026 | "aviu" (×2) | Ortografia | "avui" | Vocal canviada, error d'escriptura repetit |
+| 28/07/2026 | "gustació" | Formació de mots | "degustació" | Falta el prefix "de-" |
+| 28/07/2026 | "me ha encantat" | Interferència del castellà | "m'ha encantat" | Falta l'elisió obligatòria "me" + vocal → "m'ha" |
+| 28/07/2026 | "fagi" | Ortografia (subjuntiu) | "faci" | El subjuntiu de "fer" és "faci", no "fagi" |
+| 28/07/2026 | "no volia repetir perquè me ha encantat" | Coherència | — | Frase contradictòria: si li va encantar, voldria repetir, no el contrari — revisar què volia dir exactament |
+| 28/07/2026 | Repetir "petita valoració" dues vegades seguides | Repertori lèxic/cohesió | — | Redundant, variar el vocabulari en lloc de repetir la mateixa expressió |
+| 28/07/2026 | Última frase ("no mira nest que fagi les coses...aixima") | Coherència | — | No s'entén — reescriure-la més clara |
 
 ## Calendario maestro
 | Fecha | Qué |

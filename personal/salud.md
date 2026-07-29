@@ -16,6 +16,14 @@ Lectura de la hoja manuscrita — confirmar si algo no cuadra:
 
 **Estado:** recién prescrito 25/07/2026, empieza tratamiento. Seguimiento: revisar cómo le sienta el metilfenidato (Concerta), efectos secundarios, adherencia.
 
+### Próxima cita — 21/08/2026, 13:30h
+- Centro de Salud Es Viver, Psiquiatría CCEE HCM, Dr. Bozzini Daniel Alberto
+- Tipo: EF_2.3 Sucesivas citadas por especialista (seguimiento)
+- Teléfono cambios/cancelaciones: 971.22.57.22 (L-V 07:00-21:00, sáb 07:00-14:00)
+- Teléfono Área de Salud Ibiza y Formentera: 971.39.70.00, extensión 25500
+- Recoger ticket en los pedestales antes de sala de espera
+- Llevar: registro diario de cómo le sienta el Concerta (ver tabla abajo)
+
 ### Titulación Concerta — el médico le dijo que autoajuste la dosis
 José Luis no tiene referencia de cómo subir la dosis. George le dio pauta general orientativa (25/07/2026, no es consejo médico, solo información general):
 - Presentaciones Concerta España: 18/27/36/54mg.
@@ -23,3 +31,8 @@ José Luis no tiene referencia de cómo subir la dosis. George le dio pauta gene
 - Máximo habitual adultos ~72mg/día — no subir de ahí sin decírselo al médico.
 - Señales de pasarse (bajar dosis y avisar al médico): ansiedad fuerte, insomnio severo, palpitaciones, pérdida de apetito extrema, irritabilidad.
 - Pendiente: llevar registro día a día de cómo se encuentra (George puede ayudar a llevarlo) para la próxima cita con el médico.
+
+### Registro diario
+| Fecha | Cómo se encuentra |
+|---|---|
+| 28/07/2026 | Más concentración, menos dispersión durante el efecto. **Nuevo, a vigilar:** al acabar el efecto (6-8h), nota más dispersión/rebote que antes de medicarse — ayer conduciendo la moto a 3 sitios se perdió/olvidó a dónde iba. Esto es distinto de las señales de "te has pasado" que ya teníamos (ansiedad, insomnio, taquicardia, sin hambre) — es un efecto rebote al bajar el fármaco, no sobredosis. **Repetir a su médico en la próxima cita — y ojo con conducir moto justo cuando se le pasa el efecto, es un tema de seguridad real, no solo de estudio.**

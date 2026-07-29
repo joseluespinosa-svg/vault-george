@@ -1,10 +1,11 @@
 # Índice — proyectos
-_Generado: 2026-07-27 04:02_
+_Generado: 2026-07-28 04:02_
 
 ## Subcarpetas
 - [[busqueda-vivienda/INDEX|busqueda-vivienda/]]
 - [[estructura-fiscal/INDEX|estructura-fiscal/]]
 - [[maia/INDEX|maia/]]
+- [[objetivo-b2-catalan/INDEX|objetivo-b2-catalan/]]
 - [[plan-financiero-2026/INDEX|plan-financiero-2026/]]
 - [[trabajos/INDEX|trabajos/]]
 
