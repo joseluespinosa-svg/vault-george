@@ -11,8 +11,51 @@ NOTAS: Declarar ingreso alquiler San Antonio. Factura Sacha 1203 ya resuelta.
 
 ---
 
-TAREA: Contactar Sacha para cobrar 240€ pendientes
-ESTADO: completado
+TAREA: Arreglar watchdog limitador.sh (orden de trabajo #2, 29/07/2026)
+ESTADO: completado — verificado con evidencia real, no solo revisión de código
+NOTAS:
+- Fallo A1 (solo revivía si veía "sin tokens" en pantalla): arreglado 29/07 13:55 — añadido chequeo `has-session`, arranca ante cualquier caída.
+- Fallo A2 (llamaba a start-george.sh con guion, el script viejo sin sonnet): arreglado 29/07 13:55 — ahora llama a start_george.sh (guion bajo, con --model sonnet).
+- PRUEBA REAL (Tarea C) ya ocurrió sola: 29/07 13:56 sesión viva → 13:58 sesión caída → limitador.sh detectó y arrancó sola, log confirma "Sesión inexistente → arranque". Sin intervención SSH.
+- Fichero fantasma start-george.sh (con guion): José Luis decidió 30/07 dejarlo muerto ahí, no se borra (congelación 30 días, no se toca nada).
+- 30/07 06:43: sesión "george" se recreó de nuevo sola (vía @reboot o watchdog) sin incidencias.
+30/07/2026: reenviada la orden #2 (el 29/07 se cortó la sesión justo al recibirla) — respondido con este estado, no hace falta repetir la orden.
+
+30/07/2026 06:48 — ORDEN #3 ANULA LA #2 POR COMPLETO: el diagnóstico real era otro (sesión viva, canal Telegram colgado — no crash). limitador.sh restaurado desde backup (vuelve a start-george.sh sin el chequeo has-session). NO se hizo kill-session de prueba. CONGELACIÓN DE INFRAESTRUCTURA 30 días, hasta 30/08/2026: no tocar limitador.sh, start_george.sh, crontab, systemd, ni scripts/mejoras nuevas. Si José Luis pide un cambio de infra en ese plazo → responder "Congelado hasta el 30/08. ¿Qué hay del email FEIN?" y nada más.
+
+Protocolo si George deja de responder (fijado 30/07): tmux kill-session -t george && /root/start_george.sh, esperar 60s, mandar ping. Si no responde, PARAR, no investigar (plugin channels es experimental).
+
+---
+
+TAREA: Orden #4 — Heartbeat de canal + tono duro (30/07/2026, excepción única a la congelación)
+ESTADO: completado, con un aviso importante
+NOTAS:
+- CONFLICTO DETECTADO: la orden pedía crear /root/assistant/scripts/heartbeat.sh, pero ese fichero YA EXISTÍA — es el script del "buenos días" (Gmail+calendario+tareas, cron 8:00 diario). Sobrescribirlo lo habría destruido. Se creó en su lugar /root/assistant/scripts/heartbeat_canal.sh con la misma lógica que pedía la orden.
+- Variables .env: se usaron las que ya existían (BOT_TOKEN, ANTHROPIC_API_KEY) en vez de TELEGRAM_TOKEN; se añadió CHAT_ID=6801069092. Permisos del .env corregidos a 600.
+- Cron: línea nueva "20 * * * * /bin/bash /root/assistant/scripts/heartbeat_canal.sh", ninguna otra tocada.
+- TAREA 1.4 (prueba manual) NO ejecutada por George: esta sesión de George corre DENTRO de la sesión tmux "george" que el script comprobaría. Ejecutarlo desde aquí bloquea el agente 45s mientras espera el marcador HB-, lo que casi seguro da falso "COLGADO" y mata la sesión a mitad — exactamente el riesgo que la propia orden advertía evitar. La prueba real llega sola con el primer disparo de cron (próximo :20) o José Luis puede lanzarlo a mano por SSH.
+- CLAUDE.md actualizado: tono duro y directivo (sección 3), horizonte 1M€/30-07-2031 firme + regla anti-desvío (sección 10, FINANZAS), regla de ignorar mensajes HB- en silencio (sección 2, Telegram).
+
+---
+
+TAREA: Orden #5 — Verificar heartbeat + FEIN pausado + registro de fallos (30/07/2026)
+ESTADO: en curso (esperando disparo de cron :20 para cerrar Tarea 1)
+NOTAS:
+- Tarea 1 (verificar heartbeat): PENDIENTE del primer disparo real a las :20. OJO: la orden dice comprobar /root/assistant/logs/heartbeat.log pero el script real (por la colisión de nombres de la orden #4) es heartbeat_canal.sh y su log es /root/assistant/logs/heartbeat_canal.log. Se comprobará ese. No lanzado a mano (mismo riesgo de siempre: mataría esta sesión).
+- Tarea 2: Email FEIN PAUSADO hasta 30/08/2026. No preguntar, no sacarlo en barridos/cierres. Reabrir el 30/08 con: "Email FEIN, un mes parado. ¿Se manda o se cierra?"
+- Tarea 3: creado /root/vault/sistemas/registro-fallos.md (carpeta "sistemas/" ya existente en minúscula, no "Sistema/" como decía la orden — mismo criterio que con heartbeat.sh, seguir la convención real del vault).
+- Tarea 4: añadido a CLAUDE.md sección 8 (barrido semanal) el informe de 5 líneas del sistema, viernes 19:00.
+- CONGELACIÓN reforzada sin excepciones hasta 30/08/2026. Respuesta fija ante petición de mejora: "Congelado hasta el 30/08. Llevo N fallos registrados. El viernes te doy los datos y decides con hechos. ¿Patrimonio neto hoy?"
+
+---
+
+TAREA: Módulo COACH FINANCIERO añadido a CLAUDE.md (30/07/2026)
+ESTADO: aplicado (comportamiento, no toca infraestructura congelada)
+NOTAS:
+- Añadido a sección 10 (FINANZAS) del CLAUDE.md. Marca: 1.000€/mes ahorro, 3 meses seguidos antes de desbloquear cualquier operación.
+- Creados finanzas/gasto-diario.md y finanzas/excusas.md (carpeta finanzas/ ya existente en minúscula, no "Finanzas/"). gastos-base.md NO creado todavía — se crea cuando lleguen los 5 gastos más grandes, no antes (no inventar datos vacíos).
+- ⚠️ CONTRADICCIÓN DE DATOS detectada, señalada a José Luis: el documento dice ingresos hogar ~5.000€/mes netos (José Luis 37.000 + Karina ~23.000 brutos/año). El vault (finanzas/2026-07.md) tiene CONFIRMADO el 24/07/2026 explícitamente para sustituir cifras contradictorias antiguas: José Luis 2.200€/mes neto + Karina 1.600€/mes neto = 3.800€/mes neto total. Sin resolver — pendiente de que José Luis confirme cuál es el bueno antes de dar por buena la marca de ahorro.
+- Pendiente clave sin resolver (pedido 4 veces según el propio documento): los 5 gastos más grandes de los últimos 30 días.
 RESPONSABLE: Jose Luis
 FECHA_COMPLETADO: 2026-04-21
 NOTAS: Cobro cerrado. Total ~1.400€ cobrado.

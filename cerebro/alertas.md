@@ -54,14 +54,14 @@ ACCIÓN: Pendiente definir criterios (zona, presupuesto, plazo) — preguntar a 
 
 ---
 
-ALERTA: Llamar EOI Eivissa ANTES DEL 29/07/2026 ⭐⭐ PLAZO CRÍTICO — 2 DÍAS
-TIPO: plazo administrativo urgente
+ALERTA: Llamar EOI Eivissa ANTES DEL 29/07/2026 — ✅ HECHO (confirmado por José Luis 29/07/2026 19:00)
+TIPO: plazo administrativo urgente — CERRADO
 TELÉFONO: 971 31 46 22 (secretaría EOI Eivissa)
-QUÉ CONFIRMAR (las dos cosas juntas en la misma llamada):
-  1. Que puede presentarse en septiembre (dice José Luis que si no llama antes del 29/07 cierran esa opción)
-  2. Si la EOI exime las partes ya aprobadas en el examen de enero (que fue del GOIB, no de la EOI) o si tiene que repetir las 4 partes
+QUÉ SE DEBÍA CONFIRMAR EN LA LLAMADA (pendiente traer resultado detallado si lo tiene):
+  1. Que puede presentarse en septiembre
+  2. Si la EOI exime las partes ya aprobadas en el examen de enero (GOIB) o repite las 4 partes
   3. Fecha exacta de la prueba escrita de septiembre
-ACCIÓN: recordar a José Luis 28/07/2026 por la mañana que llame. Sin esta llamada, puede perder la única vía de 2026.
+NOTA: José Luis confirmó "está hecho" (llamada realizada) el 29/07 a las 19:00, pero no detalló las respuestas de los 3 puntos. Si en algún momento hace falta la fecha exacta de la prueba escrita y no está en el vault, preguntarle qué le dijeron.
 
 ---
 
@@ -71,7 +71,7 @@ RESULTADO REAL (confirmado con notas 27/07/2026 tarde): Comprensió escrita 85/1
 CONFIRMADO 27/07/2026: convocatoria extraordinaria EOI Eivissa, septiembre 2026, José Luis YA MATRICULADO. En extraordinaria solo repite Expressió Escrita. Única oportunidad 2026.
 (Corrección del mismo día: descartado JQCV 3/10 — matrícula ya cerrada y organismo equivocado, valenciano no balear. Confusión inicial de José Luis, resuelta.)
 Red de seguridad: CAIB enero 2027, inscripción 15-31 octubre 2026, caib.es (17€).
-PENDIENTE: fecha exacta prueba escrita en eoi-eivissa.com (Alumnat → Avaluació → Calendari extraordinària) — no localizada aún.
+FECHA CONFIRMADA (30/07/2026): prueba escrita 12 de septiembre de 2026. Hilo cerrado.
 ACCIÓN: 80% del tiempo de estudio en expressió escrita, objetivo ≥70/100. Simulacro completo semanal (empezó 27/07 por la tarde). Ver base de datos de errores en el plan.
 ACCIÓN 15 OCTUBRE: recordar inscripción CAIB enero 2027 (cierra 31/10).
 Ver [[../proyectos/objetivo-b2-catalan/plan|plan de estudio B2]].

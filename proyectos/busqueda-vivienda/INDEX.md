@@ -1,5 +1,5 @@
 # Índice — proyectos/busqueda-vivienda
-_Generado: 2026-07-29 04:02_
+_Generado: 2026-07-30 04:01_
 
 ## Notas
 - [[estructura-financiera|ESTRUCTURA FINANCIERA — COMPRA VIVIENDA]]
