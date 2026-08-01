@@ -64,9 +64,10 @@ Bloqueada: el patrimonio neto no cambia (sigue en 291.000€), cuota nueva ~1.25
 ## DATOS QUE FALTAN (pedir uno por día, 21:00, no todos juntos)
 
 1. Cuota mensual de la hipoteca de San Antonio
-2. **Los 5 gastos más grandes de los últimos 30 días, con importe** — pedido ya 5 veces (30/07), sin llegar
+2. ~~Los 5 gastos más grandes de los últimos 30 días~~ — recibido 31/07/2026, ver [[gastos-base|gastos base]]. Reveló deuda de tarjeta pendiente de 2.000€, sin aclarar.
 3. ¿Karina conoce y acepta la marca de los 1.000€/mes?
 4. Años que quedan de hipoteca y tipo de interés
+5. **NUEVO:** aclarar deuda de tarjeta de 2.000€ — ¿de qué es, desde cuándo, hay intereses corriendo?
 
 ---
 

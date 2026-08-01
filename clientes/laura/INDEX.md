@@ -1,5 +1,5 @@
 # Índice — clientes/laura
-_Generado: 2026-07-30 04:01_
+_Generado: 2026-07-31 04:02_
 
 ## Notas
 - [[ficha-laura|Ficha Inquilina — Laura Jane Colclough]]

@@ -1,5 +1,5 @@
 # ACCIONES — Sistema de ejecución
-_Actualizado: 2026-07-28
+_Actualizado: 2026-07-31
 
 ---
 
@@ -160,6 +160,14 @@ ESTADO: pendiente — pedido por José Luis 26/07/2026, aparcado hasta tener lla
 RESPONSABLE: George
 FECHA_LIMITE: tener modelo listo antes de que acabe el desahucio (sin fecha exacta, 6-10 meses estimados)
 NOTAS: Pedido: vacancia realista por estacionalidad, coste de gestión, impacto en renta computable por el banco, sensibilidad al seguro de impago, conclusión con número. Ver [[../proyectos/plan-financiero-2026/plan-1M-10anos|plan 1M€]] sección 3.
+
+---
+
+TAREA: Recordatorio 72h — compra barca/kayak inflable (no planificada)
+ESTADO: pendiente — regla 72h activada
+RESPONSABLE: Jose Luis
+FECHA_LIMITE: revisar 2026-08-03 (72h desde aviso)
+NOTAS: 31/07/2026 12:56-13:30 José Luis mandó fotos de varias barcas/kayak inflables en venta (Wallapop: "Zodiac Zoom 3,10m" 950€ Alberto F.; "Jago semirrígida 2,7m" 700€ Victor P.; kayak Bestway Lite-Rapid X2; más una barca tipo Novurania sin precio visible). No estaba prevista. Aplicada regla 72h (CLAUDE.md sección 10): no dar visto bueno en caliente. Revisar el 03/08/2026 si sigue queriéndola. Contradice además la regla activa del plan 1M€ (cero operaciones nuevas hasta tasación San Antonio + FEIN por escrito) — no es la misma categoría de "operación" pero sí gasto no planificado en medio del plan de ahorro.
 
 ---
 

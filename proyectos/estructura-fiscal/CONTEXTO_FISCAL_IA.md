@@ -1,5 +1,5 @@
 # CONTEXTO FISCAL — Situación José Luis y plan pendiente
-_Generado: 2026-07-12 para uso con IA externa_
+_Generado: 2026-07-12 para uso con IA externa · Actualizado: 2026-07-31_
 
 ---
 
@@ -75,9 +75,15 @@ Razón: José Luis ya es asalariado. Si se da de alta como autónomo en situaci�
 
 ---
 
+## ACTUALIZACIÓN 31/07/2026 — números reales
+- Facturación media estimada por trabajos extra: **~1.000€/mes**
+- Trabajo concreto parado ahora mismo: **900€ + IVA (Pitifred)**, sin poder facturar por este mismo bloqueo
+- Su objeción: la cuota de autónomo (~80€/mes) + gestoría se come el margen si solo hay 1 trabajo/mes de 400-800€. Con ~1.000€/mes de media, la cuenta cambia — pero no está calculada con precisión.
+- Situación salarial fija: sueldo 2.200€ netos/mes, gasto fijo identificado ~3.360€/mes (seguro 360 + alquiler mitad 1.000 + tarjeta 2.000 que incluye luz y comida) → **-1.160€/mes de la parte fija**, por lo que la facturación extra no es opcional, es la diferencia entre cuadrar o no.
+
 ## NOTAS PARA IA EXTERNA
 - José Luis tiene TDAH: pasos simples y concretos, no teoría larga
 - Prioridad: poder facturar el próximo trabajo de vaciado sin riesgo legal
-- Urgencia media — no bloquea operación inmediata pero cada mes sin alta = riesgo acumulado
-- Tiene gestor fiscal (mismo que lleva renta 2025 con Karina): puede hacer el alta él directamente
+- **Urgencia ahora alta** (antes media): hay dinero real parado (900€+IVA), no es un ejercicio teórico
+- Tiene gestor fiscal (mismo que lleva renta 2025 con Karina): puede hacer el alta él directamente — la IA externa puede ayudar a preparar preguntas y entender opciones, pero la alta y la cifra exacta de compensación las tiene que confirmar el gestor, no una IA
 - Idioma: español
