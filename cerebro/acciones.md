@@ -3,6 +3,18 @@ _Actualizado: 2026-07-31
 
 ---
 
+TAREA: HOY 2026-08-01 — 3 tareas del día (barrido no contestado, fijadas por George a petición directa)
+ESTADO: en curso — 2 de 3 cerradas (01/08/2026 17:32)
+RESPONSABLE: Jose Luis
+FECHA_LIMITE: 2026-08-01
+NOTAS:
+1. Publicar reseña Google Hostal Talamanca (texto ya listo) — HECHO (confirmado 01/08 17:32)
+2. Llamar a ING — ¿computan renta futura para el DSTI? — HECHO (confirmado 01/08 17:32, resultado de la llamada sin detallar todavía)
+3. Recurso de reposición multa aeropuerto Ibiza (plazo 14/08, quedan 13 días) — PENDIENTE
+Caen a SEMANA: tasación San Antonio, perfil Google My Business PitiClean/PitiFred, BBVA gastos cancelación hipoteca.
+
+---
+
 TAREA: Llamar al gestor — declaración renta 2025
 ESTADO: pendiente
 RESPONSABLE: Jose Luis
@@ -70,9 +82,9 @@ FECHA_LIMITE: antes de mayo 2026
 ---
 
 TAREA: Publicar reseña Google — Hostal Talamanca
-ESTADO: pendiente
+ESTADO: completado — confirmado 01/08/2026
 RESPONSABLE: Jose Luis
-FECHA_LIMITE: cuando pueda
+FECHA_COMPLETADO: 2026-08-01
 NOTAS: Texto ya preparado. Google Maps → buscar "Hostal Talamanca Ibiza" → 1 estrella.
 
 ---
@@ -132,7 +144,7 @@ FECHA_LIMITE: revisar 30/07/2026 (cierre de bucle a 3 días si no hay confirmaci
 NOTAS:
 1. Email al bróker pidiendo FEIN por escrito — PRIORIDAD 1. George le redactó el texto 28/07/2026, pendiente que José Luis lo envíe.
 2. Encargar tasación oficial San Antonio a 2 tasadoras (~400€) — pendiente que confirme día
-3. Llamar a ING: ¿computan renta futura para el DSTI? ¿qué %? (con 56% el Escenario A del Excel Alicante se vuelve financiable) — pendiente que confirme día
+3. Llamar a ING: ¿computan renta futura para el DSTI? ¿qué %? (con 56% el Escenario A del Excel Alicante se vuelve financiable) — LLAMADA HECHA (confirmado 01/08/2026 17:32), falta que diga el resultado (% computado)
 4. Cita con Ginés: demanda de desahucio lista para el día 31 desde el burofax
 5. Idealista 20 min/día — solo guardar 2 pisos de 80-100k, no actuar
 MÉTODO 28/07/2026: mismo sistema que el catalán — cada tarea con día/hora concreto que José Luis confirma, George revisa esa noche.

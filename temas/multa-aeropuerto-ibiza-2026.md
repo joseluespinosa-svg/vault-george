@@ -30,5 +30,12 @@
 - No pagar los 200€ mientras se recurre (pagar puede interpretarse como conformidad).
 - Si se desestima el recurso de reposición (o pasa 1 mes sin respuesta = silencio negativo), queda abierta la vía contencioso-administrativa (6 meses desde la desestimación presunta).
 
+## 01/08/2026 — Notificación oficial recibida y recurso redactado
+- José Luis mandó el PDF oficial (`20260714_Notificació...48577951L.pdf`, guardado en `temas/notificacion-resolucion-multa-3069-2026.pdf`).
+- Confirma todos los datos: Decreto 2026-3275, boletín 0121505859, DNI 48577951L, agente E040022.
+- **Hallazgo clave**: la "fotografía de denuncia" del expediente (pág. 4 del PDF) NO muestra la señal R-100 — solo se ve un cartel direccional hacia zonas de alquiler de coches (SIXT, GOLDCAR, Europcar, okmobility, Sicily by Car, Hertz) y flecha "P2". Ningún panel R-100 visible ni su ubicación. Refuerza el argumento de falta de acreditación de señalización.
+- Recurso de reposición REDACTADO y generado en PDF: `temas/recurso-reposicion-multa-3069-2026.pdf` (script: `/root/assistant/scripts/generar_recurso_multa.py`). Listo para firmar y presentar.
+- PENDIENTE: José Luis debe presentarlo por sede electrónica (santjosep.sedelectronica.es) antes del 14/08/2026. Solo falta la presentación, el texto ya está.
+
 ## Ver también
 - No confundir con [[../conversaciones/2026-06-19|accidente moto aeropuerto Ibiza JAC-188/26]] — caso distinto (AENA, calzada en mal estado, arbitraje de consumo).
