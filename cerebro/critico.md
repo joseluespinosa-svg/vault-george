@@ -38,6 +38,7 @@ _Actualizado: 2026-07-31
 - Abogado desahucios (consulta 120€, se descuenta si lleva el caso): cita mañana AM en Vara del Rey, Ibiza. **José Luis NO va en persona — asiste Ginés (su amigo, que es abogado) en su lugar.** Advierte que el burofax solo no basta — hace falta MASC previo (obligatorio desde 2023).
 - Abogado para el pleito: **Ginés** (amigo/abogado), cobra 1.000€ por llevarlo — probablemente el mismo Ginés que va a la cita de mañana.
 - **✅ 22/07/2026: burofax/fax de requerimiento ya entregado** (confirmado por José Luis: "lo de Laura ya llegó fax"). Pendiente: esperar plazo de respuesta / pago antes de que Ginés meta el pleito.
+- **02/08/2026 (confirmado por José Luis, repetido — no volver a preguntar el estado, solo la fecha):** la demanda de desahucio está lista desde el burofax. Cuello de botella real de TODO lo demás (tasación San Antonio, FEIN, tratamiento de la operación 1M€): mientras Laura/Susan no salgan del piso, no se puede tasar. La tasación no depende de agendar con las tasadoras, depende de que avance el pleito. Próxima acción útil: preguntar a Ginés fecha estimada de presentación de la demanda, no repetir "¿cómo va?".
 - Ver: [[../clientes/laura/ficha-laura|Ficha Laura]] · [[../temas/laura-contrato|Contrato Laura]]
 
 ## EMPRESA PITICLEAN
@@ -53,7 +54,7 @@ _Actualizado: 2026-07-31
 
 ## GESTORÍA / FISCAL
 - Gestor: contacto para renta 2025 (Jose Luis + Karina)
-- PENDIENTE: declaración renta año 2025 (ambos)
+- ✅ RESUELTO: declaración renta 2025 ya hecha (confirmado 02/08/2026, hecha ~2 meses antes) — devueltos 500€. La entrada "pendiente esta semana" que quedaba en este archivo y en acciones.md era una copia desactualizada (ya estaba marcada resuelta 07/05/2026 en alertas.md y activo.md, no se había limpiado aquí).
 
 ## Ver también
 - [[activo|Estado activo y pendientes]]

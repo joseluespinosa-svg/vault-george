@@ -1,8 +1,9 @@
 # Índice — finanzas
-_Generado: 2026-08-01 04:02_
+_Generado: 2026-08-02 04:02_
 
 ## Notas
 - [[2026-07|Finanzas — Julio 2026]]
+- [[2026-08|Finanzas 2026-08]]
 - [[contexto-base|CONTEXTO FINANCIERO COMPLETO — 30/07/2026]]
 - [[excusas|Excusas registradas]]
 - [[gasto-diario|Gasto diario]]

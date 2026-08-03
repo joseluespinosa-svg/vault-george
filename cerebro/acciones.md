@@ -15,11 +15,23 @@ Caen a SEMANA: tasación San Antonio, perfil Google My Business PitiClean/PitiFr
 
 ---
 
-TAREA: Llamar al gestor — declaración renta 2025
-ESTADO: pendiente
+TAREA: HOY 2026-08-02 — 3 tareas del día (barrido contestado 11:10)
+ESTADO: en curso
 RESPONSABLE: Jose Luis
-FECHA_LIMITE: esta semana (urgente — antes vencimiento renta 2025)
-NOTAS: Declarar ingreso alquiler San Antonio. Factura Sacha 1203 ya resuelta.
+FECHA_LIMITE: 2026-08-02
+NOTAS:
+1. Presentar recurso de reposición multa aeropuerto (plazo 14/08) — PENDIENTE, José Luis dice que lo hace ahora mismo
+2. Llamar a Ginés — fecha real de presentación de la demanda de desahucio (no el estado, ya confirmado 2 veces) — PENDIENTE
+3. Dar el resultado de la llamada a ING sobre % DSTI (llamada hecha 01/08, falta el dato) — PENDIENTE
+Caen a PARKING: barca/kayak (72h hasta mañana, no decidir hoy), Google My Business (aclarar antes contradicción de las llamadas).
+
+---
+
+TAREA: Llamar al gestor — declaración renta 2025
+ESTADO: ✅ completado (confirmado por José Luis 02/08/2026 — hecha ~2 meses antes, devueltos 500€)
+RESPONSABLE: Jose Luis
+FECHA_COMPLETADO: ~junio 2026 (fecha exacta no dada)
+NOTAS: Declarar ingreso alquiler San Antonio. Factura Sacha 1203 ya resuelta. Esta tarea llevaba semanas repitiéndose como pendiente por una entrada desactualizada en critico.md — corregido.
 
 ---
 
@@ -90,10 +102,11 @@ NOTAS: Texto ya preparado. Google Maps → buscar "Hostal Talamanca Ibiza" → 1
 ---
 
 TAREA: Crear perfil Google My Business — PitiClean / PitiFred
-ESTADO: pendiente
+ESTADO: pendiente — pero OJO contradicción (02/08/2026)
 RESPONSABLE: Jose Luis + George
 FECHA_LIMITE: esta semana
 NOTAS: business.google.com — añadir nombre, dirección Ibiza, teléfono. Después generar link de reseña para clientes.
+02/08/2026: José Luis dice que esta semana le están llamando mucho para vaciado de piso pero casi nada para arreglar aires. Si el perfil sigue "pendiente" de crear, no debería estar generando llamadas — sin aclarar. Posible que ya exista un perfil o listado (Google/otro directorio) mal categorizado como vaciados en vez de climatización. Pendiente de que José Luis aclare de dónde vienen esas llamadas antes de dar la tarea por no-empezada.
 
 ---
 
@@ -145,7 +158,7 @@ NOTAS:
 1. Email al bróker pidiendo FEIN por escrito — PRIORIDAD 1. George le redactó el texto 28/07/2026, pendiente que José Luis lo envíe.
 2. Encargar tasación oficial San Antonio a 2 tasadoras (~400€) — pendiente que confirme día
 3. Llamar a ING: ¿computan renta futura para el DSTI? ¿qué %? (con 56% el Escenario A del Excel Alicante se vuelve financiable) — LLAMADA HECHA (confirmado 01/08/2026 17:32), falta que diga el resultado (% computado)
-4. Cita con Ginés: demanda de desahucio lista para el día 31 desde el burofax
+4. Cita con Ginés: demanda de desahucio lista desde el burofax — confirmado otra vez por José Luis 02/08/2026, no volver a preguntar "¿cómo va?". Cuello de botella real de tasación San Antonio y del resto del plan 1M€: sin que Laura/Susan salgan del piso, no se puede tasar. Próxima acción: preguntar a Ginés FECHA de presentación, no el estado.
 5. Idealista 20 min/día — solo guardar 2 pisos de 80-100k, no actuar
 MÉTODO 28/07/2026: mismo sistema que el catalán — cada tarea con día/hora concreto que José Luis confirma, George revisa esa noche.
 
@@ -180,6 +193,8 @@ ESTADO: pendiente — regla 72h activada
 RESPONSABLE: Jose Luis
 FECHA_LIMITE: revisar 2026-08-03 (72h desde aviso)
 NOTAS: 31/07/2026 12:56-13:30 José Luis mandó fotos de varias barcas/kayak inflables en venta (Wallapop: "Zodiac Zoom 3,10m" 950€ Alberto F.; "Jago semirrígida 2,7m" 700€ Victor P.; kayak Bestway Lite-Rapid X2; más una barca tipo Novurania sin precio visible). No estaba prevista. Aplicada regla 72h (CLAUDE.md sección 10): no dar visto bueno en caliente. Revisar el 03/08/2026 si sigue queriéndola. Contradice además la regla activa del plan 1M€ (cero operaciones nuevas hasta tasación San Antonio + FEIN por escrito) — no es la misma categoría de "operación" pero sí gasto no planificado en medio del plan de ahorro.
+
+02/08/2026 11:10 — SEGUIMIENTO: José Luis manda capturas de la misma Zodiac Novurania (3,60m, motor Yamaha), ahora con precio: publicada a 2.000€, chat de Wallapop muestra que ya está negociando activamente — ofreció 1.600€ + un MacBook Pro, el vendedor pide 2.300€ o 1.800€+MacBook. Es decir: está regateando en firme DURANTE el propio periodo de 72h que él mismo tiene pendiente hasta mañana. Además él mismo dice que la quiere PLEGABLE (para meterla en un trastero) y esta no lo es — contradice su propio criterio. No dar visto bueno. Regla 72h sigue en pie hasta 2026-08-03.
 
 ---
 
