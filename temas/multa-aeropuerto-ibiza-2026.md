@@ -37,5 +37,17 @@
 - Recurso de reposición REDACTADO y generado en PDF: `temas/recurso-reposicion-multa-3069-2026.pdf` (script: `/root/assistant/scripts/generar_recurso_multa.py`). Listo para firmar y presentar.
 - PENDIENTE: José Luis debe presentarlo por sede electrónica (santjosep.sedelectronica.es) antes del 14/08/2026. Solo falta la presentación, el texto ya está.
 
+## 03/08/2026 — Pregunta por dónde presentarlo
+- José Luis reenvía el recurso en .docx y pregunta dónde presentar "recurso de alzada". Aclarado: es recurso de REPOSICIÓN (contra acto municipal), no de alzada (eso es para actos de un órgano subordinado a otro superior jerárquico, no aplica aquí).
+- Se le indica presentar por sede electrónica santjosep.sedelectronica.es. Plazo sigue siendo 14/08/2026.
+
+## 03/08/2026 — PRESENTADO ✅ CERRADO
+- Presentado por sede electrónica santjosep.sedelectronica.es, trámite específico "Al·legacions a sancions de trànsit" (SIA 3164216), firmado con Cl@ve.
+- **Nº registro: 2026-E-RE-11977** — fecha/hora autenticación 03/08/2026 15:42. Código validación: 654QAARTLDQMGGAD9YQARFGT6.
+- Adjuntado el PDF `recurso-reposicion-3069-2026` como documentación obligatoria ("Denuncia notificada"). HASH: 2afb5575695acf492326efed1621014a0f091c14.
+- ⚠️ Presentado SIN las 4 fotos de la señal R-100 (Documentos 1 a 4 mencionados en el propio escrito) — José Luis no contestó si las tenía, se presentó sin ellas. El recurso queda válido y en plazo, pero ese argumento concreto se queda sin soporte documental. No se puede deshacer.
+- Dentro de plazo (límite era 14/08/2026, quedaban 11 días).
+- PENDIENTE nuevo: esperar resolución del Ayuntamiento. Si desestiman o pasa 1 mes en silencio negativo, queda abierta vía contencioso-administrativa (6 meses desde desestimación presunta).
+
 ## Ver también
 - No confundir con [[../conversaciones/2026-06-19|accidente moto aeropuerto Ibiza JAC-188/26]] — caso distinto (AENA, calzada en mal estado, arbitraje de consumo).
