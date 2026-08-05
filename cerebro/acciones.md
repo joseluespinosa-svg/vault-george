@@ -16,14 +16,14 @@ Caen a SEMANA: tasación San Antonio, perfil Google My Business PitiClean/PitiFr
 ---
 
 TAREA: HOY 2026-08-02 — 3 tareas del día (barrido contestado 11:10)
-ESTADO: en curso
+ESTADO: 1 de 3 cerrada (multa presentada 03/08), 2 abiertas
 RESPONSABLE: Jose Luis
 FECHA_LIMITE: 2026-08-02
 NOTAS:
-1. Presentar recurso de reposición multa aeropuerto (plazo 14/08) — PENDIENTE, José Luis dice que lo hace ahora mismo
-2. Llamar a Ginés — fecha real de presentación de la demanda de desahucio (no el estado, ya confirmado 2 veces) — PENDIENTE
-3. Dar el resultado de la llamada a ING sobre % DSTI (llamada hecha 01/08, falta el dato) — PENDIENTE
-Caen a PARKING: barca/kayak (72h hasta mañana, no decidir hoy), Google My Business (aclarar antes contradicción de las llamadas).
+1. Presentar recurso de reposición multa aeropuerto (plazo 14/08) — ✅ HECHO 03/08/2026 (registro 2026-E-RE-11977), confirmado de nuevo por audio 04/08
+2. Llamar a Ginés — fecha real de presentación de la demanda de desahucio (no el estado, ya confirmado 2 veces) — EN CURSO: audio 04/08 dice que habló con Ginés pero el dato que da es confuso (menciona "24, 25" sin fecha ni mes claro) y que en agosto los juzgados están cerrados/inactivos, así que no da fecha firme. Sigue sin fecha exacta y por escrito.
+3. Dar el resultado de la llamada a ING sobre % DSTI (llamada hecha 01/08, falta el dato) — PENDIENTE, no mencionado en audio 04/08
+Caen a PARKING: barca/kayak (72h vencida 03/08 sin decisión, ver entrada de barca), Google My Business (aclarar antes contradicción de las llamadas).
 
 ---
 
@@ -195,6 +195,8 @@ FECHA_LIMITE: revisar 2026-08-03 (72h desde aviso)
 NOTAS: 31/07/2026 12:56-13:30 José Luis mandó fotos de varias barcas/kayak inflables en venta (Wallapop: "Zodiac Zoom 3,10m" 950€ Alberto F.; "Jago semirrígida 2,7m" 700€ Victor P.; kayak Bestway Lite-Rapid X2; más una barca tipo Novurania sin precio visible). No estaba prevista. Aplicada regla 72h (CLAUDE.md sección 10): no dar visto bueno en caliente. Revisar el 03/08/2026 si sigue queriéndola. Contradice además la regla activa del plan 1M€ (cero operaciones nuevas hasta tasación San Antonio + FEIN por escrito) — no es la misma categoría de "operación" pero sí gasto no planificado en medio del plan de ahorro.
 
 02/08/2026 11:10 — SEGUIMIENTO: José Luis manda capturas de la misma Zodiac Novurania (3,60m, motor Yamaha), ahora con precio: publicada a 2.000€, chat de Wallapop muestra que ya está negociando activamente — ofreció 1.600€ + un MacBook Pro, el vendedor pide 2.300€ o 1.800€+MacBook. Es decir: está regateando en firme DURANTE el propio periodo de 72h que él mismo tiene pendiente hasta mañana. Además él mismo dice que la quiere PLEGABLE (para meterla en un trastero) y esta no lo es — contradice su propio criterio. No dar visto bueno. Regla 72h sigue en pie hasta 2026-08-03.
+
+04/08/2026 08:54 — SEGUIMIENTO (audio, transcripción imperfecta): la regla 72h venció ayer 03/08 sin que él confirmara si sigue queriéndola o no. Menciona ahora dos opciones sin cerrar ("una de ~500€" y "una semirrígida de ~1000€") — cifras y modelos no coinciden con los de las capturas anteriores (Jago 700€, Zodiac 950€/2.000€), no fiable el detalle por audio. Sigue sin decidir. Pedida confirmación explícita: comprar sí/no y cuál.
 
 ---
 

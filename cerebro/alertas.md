@@ -88,11 +88,7 @@ ACCIÓN: Acudir a la audiencia de arbitraje. Expediente JAC-188/26.
 
 ---
 
-ALERTA: Multa Aeropuerto Ibiza — recurso de reposición ⭐ PLAZO CORTO
-TIPO: plazo legal
-FECHA LÍMITE: 2026-08-14 (recurso de reposición) · 2026-09-14 (contencioso directo, necesita abogado)
-EXPEDIENTE: 3069/2026 — 200€ — señal R-100 aeropuerto, cámara ANPR
-ACCIÓN: Preparar y presentar recurso de reposición antes del 14/08/2026. No pagar los 200€ mientras se recurre. Ver [[../temas/multa-aeropuerto-ibiza-2026|ficha completa]].
+~~ALERTA: Multa Aeropuerto Ibiza — recurso de reposición — ✅ PRESENTADO 03/08/2026 (nº registro 2026-E-RE-11977), CERRADO. Queda pendiente la resolución del Ayuntamiento (sin plazo activo por ahora). Ver [[../temas/multa-aeropuerto-ibiza-2026|ficha completa]].~~
 
 ---
 
