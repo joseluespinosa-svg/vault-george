@@ -42,6 +42,9 @@ Meta año 3: ~450k patrimonio + SL constituida + historial 4 operaciones.
 - ❌ Cuota conjunta 2.000€/mes → ningún banco la firma con 3.800€ combinados.
 - ⏸️ San Antonio: tradicional vs habitaciones → aparcado hasta tener llaves (desahucio en curso).
 
+## Confirmación bancaria (05/08/2026)
+ING confirma **230.000€** de rehipoteca — coincide exacto con el supuesto de este plan (línea "Punto de partida"). Pendiente aclarar con José Luis: ¿cifra en firme (renta San Antonio ya computada) o simulación preliminar? ¿Condicionada a que Laura salga, o vale con el contrato de alquiler actual?
+
 ## Regla del mes (julio-agosto 2026)
 **Cero operaciones nuevas hasta tener tasación oficial de San Antonio + FEIN por escrito del bróker.**
 

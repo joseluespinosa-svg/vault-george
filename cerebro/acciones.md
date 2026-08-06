@@ -21,8 +21,10 @@ RESPONSABLE: Jose Luis
 FECHA_LIMITE: 2026-08-02
 NOTAS:
 1. Presentar recurso de reposición multa aeropuerto (plazo 14/08) — ✅ HECHO 03/08/2026 (registro 2026-E-RE-11977), confirmado de nuevo por audio 04/08
-2. Llamar a Ginés — fecha real de presentación de la demanda de desahucio (no el estado, ya confirmado 2 veces) — EN CURSO: audio 04/08 dice que habló con Ginés pero el dato que da es confuso (menciona "24, 25" sin fecha ni mes claro) y que en agosto los juzgados están cerrados/inactivos, así que no da fecha firme. Sigue sin fecha exacta y por escrito.
-3. Dar el resultado de la llamada a ING sobre % DSTI (llamada hecha 01/08, falta el dato) — PENDIENTE, no mencionado en audio 04/08
+2. Llamar a Ginés — fecha real de presentación de la demanda de desahucio (no el estado, ya confirmado 2 veces) — EN CURSO: audio 04/08 y texto 05/08 (mismo dato, ahora confirmado por escrito a petición de George) — "24, 25" sin mes claro, agosto los juzgados parados/inactivos. Sigue sin fecha exacta ni firme. No repetir pregunta de estado, solo pedir fecha cuando la tenga.
+3. Dar el resultado de la llamada a ING — ✅ CONTESTADO 05/08/2026 22:03, tras esquivarlo 4 veces: **ING da 230.000€**. Coincide EXACTO con el supuesto ya usado en `plan-1M-10anos.md` (rehipoteca a 230k → libera ~165k de liquidez para el Flip 1) — confirma el número, no lo cambia. Pendiente aclarar: si es cifra en firme (con renta San Antonio ya computada) o simulación preliminar, y si depende de que Laura salga o vale ya con el contrato de alquiler actual.
+
+⚠️ INCOHERENCIA DETECTADA 05/08: `plan-1M-10anos.md` está redactado a 10 años (vía rápida 5-7), pero el horizonte firme de CLAUDE.md es 5 años (30/07/2031). El ritmo de flips escrito no cuadra con el plazo firme. Revisar en barrido semanal viernes 07/08 — ajustar el plan al plazo real o renegociar el plazo (CLAUDE.md dice que NO se renegocia a la baja, así que lo que hay que ajustar es el ritmo/escala del plan, no la fecha).
 Caen a PARKING: barca/kayak (72h vencida 03/08 sin decisión, ver entrada de barca), Google My Business (aclarar antes contradicción de las llamadas).
 
 ---
@@ -77,9 +79,9 @@ TAREA: Módulo COACH FINANCIERO añadido a CLAUDE.md (30/07/2026)
 ESTADO: aplicado (comportamiento, no toca infraestructura congelada)
 NOTAS:
 - Añadido a sección 10 (FINANZAS) del CLAUDE.md. Marca: 1.000€/mes ahorro, 3 meses seguidos antes de desbloquear cualquier operación.
-- Creados finanzas/gasto-diario.md y finanzas/excusas.md (carpeta finanzas/ ya existente en minúscula, no "Finanzas/"). gastos-base.md NO creado todavía — se crea cuando lleguen los 5 gastos más grandes, no antes (no inventar datos vacíos).
-- ⚠️ CONTRADICCIÓN DE DATOS detectada, señalada a José Luis: el documento dice ingresos hogar ~5.000€/mes netos (José Luis 37.000 + Karina ~23.000 brutos/año). El vault (finanzas/2026-07.md) tiene CONFIRMADO el 24/07/2026 explícitamente para sustituir cifras contradictorias antiguas: José Luis 2.200€/mes neto + Karina 1.600€/mes neto = 3.800€/mes neto total. Sin resolver — pendiente de que José Luis confirme cuál es el bueno antes de dar por buena la marca de ahorro.
-- Pendiente clave sin resolver (pedido 4 veces según el propio documento): los 5 gastos más grandes de los últimos 30 días.
+- Creados finanzas/gasto-diario.md y finanzas/excusas.md (carpeta finanzas/ ya existente en minúscula, no "Finanzas/").
+- ✅ gastos-base.md RECIBIDO 31/07/2026 18:30 y ya creado — ver `finanzas/gastos-base.md`. Total gasto identificado (su parte): 3.360€/mes (seguro 360 + alquiler 1.000 + tarjeta 2.000, esta última ya incluye luz/comida). Contra 2.200€/mes de sueldo fijo: **-1.160€/mes en rojo**. NO volver a pedir este dato — está cerrado. (05/08/2026: George lo pidió por error en el barrido matutino pese a estar ya recibido — corregido, no repetir.)
+- ⚠️ CONTRADICCIÓN DE DATOS sin resolver: el documento original decía ingresos hogar ~5.000€/mes netos (José Luis 37.000 + Karina ~23.000 brutos/año). El vault (finanzas/2026-07.md) tiene CONFIRMADO el 24/07/2026: José Luis 2.200€/mes neto + Karina 1.600€/mes neto = 3.800€/mes neto total hogar. Pendiente que José Luis confirme cuál es la buena — sin esto no se sabe si el déficit de -1.160€ individual se compensa con el hogar conjunto o no. Repreguntado 05/08.
 RESPONSABLE: Jose Luis
 FECHA_COMPLETADO: 2026-04-21
 NOTAS: Cobro cerrado. Total ~1.400€ cobrado.
@@ -189,7 +191,7 @@ NOTAS: Pedido: vacancia realista por estacionalidad, coste de gestión, impacto 
 ---
 
 TAREA: Recordatorio 72h — compra barca/kayak inflable (no planificada)
-ESTADO: pendiente — regla 72h activada
+ESTADO: ✅ CERRADO — NO SE COMPRA (decidido por George 05/08/2026, José Luis dijo "no sé qué hacer" tras vencer las 72h; motivo: regla 72h vencida + números rojos -1.160€/mes + regla del mes plan 1M€. No reabrir salvo que José Luis lo traiga con datos nuevos y decisión firme propia.)
 RESPONSABLE: Jose Luis
 FECHA_LIMITE: revisar 2026-08-03 (72h desde aviso)
 NOTAS: 31/07/2026 12:56-13:30 José Luis mandó fotos de varias barcas/kayak inflables en venta (Wallapop: "Zodiac Zoom 3,10m" 950€ Alberto F.; "Jago semirrígida 2,7m" 700€ Victor P.; kayak Bestway Lite-Rapid X2; más una barca tipo Novurania sin precio visible). No estaba prevista. Aplicada regla 72h (CLAUDE.md sección 10): no dar visto bueno en caliente. Revisar el 03/08/2026 si sigue queriéndola. Contradice además la regla activa del plan 1M€ (cero operaciones nuevas hasta tasación San Antonio + FEIN por escrito) — no es la misma categoría de "operación" pero sí gasto no planificado en medio del plan de ahorro.
