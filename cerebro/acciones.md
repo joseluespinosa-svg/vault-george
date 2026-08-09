@@ -1,5 +1,5 @@
 # ACCIONES — Sistema de ejecución
-_Actualizado: 2026-08-03
+_Actualizado: 2026-08-08
 
 ---
 
