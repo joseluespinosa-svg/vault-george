@@ -109,6 +109,7 @@ RESPONSABLE: Jose Luis + George
 FECHA_LIMITE: esta semana
 NOTAS: business.google.com — añadir nombre, dirección Ibiza, teléfono. Después generar link de reseña para clientes.
 02/08/2026: José Luis dice que esta semana le están llamando mucho para vaciado de piso pero casi nada para arreglar aires. Si el perfil sigue "pendiente" de crear, no debería estar generando llamadas — sin aclarar. Posible que ya exista un perfil o listado (Google/otro directorio) mal categorizado como vaciados en vez de climatización. Pendiente de que José Luis aclare de dónde vienen esas llamadas antes de dar la tarea por no-empezada.
+09/08/2026: sigue sin aclarar el origen de las llamadas. Añade motivo de fondo: no quiere darse de alta como autónomo (miedo a Hacienda, impuestos, multas), prefiere facturar trabajos puntuales "en B" en vez de montar algo formal ("en A"). Pide ayuda para estudiar cómo hacerlo. Ver decisión en `decisiones.md` 09/08/2026 — pendiente de estudio conjunto, no resuelto. Esto es la razón real de por qué no hay vía de facturación desde que cayó lo del primo Miguel (24/07).
 
 ---
 
@@ -125,6 +126,7 @@ ESTADO: en curso
 RESPONSABLE: Jose Luis
 FECHA_LIMITE: 2026-07-22
 NOTAS: Teléfono directo Es Viver: 971 39 16 32 (dato dado por José Luis 22/07). Tel general cambios: 971.22.57.22. Aún sin fecha confirmada de la próxima cita — pendiente resultado de la llamada.
+09/08/2026: la cita de seguimiento ya está confirmada para el 21/08 13:30 (ver alertas.md), pero José Luis dice que probablemente no tenga permiso del trabajo para esa hora — riesgo de tener que cambiarla. Quedan 12 días. Acción: llamar al 971 22 57 22 para resolver el permiso o mover la cita.
 
 ---
 
@@ -141,6 +143,7 @@ ESTADO: pendiente
 RESPONSABLE: Jose Luis
 FECHA_LIMITE: sin definir
 NOTAS: José Luis tiene pendiente un abogado para reclamar a BBVA los gastos de cancelación de una hipoteca. Faltan datos: nombre del abogado, importe reclamado, fecha de cancelación — pendiente de que José Luis los aporte.
+09/08/2026: dice "eso está en marcha" — sin aportar ninguno de los datos que faltaban. No cerrar la tarea, solo anotar que según él ya está en curso.
 
 ---
 
@@ -161,6 +164,7 @@ NOTAS:
 2. Encargar tasación oficial San Antonio a 2 tasadoras (~400€) — pendiente que confirme día
 3. Llamar a ING: ¿computan renta futura para el DSTI? ¿qué %? (con 56% el Escenario A del Excel Alicante se vuelve financiable) — LLAMADA HECHA (confirmado 01/08/2026 17:32), falta que diga el resultado (% computado)
 4. Cita con Ginés: demanda de desahucio lista desde el burofax — confirmado otra vez por José Luis 02/08/2026, no volver a preguntar "¿cómo va?". Cuello de botella real de tasación San Antonio y del resto del plan 1M€: sin que Laura/Susan salgan del piso, no se puede tasar. Próxima acción: preguntar a Ginés FECHA de presentación, no el estado.
+09/08/2026: repite el mismo dato de siempre ("24, 25" sin mes claro) + razona que si es agosto los juzgados están parados, así que en la práctica no se presenta hasta septiembre. Sin fecha exacta todavía — van 7 días sin novedad real desde el 02/08. Sigue siendo el cuello de botella de ING, tasación y apalancamiento para subastas.
 5. Idealista 20 min/día — solo guardar 2 pisos de 80-100k, no actuar
 MÉTODO 28/07/2026: mismo sistema que el catalán — cada tarea con día/hora concreto que José Luis confirma, George revisa esa noche.
 
@@ -187,6 +191,7 @@ ESTADO: pendiente — pedido por José Luis 26/07/2026, aparcado hasta tener lla
 RESPONSABLE: George
 FECHA_LIMITE: tener modelo listo antes de que acabe el desahucio (sin fecha exacta, 6-10 meses estimados)
 NOTAS: Pedido: vacancia realista por estacionalidad, coste de gestión, impacto en renta computable por el banco, sensibilidad al seguro de impago, conclusión con número. Ver [[../proyectos/plan-financiero-2026/plan-1M-10anos|plan 1M€]] sección 3.
+09/08/2026: José Luis añade plan y preferencias, sigue aparcado hasta llaves: (1) quedarse unos meses viviendo en San Antonio tras el desahucio para ahorrar antes de mover ficha con ING; (2) buscar plaza de parking para los coches; (3) dividir la habitación principal en dos habitaciones pequeñas y pasar la cocina-comedor a dormitorio de matrimonio. Meter esto en el modelo cuando se pueda empezar.
 
 ---
 

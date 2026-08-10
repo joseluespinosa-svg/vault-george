@@ -36,6 +36,7 @@ NOTA: Recoger ticket en los pedestales ANTES de ir a la sala de espera
 TELÉFONO CAMBIOS/CANCELACIONES: 971.22.57.22 (L-V 07:00-21:00 / Sáb 07:00-14:00)
 TELÉFONO ÁREA DE SALUD IBIZA Y FORMENTERA: 971.39.70.00, extensión 25500
 ACCIÓN: Acudir el viernes 21/08/2026 a las 13:30h. Llevar el registro diario de cómo le sienta el Concerta (ver [[../personal/salud|salud.md]]) para enseñárselo al Dr. Bozzini.
+09/08/2026: José Luis avisa de que probablemente no tenga permiso del trabajo para esa hora — riesgo de tener que cambiar la cita. Quedan 12 días. ACCIÓN HOY: llamar al 971.22.57.22 y resolver (permiso o cambio de cita).
 
 ---
 
