@@ -81,6 +81,10 @@ Razón: José Luis ya es asalariado. Si se da de alta como autónomo en situaci�
 - Su objeción: la cuota de autónomo (~80€/mes) + gestoría se come el margen si solo hay 1 trabajo/mes de 400-800€. Con ~1.000€/mes de media, la cuenta cambia — pero no está calculada con precisión.
 - Situación salarial fija: sueldo 2.200€ netos/mes, gasto fijo identificado ~3.360€/mes (seguro 360 + alquiler mitad 1.000 + tarjeta 2.000 que incluye luz y comida) → **-1.160€/mes de la parte fija**, por lo que la facturación extra no es opcional, es la diferencia entre cuadrar o no.
 
+## DECISIÓN FINAL — 11/08/2026
+José Luis decide **NO darse de alta como autónomo**. Motivo dado: solo ~1 trabajo/mes (~1.000€), no compensa cuota + gestoría. Cierra la pregunta abierta (era la 2ª vez que se le preguntaba sin decidir).
+**Sin resolver:** sigue sin vía de facturación (primo Miguel ya no activa). El déficit de -1.160€/mes de la parte fija sigue sin cubrirse formalmente — pendiente decidir cómo cobra esos trabajos si no es por factura.
+
 ## NOTAS PARA IA EXTERNA
 - José Luis tiene TDAH: pasos simples y concretos, no teoría larga
 - Prioridad: poder facturar el próximo trabajo de vaciado sin riesgo legal

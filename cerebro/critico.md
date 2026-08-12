@@ -1,7 +1,16 @@
 # CRÍTICO — Dinero, clientes, decisiones importantes
-_Actualizado: 2026-08-08
+_Actualizado: 2026-08-11
 
 ## DINERO
+
+### Ingresos reales del hogar — ACLARADO 11/08/2026
+- Real actual: **3.800€/mes neto** (2.200€ José Luis + 1.600€ Karina). El piso San Antonio NO suma porque Laura/Susan no están pagando (impago, desahucio en curso).
+- El documento viejo con 5.000€/mes asumía el alquiler de San Antonio cobrándose. Si Laura/Susan pagaran, serían ~5.000€/mes.
+- Contradicción abierta desde 09/08 → CERRADA. Base real para el déficit de -1.160€/mes: 3.800€, no 5.000€.
+
+### Alta como autónomo — DECIDIDO NO, 11/08/2026
+- José Luis decide NO darse de alta como autónomo. Motivo: solo ~1 trabajo extra/mes (~1.000€), no compensa cuota autónomo + gestoría.
+- Consecuencia sin resolver: sigue sin vía de facturación (primo Miguel ya no activa desde 24/07). Los ~1.000€/mes de trabajos de clima (Maia/Pitifred) siguen sin poder cobrarse formalmente. El déficit de -1.160€/mes de la parte fija no se cubre con esto.
 
 ### Trabajo Sacha Formentera — COMPLETADO 18/04/2026
 - Presupuesto 1203: 1.399,97€ IVA incl. (base: 1.157€)
@@ -38,7 +47,9 @@ _Actualizado: 2026-08-08
 - Abogado desahucios (consulta 120€, se descuenta si lleva el caso): cita mañana AM en Vara del Rey, Ibiza. **José Luis NO va en persona — asiste Ginés (su amigo, que es abogado) en su lugar.** Advierte que el burofax solo no basta — hace falta MASC previo (obligatorio desde 2023).
 - Abogado para el pleito: **Ginés** (amigo/abogado), cobra 1.000€ por llevarlo — probablemente el mismo Ginés que va a la cita de mañana.
 - **✅ 22/07/2026: burofax/fax de requerimiento ya entregado** (confirmado por José Luis: "lo de Laura ya llegó fax"). Pendiente: esperar plazo de respuesta / pago antes de que Ginés meta el pleito.
+- **11/08/2026: justificante oficial del burofax recibido por foto (documento probatorio para Ginés).** Ref. envío CST287355_4224690_4243204. Destinatario: Susan Elisabeth Colclough. Envío realizado viernes 17/07/2026 12:57h. Estado: **Entregado** el 20/07/2026 15:29h. (Nota: la fecha real de entrega según el justificante es 20/07, no 22/07 como se dijo verbalmente — usar esta fecha documental para el pleito). Guardar/enviar este justificante a Ginés si no lo tiene.
 - **02/08/2026 (confirmado por José Luis, repetido — no volver a preguntar el estado, solo la fecha):** la demanda de desahucio está lista desde el burofax. Cuello de botella real de TODO lo demás (tasación San Antonio, FEIN, tratamiento de la operación 1M€): mientras Laura/Susan no salgan del piso, no se puede tasar. La tasación no depende de agendar con las tasadoras, depende de que avance el pleito. Próxima acción útil: preguntar a Ginés fecha estimada de presentación de la demanda, no repetir "¿cómo va?".
+- **11/08/2026: COMPROMISO — José Luis dice que va a llamar a Ginés hoy para pedir la fecha EXACTA de presentación de la demanda.** Lleva más de una semana sin dato claro (desde 02/08, 9 días). Comprobar en 3 días (14/08) si lo cerró; si no, recordar UNA vez. También dice que le acaba de pasar (reenviar) el justificante del burofax a Ginés, como si Ginés no lo tuviera.
 - Ver: [[../clientes/laura/ficha-laura|Ficha Laura]] · [[../temas/laura-contrato|Contrato Laura]]
 
 ## EMPRESA PITICLEAN
