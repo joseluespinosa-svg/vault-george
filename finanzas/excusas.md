@@ -6,3 +6,5 @@ Sin discutir, solo registrar con fecha. Se revisan al tercer mes.
 
 - **31/07/2026 18:25** — Pedido de los 5 gastos más grandes (30 días) van ya 6+ veces. Respondió "Aquí está puesto" sin adjuntar nada, luego "Te dicho dos veces ya" al señalárselo. Verificado en vault (`contexto-base.md`, conversaciones 30-31/07): el dato nunca llegó, ni en texto ni en documento.
 
+
+- **2026-08-12 06:41** — Segunda vez en 2 días esquivando la revisión financiera con petición de mejorar el sistema. Ayer (11/08) pidió generar herramientas (script gastos, auditoría crons, analizador patrones) en vez de dar el desglose de 500€ pedido. Hoy, en el cierre de día, a la pregunta "qué te descarriló" contesta "ayúdame con más cosas que mejoren resultados" sin dar patrimonio neto ni gasto diario.
