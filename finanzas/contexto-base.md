@@ -10,12 +10,16 @@
 | Concepto | Importe |
 |---|---|
 | Piso San Antonio (valoración) | 350.000 € |
-| Hipoteca pendiente | −59.000 € |
-| Líquido (cuenta) | 3.000 € |
+| Hipoteca pendiente | −59.817 € (verificado extracto, 13/08/2026) |
+| Líquido (cuenta) | 3.000 € (sin reconfirmar desde 30/07) |
 | Otras deudas | 0 € |
-| **PATRIMONIO NETO** | **291.000 €** |
+| **PATRIMONIO NETO** | **293.183 €** (actualizado 13/08/2026, antes 291.000 €) |
 
 **Objetivo: 1.000.000 € para el 30/07/2031.** Faltan 709.000 € → 142.000 €/año → **28% anual compuesto**. Referencia: ladrillo Ibiza ~10%, bolsa ~8%. El objetivo triplica el mercado.
+
+> ⚠️ ACTUALIZACIÓN 13/08/2026 06:28 (no verificada): respondió a la pregunta de patrimonio neto con "casa 350.000€, quedan 50.000€ por pagar" → 300.000€. No cuadra con la cifra oficial (291.000€, 30/07): ahí la hipoteca pendiente era 59.000€ y sumaba 3.000€ de líquido en cuenta. Diferencia de 9.000€ en la hipoteca sin explicar (¿amortización real o solo "de memoria"?) y no menciona el líquido. Dato de memoria, no de extracto — se guarda como reportado, NO sustituye la cifra oficial hasta que confirme con el extracto real del banco.
+>
+> ✅ CONFIRMADO 13/08/2026 06:33 (extracto banco): hipoteca pendiente real **59.817€** — cuadra con la cifra oficial del 30/07 (59.000€, redondeada), no con el "50.000€" que había dicho de memoria. Patrimonio neto recalculado: 350.000 (casa) − 59.817 (hipoteca) + 3.000 (líquido, sin reconfirmar hoy) = **293.183€**. Pasa a ser la cifra oficial en sustitución de 291.000€.
 
 ---
 

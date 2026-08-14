@@ -1,0 +1,33 @@
+# Desglose tarjeta — agosto 2026
+
+_Recibido por Telegram 13/08/2026 06:56, de memoria (no del extracto del banco — pasos 1-2 pedidos no se hicieron literalmente, dio los importes a bulto)._
+
+| Concepto | Importe | Categoría |
+|---|---|---|
+| Mercadona | 104 € | Comida |
+| Lidl | 27 € | Comida |
+| Tomar algo (cerca de casa) | 14 € | Ocio |
+| Parque | 30 € | Ocio |
+| Eroski | **sin importe** — dictado junto a "Ryanair", sin separar | Comida (probable) |
+| Ryanair | 120 € | Viaje |
+| Juguetería (niño) | 29 € | Niño |
+| Pantastic (café y panes, Ibiza) | 41 € | Comida/ocio |
+| Gasolina | 120 € | Coche |
+| Ropa | 70 € | Ropa |
+| **TOTAL IDENTIFICADO** | **555 €** | (sin contar Eroski) |
+
+## Comparación con el dato de referencia
+- Deuda de tarjeta reportada (`gastos-base.md`, 31/07): **2.000 €/mes**.
+- Identificado hasta ahora: **555 €** → **28%** del total. Falta explicar **~1.445 €**.
+- Pendiente: Eroski sin importe (preguntado 06:56, aún sin responder). Y sigue sin abrir el extracto real de la app — esto es memoria, no movimientos verificados.
+
+## ⚠️ CONTRADICCIÓN — deuda arrastrada
+- 07:00 dice: "800€ del mes pasado arrastro" (deuda de tarjeta arrastrada de julio).
+- Esto CONTRADICE lo ya confirmado el 31/07/2026 en `gastos-base.md`: "NO es deuda arrastrada, es compro y pago — gasto normal del período."
+- Si de verdad hay 800€ arrastrados, es peor de lo que se pensaba: no es solo gasto sin controlar, es deuda rodando de un mes a otro (posibles intereses). Sin aclarar si es aplazado/revolving (con intereses) o simplemente algo que no se había contado.
+- Pendiente: aclarar directamente. Relacionado con el dato que ya faltaba en `contexto-base.md` (punto 5: "¿hay intereses corriendo?").
+
+## Siguiente paso
+- Aclarar importe de Eroski.
+- Aclarar la contradicción de los 800€ arrastrados (¿aplazado con intereses o no?). Respuesta 07:03 confusa: dijo "son a plazos con inter[eses]... no eso lo pago" en la misma frase — se contradice él mismo, no cuenta como aclarado. Sigue pendiente una respuesta limpia sí/no.
+- Idealmente abrir la app y sacar el resto de movimientos de los últimos 30 días — memoria por sí sola no llega ni a una quinta parte del total.

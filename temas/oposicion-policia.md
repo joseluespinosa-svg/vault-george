@@ -7,6 +7,7 @@
 ## Pendientes
 - [ ] Mantener estudio regular (mínimo 15 min/día)
 - [ ] Confirmar convocatoria y fecha límite
+- [ ] Antecedentes penales: mencionado 13/08/2026 por Telegram, mensaje confuso — dice que "tiene que quitárselos" si aún no ha pagado algo. Sin aclarar: ¿tiene antecedentes que cancelar, es un trámite de pago pendiente, o es prevención de cara a la oposición? Sin ese dato no se puede seguir. Pendiente que lo aclare.
 
 ## Notas
 - Recordatorio en mejora_diaria.sh (rotación de consejos)
