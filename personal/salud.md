@@ -16,7 +16,10 @@ Lectura de la hoja manuscrita — confirmar si algo no cuadra:
 
 **Estado:** recién prescrito 25/07/2026, empieza tratamiento. Seguimiento: revisar cómo le sienta el metilfenidato (Concerta), efectos secundarios, adherencia.
 
-### Próxima cita — 21/08/2026, 13:30h
+### Cita 21/08/2026 13:30 — MOVIDA a lunes 24/08/2026 13:30
+- Aclarado 21/08/2026 21:21 (tras confusión por mensajes perdidos en el canal, ver registro-fallos.md): la cita se movió, no se sabe si fue por el tema de permiso del curro mencionado el 09/08.
+
+### Próxima cita — 24/08/2026 (lunes), 13:30h
 - Centro de Salud Es Viver, Psiquiatría CCEE HCM, Dr. Bozzini Daniel Alberto
 - Tipo: EF_2.3 Sucesivas citadas por especialista (seguimiento)
 - Teléfono cambios/cancelaciones: 971.22.57.22 (L-V 07:00-21:00, sáb 07:00-14:00)
