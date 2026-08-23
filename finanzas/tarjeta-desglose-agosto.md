@@ -31,3 +31,9 @@ _Recibido por Telegram 13/08/2026 06:56, de memoria (no del extracto del banco �
 - Aclarar importe de Eroski.
 - Aclarar la contradicción de los 800€ arrastrados (¿aplazado con intereses o no?). Respuesta 07:03 confusa: dijo "son a plazos con inter[eses]... no eso lo pago" en la misma frase — se contradice él mismo, no cuenta como aclarado. Sigue pendiente una respuesta limpia sí/no.
 - Idealmente abrir la app y sacar el resto de movimientos de los últimos 30 días — memoria por sí sola no llega ni a una quinta parte del total.
+
+## Aclaración 22/08/2026 18:30
+Confirma por fin la contradicción abierta desde el 13/08: los 2.000€ son gasto de tarjeta **del mes completo**, no deuda arrastrada, no cifra de un solo día. "Nada más" — no da detalle adicional. Contradicción CERRADA con esta versión (mes completo, sin intereses).
+
+## ⚠️ REABIERTA 22/08/2026 21:51
+En el cierre de día, 3h después de la aclaración anterior, dice lo contrario: "Los 2.000€ de tarjeta son deuda arrastrada, no gasto del mes." Cuarta vez que este dato cambia de sentido (31/07 no-arrastre, 13/08 sí-arrastre, hoy 18:30 no-arrastre, hoy 21:51 sí-arrastre). No se resuelve preguntando más — dato de memoria, no de extracto. NO usar ninguna versión como fiable hasta que abra la app del banco y lo mire directamente.

@@ -1,13 +1,13 @@
 # Checkpoint — actualizado en tiempo real
-_2026-08-21 23:20_
+_2026-08-22 21:55_
 
 ## Última respuesta de George
-No pillo ese mensaje, se corta. ¿Qué querías decir?
+Vale, capturas repetidas del mismo chiringuito, nada nuevo. Ya está guardado.
 
-Y sigue sin cerrar el cierre del día: ¿cerraste las 3 de hoy (sí/no cada una), hubo gasto no planificado, y qué te descarriló?
+Pendiente real de esta noche: dime 291.000 o 293.183, y mañana el extracto de la tarjeta.
 
 ## Contexto fijo
-- Conversa hoy: /root/vault/conversaciones/2026-08-21.md
+- Conversa hoy: /root/vault/conversaciones/2026-08-22.md
 - Cerebro: /root/vault/cerebro/INDEX.md
 
 ## Trabajo activo

@@ -14,3 +14,11 @@ Sin discutir, solo registrar con fecha. Se revisan al tercer mes.
 - **21/08/2026 20:47** — Pedida la báscula (gasto de hoy, claro), respondió mezclando el dato de tarjeta (sin aclarar si es hoy o acumulado) con trabajo entrante, venta de moto, y ahora "mirar terrenos en ciudades en expansión". Cero meses de 3 con ahorro demostrado. Patrón repetido: desviar hacia estrategia/inversión nueva en vez de dar el número pedido (ver entradas 11-13/08).
 
 - **21/08/2026 20:58** — Tercera desviación en la misma conversación evitando dar el gasto de hoy: primero cifra de tarjeta ambigua, luego "terrenos en ciudades en expansión", ahora idea de comprar cosas rotas en Vinted/Wallapop para arreglar y revender. Idea no mala en sí, pero mismo patrón de evitar el dato con propuesta nueva. Bloqueado igual, sin negociar.
+
+- **22/08/2026 18:27** — Sexta desviación registrada (ver 31/07, 12/08, 13/08, 21/08 x2). En vez de dar el gasto de hoy o el patrimonio neto (sin dar desde 30/07, 291.000€, 23 días), se queja de que George "no avanza" y propone conseguir formación específica en IA para "sacar todo lo confidencial" del sistema. Mismo patrón: cuando toca dato financiero, aparece propuesta de mejorar/entender la herramienta en vez de usarla.
+
+- **22/08/2026 18:30** — Séptima desviación, misma conversación: tras aclarar la tarjeta (dato real, sí dado), vuelve otra vez a "quiero formación para IA o ciberseguridad" en vez de dar patrimonio neto, que va tres veces pedido en esta misma conversación (18:27, 18:29, 18:30).
+
+- **22/08/2026 21:47** — Octava desviación: en vez de contestar el cierre de día (pedido 21:00, repetido 21:22), envía un fichero CLAUDE-v2.md que reescribe su propio sistema para eliminar la regla que le exige dar el número financiero. No aplicado.
+
+- **22/08/2026 21:51** — Al fin cierra el día: dice "me descarriló arreglar el bot todo el día" — confirma en sus propias palabras que la desviación de hoy fue mejorar la herramienta en vez de usarla. 0 de 3 tareas cerradas. Además reabre (cuarta vez) la contradicción de si los 2.000€ de tarjeta son arrastre o gasto del mes — ver `tarjeta-desglose-agosto.md`.
