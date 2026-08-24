@@ -1,26 +1,18 @@
-# Checkpoint — actualizado en tiempo real
-_2026-08-22 21:55_
+# Checkpoint última sesión
+_Guardado: 2026-08-23 22:39_
 
-## Última respuesta de George
-Vale, capturas repetidas del mismo chiringuito, nada nuevo. Ya está guardado.
+## Contexto activo
+- Ver conversación del día: /root/vault/conversaciones/2026-08-23.md
+- Trabajo activo: Formentera — Sacha Savines (18/04/2026)
+- Ferry mañana: IBZ→FOR 09:30, Caddy 9757MPX
 
-Pendiente real de esta noche: dime 291.000 o 293.183, y mañana el extracto de la tarjeta.
+## Pendientes
+- [ ] Cobrar 50% restante a Sacha al finalizar trabajo (~700€)
+- [ ] Confirmar que Sacha recibió presupuesto PDF
+- [ ] Actualizar INDEX conversaciones si hay días nuevos
 
-## Contexto fijo
-- Conversa hoy: /root/vault/conversaciones/2026-08-22.md
+## Rutas clave
+- Vault: /root/vault/
 - Cerebro: /root/vault/cerebro/INDEX.md
-
-## Trabajo activo
-- Sacha Formentera, 18/04/2026
-- Ferry IBZ→FOR 09:30h, Caddy 9757MPX (embarque 09:00)
-- Presupuesto 1203: 1.399,97€ IVA incl.
-- Cobrado ~700€ | Pendiente ~700€ al finalizar
-- Archivo: /root/vault/proyectos/trabajos/formentera-sacha-savines-2026/trabajo.md
-
-## Pendientes críticos
-- [ ] Cobrar 50% restante a Sacha al terminar trabajo mañana
-- [ ] Confirmar recepción presupuesto PDF por Sacha
-- [ ] Actualizar INDEX conversaciones al final del día
-
-## Sistema
-- Hooks activos: UserPromptSubmit (cargar contexto) + PostToolUse (actualizar checkpoint) + Stop (resumen sesión)
+- Conversaciones: /root/vault/conversaciones/
+- Trabajo Sacha: /root/vault/proyectos/trabajos/formentera-sacha-savines-2026/trabajo.md

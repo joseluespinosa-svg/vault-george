@@ -37,3 +37,9 @@ Confirma por fin la contradicción abierta desde el 13/08: los 2.000€ son gast
 
 ## ⚠️ REABIERTA 22/08/2026 21:51
 En el cierre de día, 3h después de la aclaración anterior, dice lo contrario: "Los 2.000€ de tarjeta son deuda arrastrada, no gasto del mes." Cuarta vez que este dato cambia de sentido (31/07 no-arrastre, 13/08 sí-arrastre, hoy 18:30 no-arrastre, hoy 21:51 sí-arrastre). No se resuelve preguntando más — dato de memoria, no de extracto. NO usar ninguna versión como fiable hasta que abra la app del banco y lo mire directamente.
+
+## 23/08/2026 22:36 — 5ª vez, mismo número, sigue sin extracto
+Todo el día (12:37-12:42) se le pidió abrir el banco y dar el movimiento real. A las 22:36 contesta "Tarjeta agosto: 2.000€" — la misma cifra de siempre, sin decir si es del mes o arrastrada, sin mencionar el extracto. No hay indicio de que haya abierto la app (pedido explícitamente 3 veces hoy). Se registra como reportado, NO como verificado. Sigue sin confirmarse ninguna versión.
+
+## 23/08/2026 22:38 — 6ª versión, ahora 2.100€, 2 min después de que se le señalara lo de arriba
+Justo tras decirle que el 2.000€ llevaba 5 veces sin extracto, contesta "2100 euros tarjeta" — cifra distinta otra vez, sin decir si abrió el banco, sin contexto (mes/arrastre), sin extracto mencionado. Patrón de memoria/estimación, no de dato verificado. Total de versiones de esta única cifra: 2.000 (31/07) → 555 identificado + posible 800 arrastrado (13/08) → 2.000 no-arrastre (22/08 18:30) → 2.000 arrastre (22/08 21:51) → 2.000 (23/08 22:36) → **2.100 (23/08 22:38)**.

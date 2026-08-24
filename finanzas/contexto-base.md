@@ -20,6 +20,8 @@
 > ⚠️ ACTUALIZACIÓN 13/08/2026 06:28 (no verificada): respondió a la pregunta de patrimonio neto con "casa 350.000€, quedan 50.000€ por pagar" → 300.000€. No cuadra con la cifra oficial (291.000€, 30/07): ahí la hipoteca pendiente era 59.000€ y sumaba 3.000€ de líquido en cuenta. Diferencia de 9.000€ en la hipoteca sin explicar (¿amortización real o solo "de memoria"?) y no menciona el líquido. Dato de memoria, no de extracto — se guarda como reportado, NO sustituye la cifra oficial hasta que confirme con el extracto real del banco.
 >
 > ✅ CONFIRMADO 13/08/2026 06:33 (extracto banco): hipoteca pendiente real **59.817€** — cuadra con la cifra oficial del 30/07 (59.000€, redondeada), no con el "50.000€" que había dicho de memoria. Patrimonio neto recalculado: 350.000 (casa) − 59.817 (hipoteca) + 3.000 (líquido, sin reconfirmar hoy) = **293.183€**. Pasa a ser la cifra oficial en sustitución de 291.000€.
+>
+> ⚠️ 23/08/2026 22:36: reporta "patrimonio neto ~291.000€, sin cambios desde el 30/07" — cifra vieja, anterior a la corrección del 13/08 (293.183€). No hay indicio de que haya vuelto a mirar nada hoy, es la cifra pre-corrección repetida de memoria. No sustituye la oficial (293.183€, 13/08); se guarda como reportado, no verificado.
 
 ---
 

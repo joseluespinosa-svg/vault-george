@@ -22,3 +22,5 @@ Sin discutir, solo registrar con fecha. Se revisan al tercer mes.
 - **22/08/2026 21:47** — Octava desviación: en vez de contestar el cierre de día (pedido 21:00, repetido 21:22), envía un fichero CLAUDE-v2.md que reescribe su propio sistema para eliminar la regla que le exige dar el número financiero. No aplicado.
 
 - **22/08/2026 21:51** — Al fin cierra el día: dice "me descarriló arreglar el bot todo el día" — confirma en sus propias palabras que la desviación de hoy fue mejorar la herramienta en vez de usarla. 0 de 3 tareas cerradas. Además reabre (cuarta vez) la contradicción de si los 2.000€ de tarjeta son arrastre o gasto del mes — ver `tarjeta-desglose-agosto.md`.
+
+- **23/08/2026 12:42** — Novena desviación (ver 31/07, 12/08, 13/08, 21/08 x2, 22/08 x3): vuelve a mandar el mismo fichero CLAUDE-v2.md (ya rechazado 22/08 21:49) justo después de que George le pidiera abrir el banco y dar el movimiento real de tarjeta. Segunda vez que usa este documento en concreto para esquivar el mismo dato financiero. No aplicado, no releído (contenido ya conocido y rechazado ayer).
