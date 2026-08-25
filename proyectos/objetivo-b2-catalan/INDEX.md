@@ -1,5 +1,5 @@
 # Índice — proyectos/objetivo-b2-catalan
-_Generado: 2026-08-23 04:03_
+_Generado: 2026-08-24 04:02_
 
 ## Notas
 - [[oposicion-justicia|Track 2 — Oposición Justicia (solo logística hasta octubre 2026)]]
