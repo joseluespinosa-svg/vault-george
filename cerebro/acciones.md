@@ -1,5 +1,5 @@
 # ACCIONES — Sistema de ejecución
-_Actualizado: 2026-08-22
+_Actualizado: 2026-08-25
 
 ---
 
@@ -204,6 +204,17 @@ NOTAS: 31/07/2026 12:56-13:30 José Luis mandó fotos de varias barcas/kayak inf
 02/08/2026 11:10 — SEGUIMIENTO: José Luis manda capturas de la misma Zodiac Novurania (3,60m, motor Yamaha), ahora con precio: publicada a 2.000€, chat de Wallapop muestra que ya está negociando activamente — ofreció 1.600€ + un MacBook Pro, el vendedor pide 2.300€ o 1.800€+MacBook. Es decir: está regateando en firme DURANTE el propio periodo de 72h que él mismo tiene pendiente hasta mañana. Además él mismo dice que la quiere PLEGABLE (para meterla en un trastero) y esta no lo es — contradice su propio criterio. No dar visto bueno. Regla 72h sigue en pie hasta 2026-08-03.
 
 04/08/2026 08:54 — SEGUIMIENTO (audio, transcripción imperfecta): la regla 72h venció ayer 03/08 sin que él confirmara si sigue queriéndola o no. Menciona ahora dos opciones sin cerrar ("una de ~500€" y "una semirrígida de ~1000€") — cifras y modelos no coinciden con los de las capturas anteriores (Jago 700€, Zodiac 950€/2.000€), no fiable el detalle por audio. Sigue sin decidir. Pedida confirmación explícita: comprar sí/no y cuál.
+
+---
+
+TAREA: HOY 2026-08-25 — 3 tareas del día (barrido contestado 07:24)
+ESTADO: en curso
+RESPONSABLE: Jose Luis
+FECHA_LIMITE: 2026-08-25
+NOTAS:
+1. WhatsApp a Ginés pidiendo fecha exacta demanda desahucio — José Luis dice "ahora lo hago" (07:24). Comprometido para hoy. Comprobar más tarde si lo mandó.
+2. Simulacro expressió escrita B2 — José Luis dice "luego lo hago" (07:24). Comprometido para hoy, sin hora fija.
+3. Gasto de ayer (24/08): ✅ dado, 120€ comida semana — ver finanzas/gasto-diario.md. Patrimonio neto de hoy: sigue sin darlo (26 días desde 30/07).
 
 ---
 
