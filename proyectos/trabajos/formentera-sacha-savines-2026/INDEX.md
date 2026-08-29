@@ -1,5 +1,5 @@
 # Índice — proyectos/trabajos/formentera-sacha-savines-2026
-_Generado: 2026-08-27 04:03_
+_Generado: 2026-08-28 04:03_
 
 ## Notas
 - [[trabajo|Trabajo: Formentera — Sacha Savines 2026]]

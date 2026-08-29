@@ -1,5 +1,5 @@
 # Índice — finanzas
-_Generado: 2026-08-27 04:03_
+_Generado: 2026-08-28 04:03_
 
 ## Notas
 - [[2026-07|Finanzas — Julio 2026]]
