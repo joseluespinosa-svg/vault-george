@@ -1,5 +1,5 @@
 # ACCIONES — Sistema de ejecución
-_Actualizado: 2026-08-25
+_Actualizado: 2026-08-31
 
 ---
 
@@ -215,6 +215,16 @@ NOTAS:
 1. WhatsApp a Ginés pidiendo fecha exacta demanda desahucio — José Luis dice "ahora lo hago" (07:24). Comprometido para hoy. Comprobar más tarde si lo mandó.
 2. Simulacro expressió escrita B2 — José Luis dice "luego lo hago" (07:24). Comprometido para hoy, sin hora fija.
 3. Gasto de ayer (24/08): ✅ dado, 120€ comida semana — ver finanzas/gasto-diario.md. Patrimonio neto de hoy: sigue sin darlo (26 días desde 30/07).
+
+---
+
+---
+
+TAREA: Escribir a Ginés pidiendo fecha de demanda y plazo hasta lanzamiento
+ESTADO: comprometido para mañana 2026-09-01
+RESPONSABLE: Jose Luis
+FECHA_LIMITE: 2026-09-01
+NOTAS: Compromiso dado 31/08/2026 21:47. Pide recordatorio a las 09:00 del 01/09 — usar como tarea fija de las 08:00 (ver CLAUDE.md 2.1). Comprobar a los 3 días (04/09) si lo hizo, solo una vez (CIERRE DE BUCLE).
 
 ---
 

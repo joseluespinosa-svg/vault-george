@@ -41,3 +41,11 @@ DECISION: José Luis se inclina por NO darse de alta como autónomo (impuestos, 
 ACCIÓN: Pendiente de estudio conjunto — no resuelto, no ejecutar nada todavía. Ligado a por qué no tiene vía de facturación desde que cayó el primo Miguel (24/07/2026).
 PRIORIDAD: media
 
+---
+
+## [2026-08-31] Alta autónomo — investigación hecha, decisión el jueves
+
+DECISION: José Luis ya investigó las opciones. Tarifa plana ~88€/mes durante 12 meses, o bonificación por pluriactividad ~150€/mes 18 meses + ~225€/mes los 18 siguientes. Son incompatibles entre sí (una u otra). Decide el jueves (2026-09-03).
+ACCIÓN: No preguntar por esto antes del jueves 03/09. Ese día preguntar cuál elige, formato A/B.
+PRIORIDAD: media
+

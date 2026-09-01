@@ -1,5 +1,5 @@
 # Índice — cerebro
-_Generado: 2026-08-30 04:02_
+_Generado: 2026-08-31 04:03_
 
 ## Notas
 - [[acciones|ACCIONES — Sistema de ejecución]]
@@ -8,7 +8,7 @@ _Generado: 2026-08-30 04:02_
 - [[alertas|ALERTAS — Sistema inteligente]]
 - [[archivo|ARCHIVO — Histórico]]
 - [[causas|RAZONAMIENTO CAUSAL]]
-- [[checkpoint-ultimo|checkpoint-ultimo]]
+- [[checkpoint-ultimo|Checkpoint última sesión]]
 - [[checkpoint|Checkpoint última sesión]]
 - [[critico|CRÍTICO — Dinero, clientes, decisiones importantes]]
 - [[decisiones|DECISIONES — Motor automático]]
