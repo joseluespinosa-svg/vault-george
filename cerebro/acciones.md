@@ -135,6 +135,7 @@ ESTADO: en curso — ✅ contactado 22/07/2026
 RESPONSABLE: Jose Luis
 FECHA_LIMITE: —
 NOTAS: Higinio Muñoz, HM Advocats (higinio@hmadvocats.es). Tel: 971 72 68 44 / 609 316 486. Expediente JAC-188/26 contra AENA (caída de moto, aeropuerto Ibiza, 06/02/2025). José Luis llamó el 22/07/2026 — Higinio dijo que mandará el resultado por correo. PENDIENTE: revisar email cuando llegue.
+01/09/2026: José Luis lleva desde el 4/06 mandando mensajes de WhatsApp a Higinio pidiendo el resultado (4 jun, 29 jun, 30 jun, 11 ago) — solo un "estamos en ello" el 29/07, nada más. George le dio texto con ultimátum: laudo o fecha concreta antes del viernes 5/9, si no pide el expediente directo a la Junta Arbitral de Palma (C/ Jesús 38A). SIGUIENTE: comprobar el 5/9 o después si Higinio contestó; si no, empujar la llamada a la Junta Arbitral.
 
 ---
 
