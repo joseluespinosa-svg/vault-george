@@ -145,6 +145,10 @@ RESPONSABLE: Jose Luis
 FECHA_LIMITE: sin definir
 NOTAS: José Luis tiene pendiente un abogado para reclamar a BBVA los gastos de cancelación de una hipoteca. Faltan datos: nombre del abogado, importe reclamado, fecha de cancelación — pendiente de que José Luis los aporte.
 09/08/2026: dice "eso está en marcha" — sin aportar ninguno de los datos que faltaban. No cerrar la tarea, solo anotar que según él ya está en curso.
+02/09/2026 20:16: email de comovamicaso@ama... (gestoría/despacho que lleva la reclamación) con estado de DOS expedientes contra BBVA:
+- Gastos Hipotecarios: fase "Contestación a la Demanda" — demanda admitida, BBVA se ha opuesto. Próximo paso: Audiencia Previa (6 meses-1 año, algunos juzgados más de un año). Tras la audiencia, resolución ~3 meses después.
+- Seguro (vinculado a la hipoteca): fase "Declarativo" — demanda admitida, BBVA tiene 1 mes para contestar, luego audiencia.
+Sigue sin dato de importe reclamado. Es papeleo en curso vía juzgado, sin acción de José Luis pendiente ahora mismo — solo esperar. No cerrar la tarea (sigue abierta hasta resolución), pero quita la etiqueta "sin datos": ahora hay estado y plazos.
 
 ---
 

@@ -32,3 +32,10 @@ _Actualizado: 2026-08-31
 - MOTIVO: impago de alquiler (contrato vigente hasta marzo 2027, pero no paga)
 - [ ] Cita abogado desahucios mañana AM, Vara del Rey, Ibiza (120€, descontable) — va Ginés en representación de José Luis, llevando el contrato. Confirmar si MASC ya cumplido o falta trámite antes del pleito.
 - [ ] Ginés (amigo/abogado) cobra 1.000€ por llevar el pleito completo
+
+### 02/09/2026 — PISO ABANDONADO, confirmado por José Luis (entró a comprobar)
+- Ginés entró/comprobó el piso San Antonio: parece abandonado (Laura/Susan ya no están).
+- Ginés recomienda NO poner denuncia — dice que eso demoraría todo el proceso más. Decisión legal de Ginés, George no opina sobre la estrategia.
+- [x] PENDIENTE JOSÉ LUIS → GINÉS: mandarle facturas de luz y agua actualizadas — ✅ ENVIADO (confirmado 02/09/2026 21:33, "mandé todo")
+- [x] PENDIENTE JOSÉ LUIS → GINÉS: decirle las rentas debidas que NO sean las dos mensualidades — ✅ ENVIADO (confirmado 02/09/2026 21:33, "mandé todo")
+- [ ] SIGUIENTE: preguntar a Ginés qué hace falta ahora para recuperar la posesión formalmente (sin denuncia) y qué pasa con el pleito de desahucio ya iniciado — decisión suya, no de George.
