@@ -11,3 +11,5 @@ Regla (CLAUDE.md sección 5): se revisa cada viernes → hacer / delegar / matar
 - **13/08/2026 — Cómo sacar dinero con tarjeta de otro banco hacia Revolut.** Pregunta técnica suelta, salió en medio de aclarar los 800€ de tarjeta (sexto cambio de tema de la sesión). Aparcado hasta cerrar lo financiero abierto. Revisar viernes.
 
 - **21/08/2026** — "Mirar terrenos en ciudades en expansión" (idea mencionada al margen de la revisión financiera diaria, sin datos ni ahorro demostrado). Aparcado hasta barrido semanal — bloqueado además por regla del coach financiero (0/3 meses de ahorro).
+
+- **03/09/2026 — Mudarse él al piso San Antonio en vez de (o además de) alquilarlo dividido.** José Luis propone vivir allí para dejar de pagar su alquiler actual (1.000€/mes, su mitad de 2.000€ total con Karina) — cubriría casi toda la marca de ahorro de 1.000€/mes. Compatible con la idea de dividir la habitación grande: viviría en una parte y alquilaría la otra. Bloqueado por lo mismo que la división: falta que Ginés confirme recuperación legal formalizada del piso (no basta con que esté vacío) antes de entrar a vivir. Revisar viernes / en cuanto Ginés conteste.
