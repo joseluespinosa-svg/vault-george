@@ -1,5 +1,5 @@
 # Índice — Obsidian Vault
-_Generado: 2026-09-06 04:03_
+_Generado: 2026-09-07 04:03_
 
 ## Notas
 - [[Untitled|Untitled]]
