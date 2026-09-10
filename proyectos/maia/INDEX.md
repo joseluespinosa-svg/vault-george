@@ -1,5 +1,5 @@
 # Índice — proyectos/maia
-_Generado: 2026-09-08 04:03_
+_Generado: 2026-09-09 04:02_
 
 ## Notas
 - [[arquitectura-george-maia|ARQUITECTURA GEORGE ↔ MAIA — Documento fundacional]]
