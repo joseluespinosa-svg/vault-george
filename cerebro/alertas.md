@@ -1,5 +1,5 @@
 # ALERTAS — Sistema inteligente
-_Actualizado: 2026-09-04
+_Actualizado: 2026-09-13
 
 ---
 
