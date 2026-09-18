@@ -1,8 +1,9 @@
 # Índice — proyectos/busqueda-vivienda
-_Generado: 2026-09-16 04:03_
+_Generado: 2026-09-17 04:03_
 
 ## Notas
 - [[estructura-financiera|ESTRUCTURA FINANCIERA — COMPRA VIVIENDA]]
 - [[informe-2026-06-16|INFORME BÚSQUEDA VIVIENDA — 2026-06-16]]
 - [[opo-001-estrategia|OPO-001 — ESTRATEGIA COMPLETA]]
 - [[opo-004-005-figueretes|OPO-004 y OPO-005 — Figueretes/Platja d'En Bossa]]
+- [[estudio-arago-2026-09-17|Estudio Aragó — 5 opciones compra/venta, 17/09/2026]]
