@@ -4,12 +4,17 @@ Regla (CLAUDE.md sección 5): se revisa cada viernes → hacer / delegar / matar
 
 ---
 
-- **11/08/2026 — Auditoría de los 26 crons / 55 scripts.** José Luis: "alta probabilidad de redundancia, matar lo que no se use hace 30 días". Propuesto como tarea SEMANA, pero aparcado: apareció como desvío mientras George preguntaba por el desglose de un gasto de 500€ (patrón anti-desvío, CLAUDE.md sección 10). Revisar viernes.
-- **11/08/2026 — Analizador de patrones sobre 119 días de conversaciones.** José Luis: cuántas veces desvió hacia herramientas cuando tocaba dinero, top 3 temas esquivados, tareas que más se arrastran. Propuesto como tarea MES, aparcado por el mismo motivo. Nota: es una idea con valor real (mide justo el patrón anti-desvío), pero no se construye a cambio de esquivar la revisión financiera de hoy. Revisar viernes si sigue queriéndola.
 - **13/08/2026 — Dividir el piso San Antonio en dos habitaciones para alquilar.** Ya apuntado como opción 3 sin definir en `finanzas/contexto-base.md` (subarriendo, revisar contrato). Aparcado: salió como tercer cambio de tema en 25 minutos (patrimonio → "siguiente paso a la meta" → esto), sin cerrar el IBI/basuras ni el desglose de tarjeta pedidos antes. Además el piso sigue ocupado por Laura/Susan en desahucio — no es ejecutable hasta que esté vacío. Revisar viernes.
   - **DESBLOQUEADO 02/09/2026:** piso confirmado vacío/abandonado (ver `critico.md`). José Luis ya mandó un plano (.dwg, no se pudo abrir) pidiendo ayuda para meter dos habitaciones pequeñas dentro de la habitación grande. Pendiente: que reenvíe el plano en foto/PDF. Sale de parking a activo en cuanto llegue el plano legible.
-- **13/08/2026 — Cómo sacar dinero con tarjeta de otro banco hacia Revolut.** Pregunta técnica suelta, salió en medio de aclarar los 800€ de tarjeta (sexto cambio de tema de la sesión). Aparcado hasta cerrar lo financiero abierto. Revisar viernes.
 
-- **21/08/2026** — "Mirar terrenos en ciudades en expansión" (idea mencionada al margen de la revisión financiera diaria, sin datos ni ahorro demostrado). Aparcado hasta barrido semanal — bloqueado además por regla del coach financiero (0/3 meses de ahorro).
 
 - **03/09/2026 — Mudarse él al piso San Antonio en vez de (o además de) alquilarlo dividido.** José Luis propone vivir allí para dejar de pagar su alquiler actual (1.000€/mes, su mitad de 2.000€ total con Karina) — cubriría casi toda la marca de ahorro de 1.000€/mes. Compatible con la idea de dividir la habitación grande: viviría en una parte y alquilaría la otra. Bloqueado por lo mismo que la división: falta que Ginés confirme recuperación legal formalizada del piso (no basta con que esté vacío) antes de entrar a vivir. Revisar viernes / en cuanto Ginés conteste.
+
+---
+
+## Matados (barrido 18/09/2026, retirados de la lista 02/10/2026)
+- Auditoría de crons/scripts (11/08)
+- Analizador de patrones (11/08)
+- Sacar dinero de tarjeta de otro banco a Revolut (13/08)
+- Terrenos en ciudades en expansión (21/08)
+No se reabren salvo que José Luis los traiga él.
