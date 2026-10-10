@@ -18,3 +18,8 @@ Regla (CLAUDE.md sección 5): se revisa cada viernes → hacer / delegar / matar
 - Sacar dinero de tarjeta de otro banco a Revolut (13/08)
 - Terrenos en ciudades en expansión (21/08)
 No se reabren salvo que José Luis los traiga él.
+
+## Barrido 09/10/2026
+- Dividir habitación SA → HACER, cambio de método: 3 medidas a metro (largo, ancho, ventana) en vez del plano.
+- Mudarse a SA → HACER: pregunta a Ginés (texto enviado en msg 8673).
+- Almohada Dscanso (parking/ideas-compras.md) → MATAR propuesto.
