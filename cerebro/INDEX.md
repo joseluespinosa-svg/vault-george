@@ -1,5 +1,5 @@
 # Índice — cerebro
-_Generado: 2026-10-14 04:02_
+_Generado: 2026-10-15 04:03_
 
 ## Notas
 - [[acciones|ACCIONES — Sistema de ejecución]]
@@ -15,4 +15,5 @@ _Generado: 2026-10-14 04:02_
 - [[escenarios|SIMULADOR DE ESCENARIOS]]
 - [[incidente-2026-07-29|Incidente — Canal Telegram roto y reiniciado — 29/07/2026]]
 - [[parking|PARKING — aparcado para revisar en barrido semanal (viernes)]]
+- [[pendientes-fechas|pendientes-fechas]]
 - [[perfil-cognitivo|PERFIL COGNITIVO DINÁMICO — José Luis Espinosa]]
