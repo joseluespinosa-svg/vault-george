@@ -1,5 +1,5 @@
 # Índice — proyectos/trabajos
-_Generado: 2026-10-15 04:03_
+_Generado: 2026-10-16 04:02_
 
 ## Subcarpetas
 - [[formentera-sacha-savines-2026/INDEX|formentera-sacha-savines-2026/]]

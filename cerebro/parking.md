@@ -23,3 +23,10 @@ No se reabren salvo que José Luis los traiga él.
 - Dividir habitación SA → HACER, cambio de método: 3 medidas a metro (largo, ancho, ventana) en vez del plano.
 - Mudarse a SA → HACER: pregunta a Ginés (texto enviado en msg 8673).
 - Almohada Dscanso (parking/ideas-compras.md) → MATAR propuesto.
+
+## Barrido 16/10/2026
+- Mudarse a SA → HACER: WhatsApp a Ginés (texto 09/10), no consta enviado.
+- Dividir habitación SA → HACER, después de Ginés (3 medidas: largo, ancho, ventana).
+- Grifo (maneral, estimado A) → HACER: llevar foto a ferretería.
+- Almohada Dscanso → MATADA (propuesta 09/10 sin objeción).
+- Calle Canarias 544,50€ → MATAR propuesto (sin aceptar desde 06/08).
