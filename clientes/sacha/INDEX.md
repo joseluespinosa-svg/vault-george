@@ -1,5 +1,5 @@
 # Índice — clientes/sacha
-_Generado: 2026-10-21 04:01_
+_Generado: 2026-10-22 04:02_
 
 ## Notas
 - [[ficha-sacha|Ficha Cliente — Sacha]]
