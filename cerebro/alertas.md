@@ -74,7 +74,7 @@ CONFIRMADO 27/07/2026: convocatoria extraordinaria EOI Eivissa, septiembre 2026,
 Red de seguridad: CAIB enero 2027, inscripción 15-31 octubre 2026, caib.es (17€).
 FECHA CONFIRMADA (30/07/2026): prueba escrita 12 de septiembre de 2026. Hilo cerrado.
 ACCIÓN: 80% del tiempo de estudio en expressió escrita, objetivo ≥70/100. Simulacro completo semanal (empezó 27/07 por la tarde). Ver base de datos de errores en el plan.
-ACCIÓN 15 OCTUBRE: recordar inscripción CAIB enero 2027 (cierra 31/10).
+~~ACCIÓN 15 OCTUBRE: recordar inscripción CAIB enero 2027 (cierra 31/10).~~ ANULADO 21/10/2026: matrícula B2 CAIB real es 09–22/12/2026 (examen escrito 20/02/2027). Recordar el 09/12/2026.
 Ver [[../proyectos/objetivo-b2-catalan/plan|plan de estudio B2]].
 
 ---

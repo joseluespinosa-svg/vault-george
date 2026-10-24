@@ -30,3 +30,9 @@ No se reabren salvo que José Luis los traiga él.
 - Grifo (maneral, estimado A) → HACER: llevar foto a ferretería.
 - Almohada Dscanso → MATADA (propuesta 09/10 sin objeción).
 - Calle Canarias 544,50€ → MATAR propuesto (sin aceptar desde 06/08).
+
+## Barrido 23/10/2026
+- Mudarse a SA → HACER: WhatsApp a Ginés, sigue sin constar enviado.
+- Dividir habitación SA → HACER tras Ginés (3 medidas).
+- Grifo maneral → HACER: ferretería sábado 24/10.
+- Calle Canarias 544,50€ → MATADO (propuesto 16/10 sin objeción).
