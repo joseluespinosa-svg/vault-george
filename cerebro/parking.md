@@ -36,3 +36,8 @@ No se reabren salvo que José Luis los traiga él.
 - Dividir habitación SA → HACER tras Ginés (3 medidas).
 - Grifo maneral → HACER: ferretería sábado 24/10.
 - Calle Canarias 544,50€ → MATADO (propuesto 16/10 sin objeción).
+
+## Barrido 30/10/2026
+- Mudarse a SA → HACER: WhatsApp a Ginés, sigue sin constar enviado.
+- Dividir habitación SA → HACER tras Ginés (3 medidas).
+- Grifo maneral → HACER: ferretería sábado 31/10; si el 06/11 sigue igual, MATAR.
