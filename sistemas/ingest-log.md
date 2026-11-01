@@ -19,3 +19,11 @@
   > - **Contenido:** solo enlaza una subcarpeta, `telegram/`, que tiene su propio índice. No hay notas sueltas en el inbox.
   > - **Para qué sirve:** es el punto de entrada para ver qué ha llegado sin clasificar, sobre todo desde Telegram.
   > - **Siguiente paso:** abrir `inbox/telegram/INDEX.md` y mover cada elemento pendiente a su sitio (finanzas, proyectos o parking). Si no hay nada, este índice no requiere ninguna acción.
+
+## 2026-10-31 04:30
+
+### `INDEX.md`
+- Movido a: `processed/INDEX_20261031_043008.md`
+- Tamaño: 93 chars
+- Resumen:
+  > [Error Claude: sin salida]
