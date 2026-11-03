@@ -1,5 +1,5 @@
 # Índice — proyectos/plan-financiero-2026
-_Generado: 2026-11-01 04:02_
+_Generado: 2026-11-02 04:01_
 
 ## Notas
 - [[CONTEXTO_IA|CONTEXTO COMPLETO — Plan Financiero José Luis 2026]]
