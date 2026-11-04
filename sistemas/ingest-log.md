@@ -43,3 +43,11 @@
 - Tamaño: 93 chars
 - Resumen:
   > [Error Claude: sin salida]
+
+## 2026-11-03 04:30
+
+### `INDEX.md`
+- Movido a: `processed/INDEX_20261103_043009.md`
+- Tamaño: 93 chars
+- Resumen:
+  > [Error Claude: sin salida]
