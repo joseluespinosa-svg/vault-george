@@ -1,5 +1,5 @@
 # Índice — parking
-_Generado: 2026-11-03 04:02_
+_Generado: 2026-11-04 04:02_
 
 ## Notas
 - [[ideas-compras|2026-10-04 — Almohada personalizada Dscanso]]
