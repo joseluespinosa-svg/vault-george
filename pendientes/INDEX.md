@@ -1,5 +1,5 @@
 # Índice — pendientes
-_Generado: 2026-11-04 04:02_
+_Generado: 2026-11-05 04:02_
 
 ## Notas
 - [[reclamacion-vueling-13564510|Reclamación Vueling — caso 13564510]]
