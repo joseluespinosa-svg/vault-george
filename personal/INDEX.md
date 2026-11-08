@@ -1,5 +1,5 @@
 # Índice — personal
-_Generado: 2026-11-06 04:02_
+_Generado: 2026-11-07 04:02_
 
 ## Subcarpetas
 - [[alquiler-ibiza/INDEX|alquiler-ibiza/]]
