@@ -1,5 +1,5 @@
 # Índice — documentos
-_Generado: 2026-11-08 04:03_
+_Generado: 2026-11-09 04:02_
 
 ## Subcarpetas
 - [[2026-10/INDEX|2026-10/]]

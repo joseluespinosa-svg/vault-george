@@ -11,3 +11,4 @@ Formato: `FECHA | importe €`
 2026-08-23 | SIN DATO — no contestó barrido ni cierre ese día.
 2026-08-24 | 120€ (comida de la semana) — planificado, encaja en la partida "Comida 300€/mes" de gastos-base.md.
 
+2026-11-09 | 137€ (Lidl, súper 4 días; ~45€ fuera de lista = no planificado; presupuesto era 80-100€) — confirmado por José Luis 20:40, sin más gastos

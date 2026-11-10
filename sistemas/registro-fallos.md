@@ -21,3 +21,9 @@ Formato: `FECHA HORA | qué falló | cómo se detectó | qué pasó`
 2026-10-30 19:00 | Mensaje del gasto 21:30 rechazado con 401 las 6 noches del 24 al 29/10: cierre_interactivo.sh usa BOT_TOKEN de /root/assistant/.env, distinto del token válido del plugin y del crontab; el log escribe "enviado" aunque falle | Barrido semanal, logs/cierre_interactivo.log | Sin cambios hechos. Pendiente de sí/no de José Luis (msg 8778).
 2026-10-30 19:00 | heartbeat_canal.sh mata y relanza la sesión george cada hora (163 veces del 24 al 30/10): cero "OK canal vivo" en todo el log desde el 30/07. Envía la marca HB- con el BOT_TOKEN malo y, aunque fuera bueno, un bot no recibe sus propios mensajes, así que nunca puede pasar. Causa probable de mensajes perdidos. OJO: corregir solo el token haría llegar un HB- por hora al chat de José Luis; hay que parar antes el relanzado/envío | Barrido semanal, logs/heartbeat_canal.log | Sin cambios hechos. Pendiente de sí/no (msg 8778).
 2026-10-30 19:00 | 29/10 08:05 en adelante: watchdog hizo 30 reinicios y 10 STOP; el tope de 3 reintentos no aguanta, tras cada STOP vuelve a reiniciar. Además el MCP telegram cayó y msgs 8770-8772 quedaron sin respuesta | Barrido semanal, logs/watchdog.log | Sin cambios hechos.
+
+## 2026-11-09 — Token Telegram obsoleto en .env y heartbeat.sh
+- Síntoma: heartbeat 08:00 con 401 Unauthorized desde al menos 06/11; heartbeat_canal.sh marcaba "CANAL COLGADO" cada hora y relanzaba la sesión (sin que el canal estuviera colgado: el HB- nunca se enviaba).
+- Causa: BOT_TOKEN de /root/assistant/.env y heartbeat.sh no válido; el del cron sí lo era.
+- Arreglo: token válido en .env y heartbeat.sh (backups .bak-2026-11-09). Analizador semanal: error completo (código+stderr+stdout), token leído de .env, cron movido a domingo 06:00.
+- Pendiente: telegram_bot.py y briefing_proactivo.sh tienen un token literal distinto; comprobar si se usan.
