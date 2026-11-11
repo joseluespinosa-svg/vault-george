@@ -99,3 +99,11 @@
 - Tamaño: 93 chars
 - Resumen:
   > [Error Claude: sin salida]
+
+## 2026-11-10 04:30
+
+### `INDEX.md`
+- Movido a: `processed/INDEX_20261110_043012.md`
+- Tamaño: 93 chars
+- Resumen:
+  > Es el índice de la carpeta `inbox` del vault, generado automáticamente el 10/11/2026 a las 04:02. No tiene contenido propio: solo enlaza a una subcarpeta, `telegram/`, que tiene su propio índice. Sirve para encontrar lo que entra por Telegram. Lo único que puedes hacer es abrir `telegram/INDEX` para ver si quedan entradas sin archivar.
