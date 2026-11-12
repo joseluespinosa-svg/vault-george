@@ -107,3 +107,14 @@
 - Tamaño: 93 chars
 - Resumen:
   > Es el índice de la carpeta `inbox` del vault, generado automáticamente el 10/11/2026 a las 04:02. No tiene contenido propio: solo enlaza a una subcarpeta, `telegram/`, que tiene su propio índice. Sirve para encontrar lo que entra por Telegram. Lo único que puedes hacer es abrir `telegram/INDEX` para ver si quedan entradas sin archivar.
+
+## 2026-11-11 04:30
+
+### `INDEX.md`
+- Movido a: `processed/INDEX_20261111_043011.md`
+- Tamaño: 93 chars
+- Resumen:
+  > - Es un índice autogenerado (11/11/2026, 04:03) de la carpeta `inbox` del vault.
+  > - Solo apunta a una subcarpeta: `telegram/`, con su propio índice.
+  > - Sirve para moverse por Obsidian. No tiene datos propios ni pendientes.
+  > - Acción: ninguna sobre este archivo. Si hay algo que procesar, está en `inbox/telegram/INDEX.md`.
