@@ -118,3 +118,14 @@
   > - Solo apunta a una subcarpeta: `telegram/`, con su propio índice.
   > - Sirve para moverse por Obsidian. No tiene datos propios ni pendientes.
   > - Acción: ninguna sobre este archivo. Si hay algo que procesar, está en `inbox/telegram/INDEX.md`.
+
+## 2026-11-12 04:30
+
+### `INDEX.md`
+- Movido a: `processed/INDEX_20261112_043009.md`
+- Tamaño: 93 chars
+- Resumen:
+  > - **Qué es:** el índice autogenerado de la carpeta `inbox` del vault, creado el 12/11/2026 a las 04:03.
+  > - **Qué contiene:** solo enlaza a una subcarpeta, `telegram/`, que tiene su propio índice. En la raíz de `inbox` no hay archivos sueltos.
+  > - **Para qué sirve:** sirve para moverse por la bandeja de entrada. Lo que llega por Telegram cae ahí antes de clasificarse.
+  > - **Acción sugerida:** abrir `telegram/INDEX.md` y mover cada elemento pendiente a su sitio (finanzas, proyectos o parking) para que el inbox no se acumule.
