@@ -129,3 +129,14 @@
   > - **Qué contiene:** solo enlaza a una subcarpeta, `telegram/`, que tiene su propio índice. En la raíz de `inbox` no hay archivos sueltos.
   > - **Para qué sirve:** sirve para moverse por la bandeja de entrada. Lo que llega por Telegram cae ahí antes de clasificarse.
   > - **Acción sugerida:** abrir `telegram/INDEX.md` y mover cada elemento pendiente a su sitio (finanzas, proyectos o parking) para que el inbox no se acumule.
+
+## 2026-11-13 04:30
+
+### `INDEX.md`
+- Movido a: `processed/INDEX_20261113_043010.md`
+- Tamaño: 93 chars
+- Resumen:
+  > Es el índice automático de la carpeta `inbox` del vault, generado hoy (13/11/2026) a las 04:03.
+  > - **Contenido:** un único enlace a la subcarpeta `telegram/`. No incluye notas propias.
+  > - **Para qué sirve:** desde aquí se llega a lo que entra por Telegram, como documentos y mensajes recibidos.
+  > - **Qué hacer:** nada en este archivo. Lo que haya que procesar está en `inbox/telegram/INDEX.md`, y ese es el siguiente que hay que revisar.

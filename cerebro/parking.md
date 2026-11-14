@@ -41,3 +41,10 @@ No se reabren salvo que José Luis los traiga él.
 - Mudarse a SA → HACER: WhatsApp a Ginés, sigue sin constar enviado.
 - Dividir habitación SA → HACER tras Ginés (3 medidas).
 - Grifo maneral → HACER: ferretería sábado 31/10; si el 06/11 sigue igual, MATAR.
+
+## Barrido 13/11/2026
+- Grifo maneral → MATADO (plazo 06/11 vencido sin novedad).
+- Mudarse a SA → HACER: WhatsApp a Ginés, sigue sin constar enviado (desde 09/10).
+- Dividir habitación SA → HACER tras Ginés (3 medidas).
+- Madera armarios SA (09/11) → APARCADO hasta posesión formal.
+- Gym próxima sesión (09/11) → HACER: fijar día de piernas.

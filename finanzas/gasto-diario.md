@@ -12,3 +12,7 @@ Formato: `FECHA | importe €`
 2026-08-24 | 120€ (comida de la semana) — planificado, encaja en la partida "Comida 300€/mes" de gastos-base.md.
 
 2026-11-09 | 137€ (Lidl, súper 4 días; ~45€ fuera de lista = no planificado; presupuesto era 80-100€) — confirmado por José Luis 20:40, sin más gastos
+2026-11-10 | 34€ ESTIMADO (media 137€/4 días; sin respuesta tras 2 peticiones; posible solape con Lidl 09/11)
+2026-11-11 | 34€ ESTIMADO (ídem)
+2026-11-12 | 34€ ESTIMADO (ídem, propuesto 13/11 08:00 sin respuesta)
+- Tinsa tasación Don Pepe: 388,77€ pagada (mencionada 09/11, fecha de pago sin dato)
