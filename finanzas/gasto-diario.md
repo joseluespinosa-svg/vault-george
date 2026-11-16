@@ -16,3 +16,4 @@ Formato: `FECHA | importe €`
 2026-11-11 | 34€ ESTIMADO (ídem)
 2026-11-12 | 34€ ESTIMADO (ídem, propuesto 13/11 08:00 sin respuesta)
 - Tinsa tasación Don Pepe: 388,77€ pagada (mencionada 09/11, fecha de pago sin dato)
+2026-11-14 | 150€ (confirmado por José Luis 15/11 14:47, sin desglose)
