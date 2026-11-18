@@ -173,3 +173,14 @@
   > - Solo apunta a una subcarpeta: `telegram/`, que tiene su propio índice. Aquí no hay contenido real.
   > - Sirve para navegar dentro del vault. Lo que importa está en `inbox/telegram/INDEX.md`.
   > - Siguiente paso: abrir `inbox/telegram/INDEX.md` y pasar a su sitio en el vault todo lo que haya sin procesar (gastos a finanzas, compromisos a tareas).
+
+## 2026-11-17 04:30
+
+### `INDEX.md`
+- Movido a: `processed/INDEX_20261117_043014.md`
+- Tamaño: 93 chars
+- Resumen:
+  > - Es un índice que se genera solo (17/11/2026, 04:02) para la carpeta `inbox` del vault.
+  > - No tiene contenido propio. Solo enlaza a una subcarpeta, `telegram/`, que tiene su propio INDEX.
+  > - Sirve para moverse por el vault: lo que entra por Telegram se guarda ahí antes de procesarlo.
+  > - No hay nada que hacer con este archivo. Si hay algo pendiente, estará en `inbox/telegram/INDEX.md`, no aquí.
