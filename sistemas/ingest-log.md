@@ -184,3 +184,14 @@
   > - No tiene contenido propio. Solo enlaza a una subcarpeta, `telegram/`, que tiene su propio INDEX.
   > - Sirve para moverse por el vault: lo que entra por Telegram se guarda ahí antes de procesarlo.
   > - No hay nada que hacer con este archivo. Si hay algo pendiente, estará en `inbox/telegram/INDEX.md`, no aquí.
+
+## 2026-11-18 04:30
+
+### `INDEX.md`
+- Movido a: `processed/INDEX_20261118_043013.md`
+- Tamaño: 93 chars
+- Resumen:
+  > Es el índice autogenerado de la carpeta `inbox` del vault (creado hoy, 18/11 a las 04:02).
+  > - Solo tiene un enlace, a la subcarpeta `telegram/`, que tiene su propio índice.
+  > - Sirve para moverse por el vault. No trae datos, tareas ni importes.
+  > - No hay nada que hacer con este archivo. Si hay algo pendiente, estará dentro de `inbox/telegram/`.
