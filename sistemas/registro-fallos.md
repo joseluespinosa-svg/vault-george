@@ -28,3 +28,4 @@ Formato: `FECHA HORA | qué falló | cómo se detectó | qué pasó`
 - Arreglo: token válido en .env y heartbeat.sh (backups .bak-2026-11-09). Analizador semanal: error completo (código+stderr+stdout), token leído de .env, cron movido a domingo 06:00.
 - Pendiente: telegram_bot.py y briefing_proactivo.sh tienen un token literal distinto; comprobar si se usan.
 2026-11-13 19:00 | heartbeat_canal.sh sigue relanzando la sesión 24 veces/día (163 del 07 al 13/11) pese al arreglo del token del 09/11; 0 "OK canal vivo" desde 30/07. Mensaje 08:00 no consta 07–09/11 | Barrido semanal, logs/heartbeat_canal.log | Sin cambios hechos.
+2026-11-20 19:00 | Cron 08:00 sigue pidiendo el barrido diario antiguo (7/7 días). heartbeat_canal.sh: 39 relanzamientos 14-15/11, cron comentado desde 15/11 ~14:20 (sin constancia en vault de quién lo desactivó) | Barrido semanal | Sin cambios hechos.

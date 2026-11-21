@@ -17,3 +17,7 @@ Formato: `FECHA | importe €`
 2026-11-12 | 34€ ESTIMADO (ídem, propuesto 13/11 08:00 sin respuesta)
 - Tinsa tasación Don Pepe: 388,77€ pagada (mencionada 09/11, fecha de pago sin dato)
 2026-11-14 | 150€ (confirmado por José Luis 15/11 14:47, sin desglose)
+2026-11-15 | 34€ ESTIMADO (media Lidl 09/11; pedido 18/11 y 19/11 sin respuesta, no se vuelve a preguntar)
+2026-11-16 | 34€ ESTIMADO (ídem)
+2026-11-17 | 34€ ESTIMADO (ídem)
+2026-11-18 | 34€ ESTIMADO (ídem)

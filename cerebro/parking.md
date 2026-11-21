@@ -48,3 +48,10 @@ No se reabren salvo que José Luis los traiga él.
 - Dividir habitación SA → HACER tras Ginés (3 medidas).
 - Madera armarios SA (09/11) → APARCADO hasta posesión formal.
 - Gym próxima sesión (09/11) → HACER: fijar día de piernas.
+
+## Barrido 20/11/2026 (propuesto, pendiente de sí/no, msg 8986)
+- Mudarte a SA → HACER: WhatsApp a Ginés ("¿puedo entrar ya al piso del Far?"), sin enviar desde 09/10. Única tarea 08:00 la semana próxima.
+- Dividir habitación SA → APARCADO tras Ginés.
+- Madera armarios SA → APARCADO hasta posesión.
+- Gym día de piernas → MATAR propuesto.
+- Comparativa rehipoteca (15/11) → MATAR propuesto hasta 3 meses de ahorro registrado.
