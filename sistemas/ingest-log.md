@@ -218,3 +218,14 @@
   > Sirve para entrar en lo que llega por Telegram antes de clasificarlo.
   > 
   > Acción: ninguna sobre este archivo. Lo que hay que revisar está en `inbox/telegram/INDEX.md`, por si hay documentos sin procesar.
+
+## 2026-11-21 04:30
+
+### `INDEX.md`
+- Movido a: `processed/INDEX_20261121_043011.md`
+- Tamaño: 93 chars
+- Resumen:
+  > - Es un índice que el sistema genera solo para la carpeta `inbox` del vault (creado el 21/11/2026 a las 04:02).
+  > - No tiene contenido propio: lo único que hace es enlazar a la subcarpeta `telegram/`, que es donde se guardan los documentos que llegan por Telegram.
+  > - Sirve para moverse por Obsidian. No hay que hacer nada con él.
+  > - Si buscas un documento concreto, está en `inbox/telegram/`.
