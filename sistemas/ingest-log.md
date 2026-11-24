@@ -240,3 +240,14 @@
   > - No tiene notas propias. Solo enlaza a la subcarpeta `telegram/`.
   > - Sirve para navegar en Obsidian hasta lo que entra por Telegram.
   > - Acción: revisar `inbox/telegram/INDEX.md` y mover lo que haya sin procesar a su carpeta definitiva o al Parking.
+
+## 2026-11-23 04:30
+
+### `INDEX.md`
+- Movido a: `processed/INDEX_20261123_043012.md`
+- Tamaño: 93 chars
+- Resumen:
+  > - Es el índice autogenerado de la carpeta `inbox` del vault (creado hoy, 23/11/2026, a las 04:02).
+  > - Solo enlaza a una subcarpeta, `telegram/`. No tiene contenido propio.
+  > - Sirve para navegar entre notas, no guarda información.
+  > - No hay que hacer nada con él. Si quieres ver qué ha entrado, el contenido real está en `inbox/telegram/INDEX.md`.

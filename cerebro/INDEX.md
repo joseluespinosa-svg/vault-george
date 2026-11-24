@@ -1,5 +1,5 @@
 # Índice — cerebro
-_Generado: 2026-11-22 04:03_
+_Generado: 2026-11-23 04:02_
 
 ## Notas
 - [[acciones|ACCIONES — Sistema de ejecución]]
