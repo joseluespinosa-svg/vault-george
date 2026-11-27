@@ -21,3 +21,4 @@ Formato: `FECHA | importe €`
 2026-11-16 | 34€ ESTIMADO (ídem)
 2026-11-17 | 34€ ESTIMADO (ídem)
 2026-11-18 | 34€ ESTIMADO (ídem)
+2026-11-19 a 2026-11-25 | 238€ ESTIMADO (34€/día, media Lidl 09/11; sin dato, propuesto 26/11 08:00 para que confirme o corrija)
