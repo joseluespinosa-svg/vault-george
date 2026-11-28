@@ -282,3 +282,14 @@
 - Tamaño: 93 chars
 - Resumen:
   > Este archivo es el índice autogenerado de la carpeta `inbox/` del vault, creado el 26/11/2026 a las 04:03. No contiene notas propias: solo enlaza a una subcarpeta, `telegram/`, que tiene su propio índice. Sirve para moverse por la bandeja de entrada, donde caen los mensajes y documentos que llegan por Telegram. Siguiente paso: abrir `inbox/telegram/INDEX.md` y comprobar si hay documentos sin procesar. Lo que haya ahí se archiva en su carpeta.
+
+## 2026-11-27 04:30
+
+### `INDEX.md`
+- Movido a: `processed/INDEX_20261127_043013.md`
+- Tamaño: 93 chars
+- Resumen:
+  > - **Qué es:** el índice autogenerado de la carpeta `inbox` del vault, creado el 27/11/2026 a las 04:03.
+  > - **Qué contiene:** nada aparte de un enlace a la subcarpeta `telegram/`. No hay notas sueltas en el inbox.
+  > - **Para qué sirve:** es una página de navegación para llegar a lo que entra por Telegram. Por sí solo no tiene información.
+  > - **Acción:** abrir `inbox/telegram/INDEX.md` y repasar lo que haya ahí sin procesar. Lo que lleve más de 7 días sin procesar se archiva o se borra.

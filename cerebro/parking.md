@@ -55,3 +55,10 @@ No se reabren salvo que José Luis los traiga él.
 - Madera armarios SA → APARCADO hasta posesión.
 - Gym día de piernas → MATAR propuesto.
 - Comparativa rehipoteca (15/11) → MATAR propuesto hasta 3 meses de ahorro registrado.
+
+## Barrido 27/11/2026 (msg 9016)
+- Gym día de piernas → MATADO (propuesto 20/11 sin objeción).
+- Comparativa rehipoteca → MATADA hasta 3 meses de ahorro registrado (propuesto 20/11 sin objeción).
+- Dividir habitación SA → APARCADO tras Ginés.
+- Madera armarios SA → APARCADO hasta posesión.
+- Mudarse a SA → HACER, cambio de método: DELEGAR en Karina el WhatsApp a Ginés (pendiente sí/no). Fuera de las 08:00 desde 27/11 (WhatsApp 21/11, llamada 23-24/11, nota de voz 25/11 sin "hecho").
